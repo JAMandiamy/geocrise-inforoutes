@@ -1,0 +1,39 @@
+name: Mise a jour Bison Fute
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # toutes les 15 minutes (heure UTC)
+  workflow_dispatch:          # bouton "Run workflow" pour lancer a la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: maj-bison-fute
+  cancel-in-progress: false
+
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Conversion DATEX II -> GeoJSON
+        run: python convert.py
+
+      - name: Enregistrer si les donnees ont change
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add *.geojson
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Mise a jour Bison Fute $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
