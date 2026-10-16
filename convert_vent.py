@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Vent à 10 m en temps réel (Open-Meteo, modèle Météo-France AROME/ARPEGE)
-sur une grille de points, converti en GeoJSON (WGS84) :
-  - geocrise_vent_10m.geojson
+sur une grille, converti en GeoJSON (WGS84) :
+  - geocrise_vent_10m.geojson         : points (centres de maille, pour les flèches)
+  - geocrise_vent_10m_mailles.geojson : mailles carrées (polygones), mêmes champs
 
 Champs : vitesse (km/h), rafales (km/h), direction d'où vient le vent (°),
 direction vers où il souffle (° - à utiliser pour la rotation des flèches),
@@ -27,6 +28,7 @@ PAS = 0.25
 # ===========================================================================
 
 SORTIE = "geocrise_vent_10m.geojson"
+SORTIE_MAILLES = "geocrise_vent_10m_mailles.geojson"
 API = "https://api.open-meteo.com/v1/forecast"
 MODELE = "meteofrance_seamless"
 LOT = 50                 # points par requête
@@ -46,7 +48,7 @@ def grille():
 
 
 def trop_recent():
-    if os.getenv("VENT_FORCER"):
+    if os.getenv("VENT_FORCER") or not os.path.exists(SORTIE_MAILLES):
         return False
     try:
         with open(SORTIE, encoding="utf-8") as f:
@@ -124,11 +126,27 @@ def main():
             })
     if not feats:
         sys.exit("Aucune donnée de vent reçue - fichier conservé.")
-    out = {"type": "FeatureCollection",
-           "maj_script": datetime.now(timezone.utc).isoformat(),
-           "features": feats}
+    maj = datetime.now(timezone.utc).isoformat()
+    out = {"type": "FeatureCollection", "maj_script": maj, "features": feats}
     with open(SORTIE, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False)
+
+    # Mailles carrées centrées sur chaque point (mêmes champs)
+    h = PAS / 2
+    mailles = []
+    for ft in feats:
+        lon, lat = ft["geometry"]["coordinates"]
+        x0, x1 = round(lon - h, 6), round(lon + h, 6)
+        y0, y1 = round(lat - h, 6), round(lat + h, 6)
+        mailles.append({
+            "type": "Feature",
+            "geometry": {"type": "Polygon",
+                         "coordinates": [[[x0, y0], [x1, y0], [x1, y1], [x0, y1], [x0, y0]]]},
+            "properties": ft["properties"],
+        })
+    with open(SORTIE_MAILLES, "w", encoding="utf-8") as f:
+        json.dump({"type": "FeatureCollection", "maj_script": maj, "features": mailles},
+                  f, ensure_ascii=False)
     vmax = max(f["properties"]["rafales_kmh"] or 0 for f in feats)
     print(f"Vent : {len(feats)} points, rafale max {vmax} km/h")
 
