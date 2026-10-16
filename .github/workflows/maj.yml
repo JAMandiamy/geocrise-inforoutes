@@ -23,8 +23,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Conversion DATEX II -> GeoJSON
+      - name: Conversion DATEX II -> GeoJSON (Bison Fute)
+        continue-on-error: true
         run: python convert.py
+
+      - name: Conversion feux (feufrance.fr) -> GeoJSON
+        continue-on-error: true
+        run: python convert_feux.py
 
       - name: Enregistrer si les donnees ont change
         run: |
@@ -34,6 +39,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Aucun changement."
           else
-            git commit -m "Mise a jour Bison Fute $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git commit -m "Mise a jour donnees $(date -u +'%Y-%m-%d %H:%M') UTC"
             git push
           fi
