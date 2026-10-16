@@ -31,6 +31,10 @@ jobs:
         continue-on-error: true
         run: python convert_feux.py
 
+      - name: Vent 10 m (Open-Meteo) -> GeoJSON
+        continue-on-error: true
+        run: python convert_vent.py
+
       - name: Enregistrer si les donnees ont change
         run: |
           git config user.name "github-actions[bot]"
