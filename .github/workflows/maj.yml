@@ -42,7 +42,17 @@ jobs:
           git add *.geojson
           if git diff --cached --quiet; then
             echo "Aucun changement."
-          else
-            git commit -m "Mise a jour donnees $(date -u +'%Y-%m-%d %H:%M') UTC"
-            git push
+            exit 0
           fi
+          git commit -m "Mise a jour donnees $(date -u +'%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push origin HEAD:main; then
+              echo "Push reussi."
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push refuse, nouvel essai dans 10 s..."
+            sleep 10
+          done
+          echo "Echec du push apres 3 essais."
+          exit 1
