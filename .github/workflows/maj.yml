@@ -27,8 +27,10 @@ jobs:
         continue-on-error: true
         run: python convert.py
 
-      - name: Conversion feux (feufrance.fr) -> GeoJSON
+      - name: Conversion feux (NASA FIRMS) -> GeoJSON
         continue-on-error: true
+        env:
+          FIRMS_MAP_KEY: ${{ secrets.FIRMS_MAP_KEY }}
         run: python convert_feux.py
 
       - name: Vent 10 m (Open-Meteo) -> GeoJSON
@@ -43,7 +45,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add *.geojson
+          git add *.geojson cache_*.json 2>/dev/null || git add *.geojson
           if git diff --cached --quiet; then
             echo "Aucun changement."
             exit 0
