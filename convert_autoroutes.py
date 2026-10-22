@@ -20,7 +20,7 @@ Usage :
 """
 import argparse, csv, hashlib, html, json, os, re, sys, unicodedata
 import urllib.parse, urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 try:
     from zoneinfo import ZoneInfo
@@ -157,6 +157,8 @@ def analyser(texte, ref):
         if mh:
             base = ref or datetime.now(timezone.utc).astimezone(PARIS).replace(tzinfo=None)
             heure = base.replace(hour=int(mh.group(1)), minute=int(mh.group(2)), second=0, microsecond=0)
+            if heure > base:  # « À 22h55 » lu à 10h42 = la veille au soir
+                heure -= timedelta(days=1)
             corps_net = corps_net[mh.end():]
 
     parties = [p.strip() for p in corps_net.split(",")]
@@ -310,7 +312,7 @@ def main():
         sys.exit("ERREUR : aucun bloc « Département NN » trouvé — la page a peut-être changé de format.")
 
     geo = Geocodeur()
-    maj = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%dT%H:%M:%S%z")
+    maj = datetime.now(timezone.utc).astimezone(PARIS).strftime("%Y-%m-%dT%H:%M:%S")
     publi = ref.strftime("%Y-%m-%dT%H:%M:00") if ref else ""
     pts, lins, vus, non_places = [], [], set(), []
 
