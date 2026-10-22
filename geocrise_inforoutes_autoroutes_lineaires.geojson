@@ -1,0 +1,88 @@
+{
+ "type": "FeatureCollection",
+ "name": "geocrise_inforoutes_autoroutes_lineaires",
+ "date_publication": "",
+ "date_maj": "2026-10-22T08:30:54+0000",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Piéton sur chaussée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "75",
+    "pr_fin": "70",
+    "longueur_km": 5.0,
+    "commune": "Selongey",
+    "commune_fin": "Til-Châtel",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Piéton sur chaussée, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 75 et 70 (sur 5,0 km), de Selongey à Til-Châtel ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "427df699fbc3",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      5.20479,
+      47.60363
+     ],
+     [
+      5.19545,
+      47.5234
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Produit sur chaussée(Route rendue glissante)",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "est-ouest",
+    "direction": "Lyon → Paris",
+    "pr_debut": "213",
+    "pr_fin": "185",
+    "longueur_km": 28.0,
+    "commune": "Sceaux",
+    "commune_fin": "Nitry",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Produit sur chaussée(Route rendue glissante) - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), entre les PR 213 et 185 (sur 28,0 km), de Sceaux à Nitry ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "b43a5643f7c8",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.02102,
+      47.5148
+     ],
+     [
+      3.8787,
+      47.67598
+     ]
+    ]
+   }
+  }
+ ]
+}

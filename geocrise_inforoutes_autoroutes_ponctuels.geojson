@@ -1,0 +1,790 @@
+{
+ "type": "FeatureCollection",
+ "name": "geocrise_inforoutes_autoroutes_ponctuels",
+ "date_publication": "",
+ "date_maj": "2026-10-22T08:30:54+0000",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 3,
+    "type_evt": "Route fermée",
+    "groupe": "3 - Fermetures et déviations",
+    "signale": "non",
+    "route": "A311",
+    "sens": "sud-nord",
+    "direction": "Perrigny-les-Dijon (A31) → Dijon (N274)",
+    "pr_debut": "30+198",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Perrigny-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Route fermée, applicable à tous les véhicules, A311, de Perrigny-les-Dijon (A31) vers Dijon (N274) (sens sud-nord), Impact : route coupée, au PR 30+198, à Perrigny-lès-Dijon, situé sur la bretelle d'entrée de l'échangeur, Sur voie de droite, hors voie de circulation, Sur 0 m La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "fad19e477b22",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02072,
+     47.25659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 3,
+    "type_evt": "Route fermée",
+    "groupe": "3 - Fermetures et déviations",
+    "signale": "non",
+    "route": "A311",
+    "sens": "nord-sud",
+    "direction": "Dijon (N274) → Perrigny-les-Dijon (A31)",
+    "pr_debut": "31",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Perrigny-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Route fermée, applicable à tous les véhicules, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), Impact : route coupée, au PR 31, à Perrigny-lès-Dijon, Sur toutes les voies, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "2e39798ce74b",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02072,
+     47.25659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "36+100",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Rouvres-en-Plaine",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 36+100, à Rouvres-en-Plaine ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "02fdc99a871d",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.14434,
+     47.23915
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Piéton sur chaussée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "75",
+    "pr_fin": "70",
+    "longueur_km": 5.0,
+    "commune": "Selongey",
+    "commune_fin": "Til-Châtel",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Piéton sur chaussée, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 75 et 70 (sur 5,0 km), de Selongey à Til-Châtel ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "427df699fbc3",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.20012,
+     47.563515
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Piéton sur chaussée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "76",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Selongey",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Piéton sur chaussée, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 76, à Selongey ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "475f5fe18fed",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.20479,
+     47.60363
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A311",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "30+72",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Perrigny-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "2026-10-15T20:28:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Le 15/10/2026 à 20h28, Obstacle - Événement signalé, A311 (deux sens), au PR 30+72, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7293131bfe71",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02072,
+     47.25659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A311",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "30+72",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Perrigny-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A311 (deux sens), au PR 30+72, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "48bc58f5e24a",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02072,
+     47.25659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Chaussée dégradée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A311",
+    "sens": "nord-sud",
+    "direction": "Dijon (N274) → Perrigny-les-Dijon (A31)",
+    "pr_debut": "30+200",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Perrigny-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7164fd70be5d",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02072,
+     47.25659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Chaussée dégradée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A311",
+    "sens": "nord-sud",
+    "direction": "Dijon (N274) → Perrigny-les-Dijon (A31)",
+    "pr_debut": "30+200",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Perrigny-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 7h21, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e37029889039",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02072,
+     47.25659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Chaussée dégradée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A311",
+    "sens": "nord-sud",
+    "direction": "Dijon (N274) → Perrigny-les-Dijon (A31)",
+    "pr_debut": "30+200",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Perrigny-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 7h11, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "533742b38f2e",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02072,
+     47.25659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A36",
+    "sens": "est-ouest",
+    "direction": "Mulhouse → Beaune",
+    "pr_debut": "198",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Labruyère",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A36, de Mulhouse vers Beaune (sens est-ouest), au PR 198, à Labruyère ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c50585e4b7cc",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.14168,
+     47.03977
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A39",
+    "sens": "sud-nord",
+    "direction": "Bourg-en-Bresse → Dijon",
+    "pr_debut": "5+900",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Crimolois",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 5+900, à Crimolois, situé à un Péage ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "1fd3de14afe7",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.12376,
+     47.26877
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "281",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Thorey-sur-Ouche",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 281, à Thorey-sur-Ouche ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "9f6d718690ed",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.69167,
+     47.14811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "304+600",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Beaune",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 304+600, à Beaune ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f7c166c895e2",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83008,
+     47.02744
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Piéton sur chaussée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "264+100",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Pouilly-en-Auxois",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Piéton sur chaussée - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 264+100, à Pouilly-en-Auxois, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c60912a4fb23",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.55378,
+     47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A39",
+    "sens": "sud-nord",
+    "direction": "Bourg-en-Bresse → Dijon",
+    "pr_debut": "114+970",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Dommartin-lès-Cuiseaux",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 114+970, à Dommartin-lès-Cuiseaux, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a648dff55d35",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.28795,
+     46.50146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Chaussée dégradée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "364",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Farges-lès-Mâcon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Chaussée dégradée, A6, de Paris vers Lyon (sens nord-sud), au PR 364, à Farges-lès-Mâcon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "2370f33da302",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91184,
+     46.51295
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "390",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Charnay-lès-Mâcon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), au PR 390, à Charnay-lès-Mâcon, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "054c116e7bb2",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79099,
+     46.30523
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Piéton sur chaussée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A5",
+    "sens": "ouest-est",
+    "direction": "Paris → Dijon",
+    "pr_debut": "65",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "La Chapelle-sur-Oreuse",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Piéton sur chaussée - Événement signalé, A5, de Paris vers Dijon (sens ouest-est), au PR 65, à La Chapelle-sur-Oreuse ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7526262e67d5",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.3016,
+     48.2955
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A5",
+    "sens": "ouest-est",
+    "direction": "Paris → Dijon",
+    "pr_debut": "69",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Soucy",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A5, de Paris vers Dijon (sens ouest-est), au PR 69, à Soucy ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "148880b99e03",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.32735,
+     48.25398
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Produit sur chaussée(Route rendue glissante)",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "est-ouest",
+    "direction": "Lyon → Paris",
+    "pr_debut": "213",
+    "pr_fin": "185",
+    "longueur_km": 28.0,
+    "commune": "Sceaux",
+    "commune_fin": "Nitry",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Produit sur chaussée(Route rendue glissante) - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), entre les PR 213 et 185 (sur 28,0 km), de Sceaux à Nitry ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "b43a5643f7c8",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.94986,
+     47.59539
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "202",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Sainte-Colombe",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), au PR 202, à Sainte-Colombe ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f4ccce0eb9d0",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.95952,
+     47.57531
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal écrasé",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "219",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Savigny-en-Terre-Plaine",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 22h55, Animal écrasé - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), au PR 219, à Savigny-en-Terre-Plaine ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e737f4bb5340",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "",
+    "date_maj": "2026-10-22T08:30:54+0000",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.08228,
+     47.48989
+    ]
+   }
+  }
+ ]
+}
