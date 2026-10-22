@@ -35,6 +35,10 @@ jobs:
         continue-on-error: true
         run: python convert_vent.py
 
+      - name: Autoroutes concedees (recap Bison Fute) -> GeoJSON
+        continue-on-error: true
+        run: python convert_autoroutes.py --deps 21,58,71,89 --sortie .
+
       - name: Enregistrer si les donnees ont change
         run: |
           git config user.name "github-actions[bot]"
