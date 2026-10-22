@@ -1,0 +1,64 @@
+name: Mise a jour Bison Fute
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # toutes les 15 minutes (heure UTC)
+  workflow_dispatch:          # bouton "Run workflow" pour lancer a la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: maj-bison-fute
+  cancel-in-progress: false
+
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Conversion DATEX II -> GeoJSON (Bison Fute)
+        continue-on-error: true
+        run: python convert.py
+
+      - name: Conversion feux (NASA FIRMS) -> GeoJSON
+        continue-on-error: true
+        env:
+          FIRMS_MAP_KEY: ${{ secrets.FIRMS_MAP_KEY }}
+        run: python convert_feux.py
+
+      - name: Vent 10 m (Open-Meteo) -> GeoJSON
+        continue-on-error: true
+        run: python convert_vent.py
+
+      - name: Autoroutes concedees (recap Bison Fute) -> GeoJSON
+        continue-on-error: true
+        run: python convert_autoroutes.py --deps 21,58,71,89 --sortie .
+
+      - name: Enregistrer si les donnees ont change
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add *.geojson cache_*.json 2>/dev/null || git add *.geojson
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+            exit 0
+          fi
+          git commit -m "Mise a jour donnees $(date -u +'%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push origin HEAD:main; then
+              echo "Push reussi."
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push refuse, nouvel essai dans 10 s..."
+            sleep 10
+          done
+          echo "Echec du push apres 3 essais."
+          exit 1
