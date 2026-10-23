@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-23T20:57:00",
- "date_maj": "2026-10-23T21:01:06",
+ "date_publication": "2026-10-23T21:12:00",
+ "date_maj": "2026-10-23T21:15:35",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "fad19e477b22",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "2e39798ce74b",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "02fdc99a871d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "427df699fbc3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -178,26 +178,26 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Chaussée dégradée",
+    "type_evt": "Obstacle",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
+    "signale": "oui",
     "route": "A311",
-    "sens": "nord-sud",
-    "direction": "Dijon (N274) → Perrigny-les-Dijon (A31)",
-    "pr_debut": "30+200",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "30+72",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Perrigny-lès-Dijon",
     "commune_fin": "",
-    "heure_evt": "2026-10-23T07:11:00",
+    "heure_evt": "2026-10-15T20:28:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 7h11, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "533742b38f2e",
+    "texte": "Le 15/10/2026 à 20h28, Obstacle - Événement signalé, A311 (deux sens), au PR 30+72, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7293131bfe71",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -230,42 +230,8 @@
     "evt_id": "48bc58f5e24a",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.02072,
-     47.25659
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Chaussée dégradée",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A311",
-    "sens": "nord-sud",
-    "direction": "Dijon (N274) → Perrigny-les-Dijon (A31)",
-    "pr_debut": "30+200",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Perrigny-lès-Dijon",
-    "commune_fin": "",
-    "heure_evt": "2026-10-23T07:21:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 7h21, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e37029889039",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +264,8 @@
     "evt_id": "7164fd70be5d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -314,26 +280,60 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Obstacle",
+    "type_evt": "Chaussée dégradée",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A311",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "30+72",
+    "sens": "nord-sud",
+    "direction": "Dijon (N274) → Perrigny-les-Dijon (A31)",
+    "pr_debut": "30+200",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Perrigny-lès-Dijon",
     "commune_fin": "",
-    "heure_evt": "2026-10-15T20:28:00",
+    "heure_evt": "2026-10-23T07:11:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Le 15/10/2026 à 20h28, Obstacle - Événement signalé, A311 (deux sens), au PR 30+72, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "7293131bfe71",
+    "texte": "À 7h11, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02072,
+     47.25659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Chaussée dégradée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A311",
+    "sens": "nord-sud",
+    "direction": "Dijon (N274) → Perrigny-les-Dijon (A31)",
+    "pr_debut": "30+200",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Perrigny-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "2026-10-23T07:21:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 7h21, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e37029889039",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +366,8 @@
     "evt_id": "ef2396260a87",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +400,8 @@
     "evt_id": "c50585e4b7cc",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +434,8 @@
     "evt_id": "1fd3de14afe7",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +468,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -502,8 +502,8 @@
     "evt_id": "c60912a4fb23",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -536,8 +536,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -570,8 +570,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -604,8 +604,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -638,8 +638,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -672,8 +672,8 @@
     "evt_id": "f4ccce0eb9d0",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -706,8 +706,8 @@
     "evt_id": "e737f4bb5340",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
@@ -715,40 +715,6 @@
     "coordinates": [
      4.08228,
      47.48989
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "115+800",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Saint-Loup-d'Ordon",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), au PR 115+800, à Saint-Loup-d'Ordon, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "9a4c28913042",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.14955,
-     48.00995
     ]
    }
   },
@@ -774,8 +740,42 @@
     "evt_id": "1fd2e19b9207",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-23T20:57:00",
-    "date_maj": "2026-10-23T21:01:06",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.14955,
+     48.00995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "115+800",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Saint-Loup-d'Ordon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), au PR 115+800, à Saint-Loup-d'Ordon, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "9a4c28913042",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-10-23T21:12:00",
+    "date_maj": "2026-10-23T21:15:35",
     "precision": "commune"
    },
    "geometry": {
