@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-10-24T14:27:00",
- "date_maj": "2026-10-24T14:30:51",
+ "date_publication": "2026-10-24T14:42:00",
+ "date_maj": "2026-10-24T14:45:38",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "427df699fbc3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-24T14:27:00",
-    "date_maj": "2026-10-24T14:30:51",
+    "date_publication": "2026-10-24T14:42:00",
+    "date_maj": "2026-10-24T14:45:38",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -40,6 +40,46 @@
      [
       5.19545,
       47.5234
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A19",
+    "sens": "sud-nord",
+    "direction": "Orléans (A10) → Sens (A5)",
+    "pr_debut": "12+600",
+    "pr_fin": "12+200",
+    "longueur_km": 0.4,
+    "commune": "Villebougis",
+    "commune_fin": "Nailly",
+    "heure_evt": "2026-10-24T14:36:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 14h36, Obstacle, A19 (deux sens), au PR 12+468, à Villebougis ; À 14h38, Accident, 1 VL, A19, de Orléans (A10) vers Sens (A5) (sens sud-nord), au PR 12+400, Sur bande d'arrêt d'urgence ; À 14h39, Réduction du nombre de voies, applicable à tous les véhicules, A19, de Orléans (A10) vers Sens (A5) (sens sud-nord), entre les PR 12+600 et 12+200 (sur 0,4 km), de Villebougis à Nailly, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "acac289f8150",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-10-24T14:42:00",
+    "date_maj": "2026-10-24T14:45:38",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      3.15426,
+      48.20583
+     ],
+     [
+      3.21055,
+      48.21771
      ]
     ]
    }
@@ -66,8 +106,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-24T14:27:00",
-    "date_maj": "2026-10-24T14:30:51",
+    "date_publication": "2026-10-24T14:42:00",
+    "date_maj": "2026-10-24T14:45:38",
     "precision": "communes (début → fin)"
    },
    "geometry": {
