@@ -2,7 +2,7 @@
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
  "date_publication": "2026-10-24T21:12:00",
- "date_maj": "2026-10-24T21:14:53",
+ "date_maj": "2026-10-24T21:15:31",
  "features": [
   {
    "type": "Feature",
@@ -27,7 +27,7 @@
     "dep": "21",
     "nom_dep": "Côte-d'Or",
     "date_publication": "2026-10-24T21:12:00",
-    "date_maj": "2026-10-24T21:14:53",
+    "date_maj": "2026-10-24T21:15:31",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -67,7 +67,7 @@
     "dep": "89",
     "nom_dep": "Yonne",
     "date_publication": "2026-10-24T21:12:00",
-    "date_maj": "2026-10-24T21:14:53",
+    "date_maj": "2026-10-24T21:15:31",
     "precision": "communes (début → fin)"
    },
    "geometry": {
