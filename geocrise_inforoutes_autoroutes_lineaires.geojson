@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-10-25T13:42:00",
- "date_maj": "2026-10-25T13:46:16",
+ "date_publication": "2026-10-25T13:57:00",
+ "date_maj": "2026-10-25T14:01:14",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "427df699fbc3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-25T13:42:00",
-    "date_maj": "2026-10-25T13:46:16",
+    "date_publication": "2026-10-25T13:57:00",
+    "date_maj": "2026-10-25T14:01:14",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -40,6 +40,46 @@
      [
       5.19545,
       47.5234
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Inondation",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A39",
+    "sens": "nord-sud",
+    "direction": "Dijon → Bourg-en-Bresse",
+    "pr_debut": "5",
+    "pr_fin": "5+600",
+    "longueur_km": 0.6,
+    "commune": "Neuilly-lès-Dijon",
+    "commune_fin": "Crimolois",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Inondation - Événement signalé, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), entre les PR 5 et 5+600 (sur 0,6 km), de Neuilly-lès-Dijon à Crimolois, Sur autre voie ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "166666f38d57",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-10-25T13:57:00",
+    "date_maj": "2026-10-25T14:01:14",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      5.10186,
+      47.27554
+     ],
+     [
+      5.12376,
+      47.26877
      ]
     ]
    }
@@ -66,8 +106,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-25T13:42:00",
-    "date_maj": "2026-10-25T13:46:16",
+    "date_publication": "2026-10-25T13:57:00",
+    "date_maj": "2026-10-25T14:01:14",
     "precision": "communes (début → fin)"
    },
    "geometry": {
