@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-27T15:12:00",
- "date_maj": "2026-10-27T15:26:17",
+ "date_publication": "2026-10-27T15:27:00",
+ "date_maj": "2026-10-27T15:30:55",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "8e1245f9b51f",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.1703,
      47.50621
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "21",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Gilly-lès-Cîteaux",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 21, à Gilly-lès-Cîteaux ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "b4566595ba0e",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.99316,
+     47.17507
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "02fdc99a871d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +128,8 @@
     "evt_id": "427df699fbc3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +162,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +196,8 @@
     "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "e37029889039",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +264,8 @@
     "evt_id": "1fd3de14afe7",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +298,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -273,6 +307,40 @@
     "coordinates": [
      5.2987,
      47.2118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "221+800",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Époisses",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 221+800, à Époisses ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f2f8dc2489fb",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.1703,
+     47.50621
     ]
    }
   },
@@ -298,8 +366,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +400,8 @@
     "evt_id": "c60912a4fb23",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +434,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +468,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +502,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -443,40 +511,6 @@
     "coordinates": [
      4.87882,
      46.44301
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A5",
-    "sens": "ouest-est",
-    "direction": "Paris → Dijon",
-    "pr_debut": "52+500",
-    "pr_fin": "52+700",
-    "longueur_km": 0.2,
-    "commune": "Courlon-sur-Yonne",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Réduction du nombre de voies, applicable à tous les véhicules, A5, de Paris vers Dijon (sens ouest-est), entre les PR 52+500 et 52+700 (sur 0,2 km), à Courlon-sur-Yonne, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "65c18a229b92",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.17619,
-     48.34398
     ]
    }
   },
@@ -502,8 +536,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -536,8 +570,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -570,8 +604,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -604,8 +638,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -638,8 +672,8 @@
     "evt_id": "e737f4bb5340",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-27T15:12:00",
-    "date_maj": "2026-10-27T15:26:17",
+    "date_publication": "2026-10-27T15:27:00",
+    "date_maj": "2026-10-27T15:30:55",
     "precision": "commune"
    },
    "geometry": {
