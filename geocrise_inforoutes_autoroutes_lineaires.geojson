@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-10-28T05:27:00",
- "date_maj": "2026-10-28T05:45:36",
+ "date_publication": "2026-10-28T05:57:00",
+ "date_maj": "2026-10-28T06:01:20",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "427df699fbc3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T05:27:00",
-    "date_maj": "2026-10-28T05:45:36",
+    "date_publication": "2026-10-28T05:57:00",
+    "date_maj": "2026-10-28T06:01:20",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -62,12 +62,12 @@
     "heure_evt": "2026-10-27T22:13:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Le 27/10/2026 à 22h13, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 377+800 et 378+600 (sur 0,8 km), de Senozan à Saint-Martin-Belle-Roche, Sur la voie du milieu, sur voie de droite, La mesure est obligatoire ; À 0h53, Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 378+500, à Saint-Martin-Belle-Roche, Sur voie de droite, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "ea512712e109",
+    "texte": "Le 27/10/2026 à 22h13, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 377+800 et 378+600 (sur 0,8 km), de Senozan à Saint-Martin-Belle-Roche, Sur la voie du milieu, sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "bea1d8257f9f",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T05:27:00",
-    "date_maj": "2026-10-28T05:45:36",
+    "date_publication": "2026-10-28T05:57:00",
+    "date_maj": "2026-10-28T06:01:20",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -106,8 +106,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T05:27:00",
-    "date_maj": "2026-10-28T05:45:36",
+    "date_publication": "2026-10-28T05:57:00",
+    "date_maj": "2026-10-28T06:01:20",
     "precision": "communes (début → fin)"
    },
    "geometry": {
