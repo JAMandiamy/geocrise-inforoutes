@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-28T15:27:00",
- "date_maj": "2026-10-28T16:02:02",
+ "date_publication": "2026-10-28T16:12:00",
+ "date_maj": "2026-10-28T16:15:50",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "02fdc99a871d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "427df699fbc3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "e37029889039",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +332,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -341,40 +341,6 @@
     "coordinates": [
      4.87882,
      46.44301
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Piéton sur chaussée",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A5",
-    "sens": "ouest-est",
-    "direction": "Paris → Dijon",
-    "pr_debut": "77",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Les Clérimois",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Piéton sur chaussée, A5, de Paris vers Dijon (sens ouest-est), au PR 77, à Les Clérimois ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "c4a98af00f5a",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.4591,
-     48.2295
     ]
    }
   },
@@ -400,8 +366,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +400,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -461,15 +427,15 @@
     "longueur_km": "",
     "commune": "Nitry",
     "commune_fin": "",
-    "heure_evt": "2026-10-27T15:28:00",
+    "heure_evt": "2026-10-28T15:28:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
     "texte": "À 15h28, Obstacle, A6, de Lyon vers Paris (sens est-ouest), au PR 188+800, à Nitry ; [Origine : SCA APRR DATEXII]",
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
@@ -502,8 +468,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -520,31 +486,31 @@
     "importance": 2,
     "type_evt": "Animal errant",
     "groupe": "2 - Météo et environnement",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
     "sens": "deux sens",
     "direction": "",
-    "pr_debut": "210+670",
+    "pr_debut": "211+470",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Magny",
+    "commune": "Sceaux",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Animal errant - Événement signalé, A6 (deux sens), au PR 210+670, à Magny ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "30587f38fa01",
+    "texte": "Animal errant, A6 (deux sens), au PR 211+470, à Sceaux ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f57b7e864c53",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.96625,
-     47.46815
+     4.02102,
+     47.5148
     ]
    }
   },
@@ -570,8 +536,8 @@
     "evt_id": "3b1ad87f19b4",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T15:27:00",
-    "date_maj": "2026-10-28T16:02:02",
+    "date_publication": "2026-10-28T16:12:00",
+    "date_maj": "2026-10-28T16:15:50",
     "precision": "commune"
    },
    "geometry": {
