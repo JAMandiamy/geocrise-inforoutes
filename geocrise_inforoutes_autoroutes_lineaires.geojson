@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-10-28T14:42:00",
- "date_maj": "2026-10-28T15:01:20",
+ "date_publication": "2026-10-28T15:12:00",
+ "date_maj": "2026-10-28T15:21:39",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "427df699fbc3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T14:42:00",
-    "date_maj": "2026-10-28T15:01:20",
+    "date_publication": "2026-10-28T15:12:00",
+    "date_maj": "2026-10-28T15:21:39",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -40,46 +40,6 @@
      [
       5.19545,
       47.5234
-     ]
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "344",
-    "pr_fin": "350",
-    "longueur_km": 6.0,
-    "commune": "Beaumont-sur-Grosne",
-    "commune_fin": "Sennecey-le-Grand",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), entre les PR 344 et 350 (sur 6,0 km), de Beaumont-sur-Grosne à Sennecey-le-Grand ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1d4928eb83e0",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T14:42:00",
-    "date_maj": "2026-10-28T15:01:20",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.86115,
-      46.66918
-     ],
-     [
-      4.89148,
-      46.63728
      ]
     ]
    }
@@ -106,8 +66,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T14:42:00",
-    "date_maj": "2026-10-28T15:01:20",
+    "date_publication": "2026-10-28T15:12:00",
+    "date_maj": "2026-10-28T15:21:39",
     "precision": "communes (début → fin)"
    },
    "geometry": {
