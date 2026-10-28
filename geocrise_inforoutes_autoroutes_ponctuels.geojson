@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-28T08:42:00",
- "date_maj": "2026-10-28T08:45:50",
+ "date_publication": "2026-10-28T08:57:00",
+ "date_maj": "2026-10-28T09:01:08",
  "features": [
   {
    "type": "Feature",
@@ -15,19 +15,19 @@
     "sens": "nord-sud",
     "direction": "Luxembourg → Lyon",
     "pr_debut": "18+500",
-    "pr_fin": "18+100",
-    "longueur_km": 0.4,
+    "pr_fin": "18+50",
+    "longueur_km": 0.5,
     "commune": "Flagey-Echézeaux",
     "commune_fin": "",
-    "heure_evt": "2026-10-28T08:20:00",
+    "heure_evt": "2026-10-28T08:49:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 8h20, Véhicule arrêté - PL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 18, à Flagey-Echézeaux, Sur bande d'arrêt d'urgence ; À 8h40, Réduction du nombre de voies, applicable à tous les véhicules, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 18+500 et 18+100 (sur 0,4 km), Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e13d4f36a1d5",
+    "texte": "À 8h49, Véhicule arrêté - PL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 18, à Flagey-Echézeaux, Sur bande d'arrêt d'urgence ; À 8h52, Réduction du nombre de voies, applicable à tous les véhicules, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 18+500 et 18+50 (sur 0,5 km), Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "5ff93efaca7a",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "02fdc99a871d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "427df699fbc3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "e37029889039",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +332,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +366,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +400,8 @@
     "evt_id": "43c96dda38c6",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -434,8 +434,8 @@
     "evt_id": "9ab62447bdd3",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -443,6 +443,40 @@
     "coordinates": [
      4.81486,
      46.67905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A19",
+    "sens": "nord-sud",
+    "direction": "Sens (A5) → Orléans (A10)",
+    "pr_debut": "12",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Nailly",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A19, de Sens (A5) vers Orléans (A10) (sens nord-sud), au PR 12, à Nailly ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "35d3e9b3ae4e",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.21055,
+     48.21771
     ]
    }
   },
@@ -468,8 +502,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -502,8 +536,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -536,8 +570,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -570,8 +604,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T08:42:00",
-    "date_maj": "2026-10-28T08:45:50",
+    "date_publication": "2026-10-28T08:57:00",
+    "date_maj": "2026-10-28T09:01:08",
     "precision": "communes (début → fin)"
    },
    "geometry": {
