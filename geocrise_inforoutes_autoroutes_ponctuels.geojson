@@ -2,7 +2,7 @@
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
  "date_publication": "2026-10-28T02:57:00",
- "date_maj": "2026-10-28T03:01:06",
+ "date_maj": "2026-10-28T03:13:02",
  "features": [
   {
    "type": "Feature",
@@ -27,7 +27,7 @@
     "dep": "21",
     "nom_dep": "Côte-d'Or",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -61,7 +61,7 @@
     "dep": "21",
     "nom_dep": "Côte-d'Or",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -95,7 +95,7 @@
     "dep": "21",
     "nom_dep": "Côte-d'Or",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -129,7 +129,7 @@
     "dep": "21",
     "nom_dep": "Côte-d'Or",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -163,7 +163,7 @@
     "dep": "21",
     "nom_dep": "Côte-d'Or",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -197,7 +197,7 @@
     "dep": "21",
     "nom_dep": "Côte-d'Or",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -231,7 +231,7 @@
     "dep": "21",
     "nom_dep": "Côte-d'Or",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -265,7 +265,7 @@
     "dep": "21",
     "nom_dep": "Côte-d'Or",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -299,7 +299,7 @@
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -333,7 +333,7 @@
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -367,7 +367,7 @@
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -401,7 +401,7 @@
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -435,7 +435,7 @@
     "dep": "89",
     "nom_dep": "Yonne",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -469,7 +469,7 @@
     "dep": "89",
     "nom_dep": "Yonne",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -503,7 +503,7 @@
     "dep": "89",
     "nom_dep": "Yonne",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "commune"
    },
    "geometry": {
@@ -537,7 +537,7 @@
     "dep": "89",
     "nom_dep": "Yonne",
     "date_publication": "2026-10-28T02:57:00",
-    "date_maj": "2026-10-28T03:01:06",
+    "date_maj": "2026-10-28T03:13:02",
     "precision": "communes (début → fin)"
    },
    "geometry": {
