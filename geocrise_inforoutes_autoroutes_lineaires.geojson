@@ -1,49 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-10-28T23:57:00",
- "date_maj": "2026-10-29T00:01:08",
+ "date_publication": "2026-10-29T00:12:00",
+ "date_maj": "2026-10-29T00:15:39",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Piéton sur chaussée",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "75",
-    "pr_fin": "70",
-    "longueur_km": 5.0,
-    "commune": "Selongey",
-    "commune_fin": "Til-Châtel",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Piéton sur chaussée, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 75 et 70 (sur 5,0 km), de Selongey à Til-Châtel ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "427df699fbc3",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T23:57:00",
-    "date_maj": "2026-10-29T00:01:08",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      5.20479,
-      47.60363
-     ],
-     [
-      5.19545,
-      47.5234
-     ]
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -66,8 +26,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T23:57:00",
-    "date_maj": "2026-10-29T00:01:08",
+    "date_publication": "2026-10-29T00:12:00",
+    "date_maj": "2026-10-29T00:15:39",
     "precision": "communes (début → fin)"
    },
    "geometry": {
