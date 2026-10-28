@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-28T10:12:00",
- "date_maj": "2026-10-28T10:36:54",
+ "date_publication": "2026-10-28T10:42:00",
+ "date_maj": "2026-10-28T10:45:37",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "02fdc99a871d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "427df699fbc3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "e37029889039",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +332,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -341,40 +341,6 @@
     "coordinates": [
      4.87882,
      46.44301
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "377+800",
-    "pr_fin": "378+600",
-    "longueur_km": 0.8,
-    "commune": "Senozan",
-    "commune_fin": "Saint-Martin-Belle-Roche",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 377+800 et 378+600 (sur 0,8 km), de Senozan à Saint-Martin-Belle-Roche, Sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "43c96dda38c6",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.859425,
-     46.387805
     ]
    }
   },
@@ -400,8 +366,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +400,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +434,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -502,8 +468,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
+    "date_publication": "2026-10-28T10:42:00",
+    "date_maj": "2026-10-28T10:45:37",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -511,74 +477,6 @@
     "coordinates": [
      3.94986,
      47.59539
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "198+50",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Sainte-Colombe",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens ouest-est), au PR 198+50, à Sainte-Colombe, situé sur une Aire de service, Sur voie de droite, hors voie de circulation, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "673d13d344fd",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.95952,
-     47.57531
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A19",
-    "sens": "nord-sud",
-    "direction": "Sens (A5) → Orléans (A10)",
-    "pr_debut": "16+300",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Subligny",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A19, de Sens (A5) vers Orléans (A10) (sens nord-sud), au PR 16+300, à Subligny, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "51dcbd3bb4b4",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T10:12:00",
-    "date_maj": "2026-10-28T10:36:54",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.20625,
-     48.16786
     ]
    }
   }
