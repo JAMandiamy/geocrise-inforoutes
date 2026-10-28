@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-28T11:57:00",
- "date_maj": "2026-10-28T12:01:13",
+ "date_publication": "2026-10-28T12:12:00",
+ "date_maj": "2026-10-28T12:15:40",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "02fdc99a871d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "427df699fbc3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "e37029889039",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -246,8 +246,8 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "nord-sud",
@@ -257,15 +257,15 @@
     "longueur_km": 0.2,
     "commune": "Bligny-sur-Ouche",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-10-28T11:07:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 285+300, à Bligny-sur-Ouche, Sur voie véhicules lents, sur bande d'arrêt d'urgence ; Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 285+100 et 285+300 (sur 0,2 km), La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "376e5d91ff13",
+    "texte": "À 11h07, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 285+100 et 285+300 (sur 0,2 km), à Bligny-sur-Ouche, Sur voie véhicules lents, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "b564e7eeba6d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -273,40 +273,6 @@
     "coordinates": [
      4.68927,
      47.11676
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "293+350",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Savigny-lès-Beaune",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), au PR 293+350, à Savigny-lès-Beaune ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "42687226e4c8",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.79446,
-     47.07968
     ]
    }
   },
@@ -332,8 +298,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +332,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +366,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +400,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +434,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -502,8 +468,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -536,8 +502,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -570,8 +536,8 @@
     "evt_id": "3b1ad87f19b4",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-28T11:57:00",
-    "date_maj": "2026-10-28T12:01:13",
+    "date_publication": "2026-10-28T12:12:00",
+    "date_maj": "2026-10-28T12:15:40",
     "precision": "commune"
    },
    "geometry": {
