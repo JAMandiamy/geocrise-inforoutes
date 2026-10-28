@@ -37,6 +37,10 @@ jobs:
         continue-on-error: true
         run: python convert_vent.py
 
+      - name: Pluie (Open-Meteo) -> GeoJSON
+        continue-on-error: true
+        run: python convert_pluie.py
+
       - name: Autoroutes concedees (recap Bison Fute) -> GeoJSON
         continue-on-error: true
         run: python convert_autoroutes.py --deps 21,58,71,89 --sortie .
