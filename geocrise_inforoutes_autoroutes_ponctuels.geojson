@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-29T05:42:00",
- "date_maj": "2026-10-29T05:45:50",
+ "date_publication": "2026-10-29T05:57:00",
+ "date_maj": "2026-10-29T06:01:03",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
-    "pr_debut": "33",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Ouges",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 33, à Ouges ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4a8b026fc346",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.08056,
-     47.25762
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "02fdc99a871d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "e37029889039",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +196,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +230,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +264,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +298,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +332,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -375,40 +341,6 @@
     "coordinates": [
      4.87882,
      46.44301
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "382+821",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Mâcon",
-    "commune_fin": "",
-    "heure_evt": "2026-10-29T05:17:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 5h17, Animal errant - Événement signalé, A6 (deux sens), au PR 382+821, à Mâcon ; À 5h18, Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 382+799 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e8ef13602e7a",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.83514,
-     46.36224
     ]
    }
   },
@@ -434,8 +366,42 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83514,
+     46.36224
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "382+821",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Mâcon",
+    "commune_fin": "",
+    "heure_evt": "2026-10-29T05:17:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 5h17, Animal errant - Événement signalé, A6 (deux sens), au PR 382+821, à Mâcon ; À 5h18, Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 382+799 ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e8ef13602e7a",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +434,8 @@
     "evt_id": "6555a2a9684e",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -502,8 +468,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -536,8 +502,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -570,8 +536,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -604,8 +570,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -638,8 +604,8 @@
     "evt_id": "3b1ad87f19b4",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-29T05:42:00",
-    "date_maj": "2026-10-29T05:45:50",
+    "date_publication": "2026-10-29T05:57:00",
+    "date_maj": "2026-10-29T06:01:03",
     "precision": "commune"
    },
    "geometry": {
