@@ -39,6 +39,8 @@ jobs:
 
       - name: Pluie (Open-Meteo) -> GeoJSON
         continue-on-error: true
+        env:
+          PLUIE_TEST: ${{ vars.PLUIE_TEST }}
         run: python convert_pluie.py
 
       - name: Autoroutes concedees (recap Bison Fute) -> GeoJSON
