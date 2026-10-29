@@ -1,49 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-10-29T21:12:00",
- "date_maj": "2026-10-29T21:15:35",
+ "date_publication": "2026-10-29T21:27:00",
+ "date_maj": "2026-10-29T21:30:51",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Piéton sur chaussée",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "20",
-    "pr_fin": "0",
-    "longueur_km": 20.1,
-    "commune": "Gilly-lès-Cîteaux",
-    "commune_fin": "Vignoles",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Piéton sur chaussée - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 20 et 0 (sur 20,1 km), de Gilly-lès-Cîteaux à Vignoles ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "af4ffed488b0",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-29T21:12:00",
-    "date_maj": "2026-10-29T21:15:35",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.99316,
-      47.17507
-     ],
-     [
-      4.88104,
-      47.02533
-     ]
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -66,8 +26,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-29T21:12:00",
-    "date_maj": "2026-10-29T21:15:35",
+    "date_publication": "2026-10-29T21:27:00",
+    "date_maj": "2026-10-29T21:30:51",
     "precision": "communes (début → fin)"
    },
    "geometry": {
