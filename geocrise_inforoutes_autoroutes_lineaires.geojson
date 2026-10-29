@@ -1,49 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-10-29T05:12:00",
- "date_maj": "2026-10-29T05:15:41",
+ "date_publication": "2026-10-29T05:27:00",
+ "date_maj": "2026-10-29T05:30:54",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "394+950",
-    "pr_fin": "395+200",
-    "longueur_km": 0.3,
-    "commune": "Chaintré",
-    "commune_fin": "Crêches-sur-Saône",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 395+150, à Crêches-sur-Saône ; Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 394+950 et 395+200 (sur 0,3 km), de Chaintré à Crêches-sur-Saône, Sur voie de gauche, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "40f4daba30f1",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-29T05:12:00",
-    "date_maj": "2026-10-29T05:15:41",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.76945,
-      46.25911
-     ],
-     [
-      4.78705,
-      46.23918
-     ]
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -66,8 +26,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-29T05:12:00",
-    "date_maj": "2026-10-29T05:15:41",
+    "date_publication": "2026-10-29T05:27:00",
+    "date_maj": "2026-10-29T05:30:54",
     "precision": "communes (début → fin)"
    },
    "geometry": {
