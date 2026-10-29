@@ -103,8 +103,28 @@ def somme(valeurs):
     return round(sum(v), 1) if v else None
 
 
+def mode_test():
+    """Fausses valeurs couvrant toutes les classes, pour configurer la
+    symbologie dans ArcGIS Online. Activé par la variable PLUIE_TEST=1."""
+    return os.getenv("PLUIE_TEST", "").strip() in ("1", "oui", "true")
+
+
+def faux_resultats(lot, debut):
+    valeurs = [0, 0.5, 2, 6, 15]          # mm/h : classes 0 à 4
+    res = []
+    for i, _ in enumerate(lot):
+        mmh = valeurs[(debut + i) % len(valeurs)]
+        q = mmh / 4                        # mm par 1/4 h
+        res.append({"current": {"time": "TEST", "precipitation": q},
+                    "minutely_15": {"precipitation": [q] * (PASSE + AVENIR)}})
+    return res
+
+
 def main():
-    if trop_recent():
+    test = mode_test()
+    if test:
+        print("Pluie : MODE TEST - fausses valeurs pour la symbologie.")
+    elif trop_recent():
         print("Pluie : fichier récent (< 55 min), pas de nouvel appel.")
         return
     pts = grille()
@@ -112,7 +132,7 @@ def main():
     for k in range(0, len(pts), LOT):
         lot = pts[k:k + LOT]
         try:
-            res = appel(lot)
+            res = faux_resultats(lot, k) if test else appel(lot)
         except Exception as e:
             sys.exit(f"Erreur Open-Meteo : {e} - fichier conservé.")
         for (lon, lat), r in zip(lot, res):
@@ -147,6 +167,9 @@ def main():
     if not feats:
         sys.exit("Aucune donnée de pluie reçue - fichier conservé.")
     maj = datetime.now(timezone.utc).isoformat()
+    if test:
+        # Date ancienne : le prochain passage normal rappellera tout de suite l'API
+        maj = "2000-01-01T00:00:00+00:00"
     with open(SORTIE, "w", encoding="utf-8") as f:
         json.dump({"type": "FeatureCollection", "maj_script": maj, "features": feats},
                   f, ensure_ascii=False)
