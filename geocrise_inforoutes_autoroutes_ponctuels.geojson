@@ -1,33 +1,33 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-30T15:57:00",
- "date_maj": "2026-10-30T16:02:59",
+ "date_publication": "2026-10-30T16:12:00",
+ "date_maj": "2026-10-30T16:15:39",
  "features": [
   {
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté",
+    "type_evt": "Piéton sur chaussée",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
     "pr_debut": "70",
-    "pr_fin": "",
-    "longueur_km": "",
+    "pr_fin": "69",
+    "longueur_km": 1.0,
     "commune": "Til-Châtel",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-10-30T16:08:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 70, à Til-Châtel, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "92190f133ec1",
+    "texte": "À 16h08, Piéton sur chaussée, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 70 et 69 (sur 1,0 km), à Til-Châtel ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "5f82ab334dc9",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "e37029889039",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +332,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +366,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +400,8 @@
     "evt_id": "5029f35c727f",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +434,8 @@
     "evt_id": "203bd57733c4",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +468,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -502,8 +502,8 @@
     "evt_id": "cc508b008e1c",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -536,8 +536,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -570,8 +570,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -604,8 +604,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -638,8 +638,8 @@
     "evt_id": "86efee3e9461",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T15:57:00",
-    "date_maj": "2026-10-30T16:02:59",
+    "date_publication": "2026-10-30T16:12:00",
+    "date_maj": "2026-10-30T16:15:39",
     "precision": "commune"
    },
    "geometry": {
