@@ -1,40 +1,40 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-30T21:12:00",
- "date_maj": "2026-10-30T21:30:50",
+ "date_publication": "2026-10-30T21:42:00",
+ "date_maj": "2026-10-30T21:45:41",
  "features": [
   {
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté",
+    "type_evt": "Accident",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A31",
     "sens": "sud-nord",
     "direction": "Lyon → Luxembourg",
-    "pr_debut": "16",
+    "pr_debut": "17+150",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Boncourt-le-Bois",
+    "commune": "Flagey-Echézeaux",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-10-30T21:19:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 16, à Boncourt-le-Bois ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "fd9388906e05",
+    "texte": "À 21h19, Accident, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 17+150, à Flagey-Echézeaux, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "4331172ad566",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.99633,
-     47.13882
+     4.98618,
+     47.16079
     ]
    }
   },
@@ -60,8 +60,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "e37029889039",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +137,40 @@
     "coordinates": [
      5.02072,
      47.25659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A39",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "4+710",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Neuilly-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal errant - Événement signalé, A39 (deux sens), au PR 4+710, à Neuilly-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "ea6fd03dc9e2",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.10186,
+     47.27554
     ]
    }
   },
@@ -162,8 +196,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -205,40 +239,6 @@
     "coordinates": [
      4.69167,
      47.14811
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "307+345",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Levernois",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), au PR 307+345, à Levernois, Hors voie de circulation, sur accotement ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "bb4b9b158d88",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.87445,
-     46.99246
     ]
    }
   },
@@ -264,8 +264,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -273,6 +273,108 @@
     "coordinates": [
      5.3331,
      46.5481
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "326",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "La Loyère",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 326, à La Loyère, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e96875af7ab2",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8374,
+     46.8404
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "330+550",
+    "pr_fin": "330+200",
+    "longueur_km": 0.4,
+    "commune": "Châtenoy-le-Royal",
+    "commune_fin": "",
+    "heure_evt": "2026-10-30T21:28:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 21h28, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 330+550 et 330+200 (sur 0,4 km), à Châtenoy-le-Royal, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; À 21h31, Accident, 2 VL, A6, de Lyon vers Paris (sens sud-nord), au PR 330+277 ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e01d701677ec",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81066,
+     46.78994
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "341+700",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Saint-Ambreuil",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, 1 PL, A6, de Paris vers Lyon (sens nord-sud), au PR 341+700, à Saint-Ambreuil, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "959760cefc0a",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81486,
+     46.67905
     ]
    }
   },
@@ -298,8 +400,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +434,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +468,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +502,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +536,8 @@
     "evt_id": "203bd57733c4",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +570,8 @@
     "evt_id": "3649f7e1d8d0",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -502,8 +604,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -536,8 +638,8 @@
     "evt_id": "cc508b008e1c",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -570,8 +672,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -604,8 +706,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -638,8 +740,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T21:12:00",
-    "date_maj": "2026-10-30T21:30:50",
+    "date_publication": "2026-10-30T21:42:00",
+    "date_maj": "2026-10-30T21:45:41",
     "precision": "communes (début → fin)"
    },
    "geometry": {
