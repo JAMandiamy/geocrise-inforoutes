@@ -2,7 +2,7 @@
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
  "date_publication": "2026-10-30T03:12:00",
- "date_maj": "2026-10-30T03:15:35",
+ "date_maj": "2026-10-30T03:30:53",
  "features": [
   {
    "type": "Feature",
@@ -27,7 +27,7 @@
     "dep": "89",
     "nom_dep": "Yonne",
     "date_publication": "2026-10-30T03:12:00",
-    "date_maj": "2026-10-30T03:15:35",
+    "date_maj": "2026-10-30T03:30:53",
     "precision": "communes (début → fin)"
    },
    "geometry": {
