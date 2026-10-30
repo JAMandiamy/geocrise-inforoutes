@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-30T06:42:00",
- "date_maj": "2026-10-30T06:45:35",
+ "date_publication": "2026-10-30T06:57:00",
+ "date_maj": "2026-10-30T07:01:07",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "02fdc99a871d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 69, à Til-Châtel, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "8cfc8fb8ad41",
+    "texte": "Accident, 2 VL, avec PL, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 69, à Til-Châtel, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "30bfd091e05c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -121,15 +121,15 @@
     "longueur_km": "",
     "commune": "Perrigny-lès-Dijon",
     "commune_fin": "",
-    "heure_evt": "2026-10-29T07:11:00",
+    "heure_evt": "2026-10-29T07:21:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 7h11, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "533742b38f2e",
+    "texte": "À 7h21, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e37029889039",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -155,15 +155,15 @@
     "longueur_km": "",
     "commune": "Perrigny-lès-Dijon",
     "commune_fin": "",
-    "heure_evt": "2026-10-29T07:21:00",
+    "heure_evt": "2026-10-29T07:11:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 7h21, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e37029889039",
+    "texte": "À 7h11, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +332,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +366,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +400,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +434,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +468,8 @@
     "evt_id": "cc508b008e1c",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -502,8 +502,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -536,8 +536,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -570,8 +570,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -604,8 +604,8 @@
     "evt_id": "86efee3e9461",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-30T06:42:00",
-    "date_maj": "2026-10-30T06:45:35",
+    "date_publication": "2026-10-30T06:57:00",
+    "date_maj": "2026-10-30T07:01:07",
     "precision": "commune"
    },
    "geometry": {
