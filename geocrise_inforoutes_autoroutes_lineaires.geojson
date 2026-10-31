@@ -1,48 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-10-31T22:57:00",
- "date_maj": "2026-10-31T23:00:58",
- "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Produit sur chaussée(Route rendue glissante)",
-    "groupe": "2 - Météo et environnement",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "est-ouest",
-    "direction": "Lyon → Paris",
-    "pr_debut": "213",
-    "pr_fin": "185",
-    "longueur_km": 28.0,
-    "commune": "Sceaux",
-    "commune_fin": "Nitry",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Produit sur chaussée(Route rendue glissante) - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), entre les PR 213 et 185 (sur 28,0 km), de Sceaux à Nitry ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "b43a5643f7c8",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T22:57:00",
-    "date_maj": "2026-10-31T23:00:58",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.02102,
-      47.5148
-     ],
-     [
-      3.8787,
-      47.67598
-     ]
-    ]
-   }
-  }
- ]
+ "date_publication": "2026-10-31T23:12:00",
+ "date_maj": "2026-10-31T23:15:18",
+ "features": []
 }
