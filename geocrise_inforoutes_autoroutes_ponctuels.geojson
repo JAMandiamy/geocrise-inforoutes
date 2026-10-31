@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-31T11:42:00",
- "date_maj": "2026-10-31T11:45:37",
+ "date_publication": "2026-10-31T11:57:00",
+ "date_maj": "2026-10-31T12:01:11",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "7fe368bbfca5",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +332,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +366,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +400,8 @@
     "evt_id": "0afe4e818854",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +434,8 @@
     "evt_id": "139346ff0fc9",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -461,15 +461,15 @@
     "longueur_km": "",
     "commune": "Saint-Loup-d'Ordon",
     "commune_fin": "",
-    "heure_evt": "2026-10-30T11:46:00",
+    "heure_evt": "2026-10-31T11:46:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
     "texte": "À 11h46, Obstacle - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), au PR 118+600, à Saint-Loup-d'Ordon ; [Origine : SCA APRR DATEXII]",
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -477,6 +477,40 @@
     "coordinates": [
      3.14955,
      48.00995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal écrasé",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "174+138",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Saint-Cyr-les-Colons",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal écrasé - Événement signalé, A6 (deux sens), au PR 174+138, à Saint-Cyr-les-Colons ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "1a300cb16081",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.7738,
+     47.72967
     ]
    }
   },
@@ -502,8 +536,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -536,8 +570,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -570,8 +604,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
+    "date_publication": "2026-10-31T11:57:00",
+    "date_maj": "2026-10-31T12:01:11",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -579,40 +613,6 @@
     "coordinates": [
      3.94986,
      47.59539
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A5",
-    "sens": "ouest-est",
-    "direction": "Paris → Dijon",
-    "pr_debut": "64+400",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "La Chapelle-sur-Oreuse",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A5, de Paris vers Dijon (sens ouest-est), au PR 64+400, à La Chapelle-sur-Oreuse, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "6285fe1505c1",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T11:42:00",
-    "date_maj": "2026-10-31T11:45:37",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.3016,
-     48.2955
     ]
    }
   }
