@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-31T17:57:00",
- "date_maj": "2026-10-31T18:15:49",
+ "date_publication": "2026-10-31T18:27:00",
+ "date_maj": "2026-10-31T18:30:51",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -69,74 +69,6 @@
     "coordinates": [
      5.2987,
      47.2118
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "261+200",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Thoisy-le-Désert",
-    "commune_fin": "",
-    "heure_evt": "2026-10-31T08:13:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 8h13, Obstacle, A6, de Paris vers Lyon (sens nord-sud), au PR 261+200, à Thoisy-le-Désert, Sur bande d'arrêt d'urgence ; À 8h16, Accident, au PR 261+700 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "7fe368bbfca5",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.52148,
-     47.24999
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "281",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Thorey-sur-Ouche",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 281, à Thorey-sur-Ouche ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "9f6d718690ed",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.69167,
-     47.14811
     ]
    }
   },
@@ -162,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +128,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +162,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +196,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +230,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -307,40 +239,6 @@
     "coordinates": [
      4.87882,
      46.44301
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "378+633",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Saint-Martin-Belle-Roche",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Animal errant - Événement signalé, A6 (deux sens), au PR 378+633, à Saint-Martin-Belle-Roche ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "d4e4eb37eb34",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.85571,
-     46.3805
     ]
    }
   },
@@ -366,8 +264,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +298,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +332,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +366,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -502,8 +400,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T17:57:00",
-    "date_maj": "2026-10-31T18:15:49",
+    "date_publication": "2026-10-31T18:27:00",
+    "date_maj": "2026-10-31T18:30:51",
     "precision": "communes (début → fin)"
    },
    "geometry": {
