@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-10-31T04:57:00",
- "date_maj": "2026-10-31T05:15:37",
+ "date_publication": "2026-10-31T05:27:00",
+ "date_maj": "2026-10-31T05:30:44",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "475f5fe18fed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -87,15 +87,15 @@
     "longueur_km": "",
     "commune": "Perrigny-lès-Dijon",
     "commune_fin": "",
-    "heure_evt": "2026-10-30T07:21:00",
+    "heure_evt": "2026-10-30T07:11:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 7h21, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e37029889039",
+    "texte": "À 7h11, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "533742b38f2e",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -121,15 +121,15 @@
     "longueur_km": "",
     "commune": "Perrigny-lès-Dijon",
     "commune_fin": "",
-    "heure_evt": "2026-10-30T07:11:00",
+    "heure_evt": "2026-10-30T07:21:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 7h11, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "533742b38f2e",
+    "texte": "À 7h21, Chaussée dégradée, A311, de Dijon (N274) vers Perrigny-les-Dijon (A31) (sens nord-sud), au PR 30+200, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e37029889039",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "9f6d718690ed",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -273,6 +273,40 @@
     "coordinates": [
      5.3331,
      46.5481
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A39",
+    "sens": "nord-sud",
+    "direction": "Dijon → Bourg-en-Bresse",
+    "pr_debut": "116+700",
+    "pr_fin": "117",
+    "longueur_km": 0.3,
+    "commune": "Dommartin-lès-Cuiseaux",
+    "commune_fin": "",
+    "heure_evt": "2026-10-31T04:47:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 4h47, Véhicule arrêté, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), au PR 117, à Dommartin-lès-Cuiseaux, Sur bande d'arrêt d'urgence ; À 4h59, Réduction du nombre de voies, applicable à tous les véhicules, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), entre les PR 116+700 et 117 (sur 0,3 km), sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "efd6a6379590",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.28795,
+     46.50146
     ]
    }
   },
@@ -298,8 +332,8 @@
     "evt_id": "e96875af7ab2",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +366,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +400,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +434,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +468,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -443,40 +477,6 @@
     "coordinates": [
      4.83514,
      46.36224
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A39",
-    "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "117",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Dommartin-lès-Cuiseaux",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), au PR 117, à Dommartin-lès-Cuiseaux, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "d45b1fb3078f",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.28795,
-     46.50146
     ]
    }
   },
@@ -502,8 +502,8 @@
     "evt_id": "203bd57733c4",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -536,8 +536,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -570,8 +570,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -604,8 +604,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "commune"
    },
    "geometry": {
@@ -638,8 +638,8 @@
     "evt_id": "b43a5643f7c8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-10-31T04:57:00",
-    "date_maj": "2026-10-31T05:15:37",
+    "date_publication": "2026-10-31T05:27:00",
+    "date_maj": "2026-10-31T05:30:44",
     "precision": "communes (début → fin)"
    },
    "geometry": {
