@@ -1,48 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-01T22:42:00",
- "date_maj": "2026-11-01T22:45:37",
- "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté - PL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "335+350",
-    "pr_fin": "335",
-    "longueur_km": 0.4,
-    "commune": "Sevrey",
-    "commune_fin": "Lux",
-    "heure_evt": "2026-11-01T21:12:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 21h12, Véhicule arrêté - PL, A6, de Lyon vers Paris (sens sud-nord), au PR 335, à Lux, Sur bande d'arrêt d'urgence ; À 22h16, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 335+350 et 335 (sur 0,4 km), de Sevrey à Lux, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "241be2087a44",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-01T22:42:00",
-    "date_maj": "2026-11-01T22:45:37",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.83164,
-      46.73669
-     ],
-     [
-      4.86132,
-      46.74921
-     ]
-    ]
-   }
-  }
- ]
+ "date_publication": "2026-11-01T22:57:00",
+ "date_maj": "2026-11-01T23:01:11",
+ "features": []
 }
