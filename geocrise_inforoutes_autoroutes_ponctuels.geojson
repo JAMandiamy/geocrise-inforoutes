@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-01T01:27:00",
- "date_maj": "2026-11-01T01:30:47",
+ "date_publication": "2026-11-01T01:42:00",
+ "date_maj": "2026-11-01T01:45:36",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      5.2987,
      47.2118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "266+200",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Créancey",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), au PR 266+200, à Créancey ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "1ec55372aa76",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.59419,
+     47.25558
     ]
    }
   },
@@ -94,8 +128,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +162,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +171,40 @@
     "coordinates": [
      5.3331,
      46.5481
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "330",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Châtenoy-le-Royal",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 330, à Châtenoy-le-Royal ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "8ced2a60949e",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81066,
+     46.78994
     ]
    }
   },
@@ -162,8 +230,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +264,8 @@
     "evt_id": "2370f33da302",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +298,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +332,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +366,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +400,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +434,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -381,27 +449,27 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
+    "importance": 2,
+    "type_evt": "Véhicule arrêté - PL",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A6",
     "sens": "est-ouest",
     "direction": "Lyon → Paris",
-    "pr_debut": "209+600",
-    "pr_fin": "",
-    "longueur_km": "",
+    "pr_debut": "209+900",
+    "pr_fin": "209+400",
+    "longueur_km": 0.5,
     "commune": "Sauvigny-le-Bois",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-11-01T01:31:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Lyon vers Paris (sens est-ouest), au PR 209+600, à Sauvigny-le-Bois, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4a5dff5000d0",
+    "texte": "À 1h31, Véhicule arrêté - PL, A6, de Lyon vers Paris (sens est-ouest), au PR 209+400, à Sauvigny-le-Bois, Sur bande d'arrêt d'urgence ; À 1h38, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens est-ouest), entre les PR 209+900 et 209+400 (sur 0,5 km), Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "d9b4ad9625c6",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-01T01:27:00",
-    "date_maj": "2026-11-01T01:30:47",
+    "date_publication": "2026-11-01T01:42:00",
+    "date_maj": "2026-11-01T01:45:36",
     "precision": "commune"
    },
    "geometry": {
