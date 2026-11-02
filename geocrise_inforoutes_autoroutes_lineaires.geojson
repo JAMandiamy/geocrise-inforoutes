@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-02T15:27:00",
- "date_maj": "2026-11-02T15:31:51",
+ "date_publication": "2026-11-02T15:42:00",
+ "date_maj": "2026-11-02T15:47:17",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "f05f8bed0d34",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-02T15:27:00",
-    "date_maj": "2026-11-02T15:31:51",
+    "date_publication": "2026-11-02T15:42:00",
+    "date_maj": "2026-11-02T15:47:17",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -40,6 +40,46 @@
      [
       4.38424,
       47.39074
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Piéton sur chaussée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "337+800",
+    "pr_fin": "335",
+    "longueur_km": 2.8,
+    "commune": "Sevrey",
+    "commune_fin": "Lux",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Piéton sur chaussée, A6, de Lyon vers Paris (sens sud-nord), entre les PR 337+800 et 335 (sur 2,8 km), de Sevrey à Lux ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "34188ae93825",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-02T15:42:00",
+    "date_maj": "2026-11-02T15:47:17",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.83164,
+      46.73669
+     ],
+     [
+      4.86132,
+      46.74921
      ]
     ]
    }
