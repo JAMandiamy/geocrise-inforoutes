@@ -1,7 +1,48 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-02T16:42:00",
- "date_maj": "2026-11-02T16:45:48",
- "features": []
+ "date_publication": "2026-11-02T16:57:00",
+ "date_maj": "2026-11-02T17:01:12",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "214",
+    "pr_fin": "217",
+    "longueur_km": 3.0,
+    "commune": "Saint-André-en-Terre-Plaine",
+    "commune_fin": "Savigny-en-Terre-Plaine",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A6, de Paris vers Lyon (sens ouest-est), entre les PR 214 et 217 (sur 3,0 km), de Saint-André-en-Terre-Plaine à Savigny-en-Terre-Plaine ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "9deacb2bd01d",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-02T16:57:00",
+    "date_maj": "2026-11-02T17:01:12",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.04869,
+      47.48408
+     ],
+     [
+      4.08228,
+      47.48989
+     ]
+    ]
+   }
+  }
+ ]
 }
