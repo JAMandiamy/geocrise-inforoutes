@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-02T11:27:00",
- "date_maj": "2026-11-02T11:31:15",
+ "date_publication": "2026-11-02T11:42:00",
+ "date_maj": "2026-11-02T11:45:39",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-02T11:27:00",
-    "date_maj": "2026-11-02T11:31:15",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-02T11:27:00",
-    "date_maj": "2026-11-02T11:31:15",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-02T11:27:00",
-    "date_maj": "2026-11-02T11:31:15",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-02T11:27:00",
-    "date_maj": "2026-11-02T11:31:15",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +137,40 @@
     "coordinates": [
      5.3331,
      46.5481
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Piéton sur chaussée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A39",
+    "sens": "sud-nord",
+    "direction": "Bourg-en-Bresse → Dijon",
+    "pr_debut": "145+50",
+    "pr_fin": "121",
+    "longueur_km": 24.1,
+    "commune": "Viriat",
+    "commune_fin": "Condal",
+    "heure_evt": "2026-11-02T11:17:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 11h17, Piéton sur chaussée, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), entre les PR 145+50 et 121 (sur 24,1 km), entre les départements 01 (Ain) et 71 (Saône-et-Loire), de Viriat à Condal ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "882f84d06cca",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.27961,
+     46.46851
     ]
    }
   },
@@ -162,8 +196,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-02T11:27:00",
-    "date_maj": "2026-11-02T11:31:15",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-02T11:27:00",
-    "date_maj": "2026-11-02T11:31:15",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +264,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-02T11:27:00",
-    "date_maj": "2026-11-02T11:31:15",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -239,6 +273,40 @@
     "coordinates": [
      4.83514,
      46.36224
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - VL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A39",
+    "sens": "sud-nord",
+    "direction": "Bourg-en-Bresse → Dijon",
+    "pr_debut": "111",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Le Miroir",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - VL, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 111, à Le Miroir, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7f192f6d3225",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3331,
+     46.5481
     ]
    }
   },
@@ -264,8 +332,8 @@
     "evt_id": "55bb6bd41afe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-02T11:27:00",
-    "date_maj": "2026-11-02T11:31:15",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +366,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-02T11:27:00",
-    "date_maj": "2026-11-02T11:31:15",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +400,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-02T11:27:00",
-    "date_maj": "2026-11-02T11:31:15",
+    "date_publication": "2026-11-02T11:42:00",
+    "date_maj": "2026-11-02T11:45:39",
     "precision": "commune"
    },
    "geometry": {
