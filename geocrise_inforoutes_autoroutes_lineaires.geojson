@@ -1,15 +1,15 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-02T14:27:00",
- "date_maj": "2026-11-02T14:30:57",
+ "date_publication": "2026-11-02T14:42:00",
+ "date_maj": "2026-11-02T14:45:55",
  "features": [
   {
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "sud-nord",
@@ -19,15 +19,15 @@
     "longueur_km": 0.3,
     "commune": "Nan-sous-Thil",
     "commune_fin": "Marcigny-sous-Thil",
-    "heure_evt": "2026-11-02T14:22:00",
+    "heure_evt": "2026-11-02T14:25:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 14h22, Obstacle, A6, de Lyon vers Paris (sens sud-nord), au PR 243+500, à Marcigny-sous-Thil ; À 14h23, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 243+800 et 243+500 (sur 0,3 km), de Nan-sous-Thil à Marcigny-sous-Thil, Sur voie de droite, La mesure est obligatoire ; Véhicule arrêté - PL, A6, de Lyon vers Paris (sens sud-nord), au PR 243+500, à Marcigny-sous-Thil, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4d29d732263f",
+    "texte": "À 14h25, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 243+800 et 243+500 (sur 0,3 km), de Nan-sous-Thil à Marcigny-sous-Thil, Sur voie de droite, La mesure est obligatoire ; À 14h33, Véhicule arrêté - PL, A6, de Lyon vers Paris (sens sud-nord), au PR 243+500, à Marcigny-sous-Thil, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f05f8bed0d34",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-02T14:27:00",
-    "date_maj": "2026-11-02T14:30:57",
+    "date_publication": "2026-11-02T14:42:00",
+    "date_maj": "2026-11-02T14:45:55",
     "precision": "communes (début → fin)"
    },
    "geometry": {
