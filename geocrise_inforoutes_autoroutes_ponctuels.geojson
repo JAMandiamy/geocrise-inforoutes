@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-02T15:42:00",
- "date_maj": "2026-11-02T15:47:17",
+ "date_publication": "2026-11-02T15:57:00",
+ "date_maj": "2026-11-02T16:02:19",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
+    "date_publication": "2026-11-02T15:57:00",
+    "date_maj": "2026-11-02T16:02:19",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
+    "date_publication": "2026-11-02T15:57:00",
+    "date_maj": "2026-11-02T16:02:19",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      5.2987,
      47.2118
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "243+800",
-    "pr_fin": "243+500",
-    "longueur_km": 0.3,
-    "commune": "Nan-sous-Thil",
-    "commune_fin": "Marcigny-sous-Thil",
-    "heure_evt": "2026-11-02T14:25:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 14h25, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 243+800 et 243+500 (sur 0,3 km), de Nan-sous-Thil à Marcigny-sous-Thil, Sur voie de droite, La mesure est obligatoire ; À 14h33, Véhicule arrêté - PL, A6, de Lyon vers Paris (sens sud-nord), au PR 243+500, à Marcigny-sous-Thil, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f05f8bed0d34",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.373685,
-     47.385774999999995
     ]
    }
   },
@@ -128,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
+    "date_publication": "2026-11-02T15:57:00",
+    "date_maj": "2026-11-02T16:02:19",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "d2697eef2467",
     "dep": "58",
     "nom_dep": "Nièvre",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
+    "date_publication": "2026-11-02T15:57:00",
+    "date_maj": "2026-11-02T16:02:19",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
+    "date_publication": "2026-11-02T15:57:00",
+    "date_maj": "2026-11-02T16:02:19",
     "precision": "commune"
    },
    "geometry": {
@@ -205,40 +171,6 @@
     "coordinates": [
      5.3331,
      46.5481
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Piéton sur chaussée",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "337+800",
-    "pr_fin": "335",
-    "longueur_km": 2.8,
-    "commune": "Sevrey",
-    "commune_fin": "Lux",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Piéton sur chaussée, A6, de Lyon vers Paris (sens sud-nord), entre les PR 337+800 et 335 (sur 2,8 km), de Sevrey à Lux ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "34188ae93825",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.84648,
-     46.74295
     ]
    }
   },
@@ -264,8 +196,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
+    "date_publication": "2026-11-02T15:57:00",
+    "date_maj": "2026-11-02T16:02:19",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +230,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
+    "date_publication": "2026-11-02T15:57:00",
+    "date_maj": "2026-11-02T16:02:19",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +264,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
+    "date_publication": "2026-11-02T15:57:00",
+    "date_maj": "2026-11-02T16:02:19",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +298,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
+    "date_publication": "2026-11-02T15:57:00",
+    "date_maj": "2026-11-02T16:02:19",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +332,8 @@
     "evt_id": "12b5591d0e11",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-02T15:42:00",
-    "date_maj": "2026-11-02T15:47:17",
+    "date_publication": "2026-11-02T15:57:00",
+    "date_maj": "2026-11-02T16:02:19",
     "precision": "commune"
    },
    "geometry": {
