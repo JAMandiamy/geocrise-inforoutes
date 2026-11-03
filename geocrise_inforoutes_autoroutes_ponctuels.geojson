@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-03T12:42:00",
- "date_maj": "2026-11-03T12:45:37",
+ "date_publication": "2026-11-03T12:57:00",
+ "date_maj": "2026-11-03T13:01:10",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -264,42 +264,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.83514,
-     46.36224
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "385+800",
-    "pr_fin": "385+700",
-    "longueur_km": 0.1,
-    "commune": "Mâcon",
-    "commune_fin": "",
-    "heure_evt": "2026-11-03T10:34:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 10h34, Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), au PR 385+700, à Mâcon, Sur bande d'arrêt d'urgence ; À 11h07, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 385+800 et 385+700 (sur 0,1 km), sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "6f61bda454db",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +298,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +332,8 @@
     "evt_id": "54aca35dbd55",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +366,8 @@
     "evt_id": "eb1295d2f10a",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +400,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +434,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-03T12:42:00",
-    "date_maj": "2026-11-03T12:45:37",
+    "date_publication": "2026-11-03T12:57:00",
+    "date_maj": "2026-11-03T13:01:10",
     "precision": "commune"
    },
    "geometry": {
