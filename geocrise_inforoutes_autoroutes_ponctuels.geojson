@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-03T20:57:00",
- "date_maj": "2026-11-03T21:01:16",
+ "date_publication": "2026-11-03T21:12:00",
+ "date_maj": "2026-11-03T21:15:46",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "f4c1c94a10d2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -307,6 +307,40 @@
     "coordinates": [
      4.79099,
      46.30523
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "402",
+    "pr_fin": "401",
+    "longueur_km": 1.0,
+    "commune": "Saint-Symphorien-d'Ancelles",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), entre les PR 402 et 401 (sur 1,0 km), à Saint-Symphorien-d'Ancelles, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "095e6c639da7",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76985,
+     46.19241
     ]
    }
   },
@@ -332,8 +366,8 @@
     "evt_id": "353394327d63",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -341,40 +375,6 @@
     "coordinates": [
      3.27231,
      48.25615
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "146+500",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Fleury-la-Vallée",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens ouest-est), au PR 146+500, à Fleury-la-Vallée, Sur voie de droite, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "eb1295d2f10a",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.44777,
-     47.86455
     ]
    }
   },
@@ -400,8 +400,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +434,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-03T20:57:00",
-    "date_maj": "2026-11-03T21:01:16",
+    "date_publication": "2026-11-03T21:12:00",
+    "date_maj": "2026-11-03T21:15:46",
     "precision": "commune"
    },
    "geometry": {
