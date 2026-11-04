@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-04T16:42:00",
- "date_maj": "2026-11-04T16:45:48",
+ "date_publication": "2026-11-04T16:57:00",
+ "date_maj": "2026-11-04T17:01:10",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      5.19027,
      47.44758
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "292+400",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Savigny-lès-Beaune",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 292+400, à Savigny-lès-Beaune, Sur voie véhicules lents ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "9930838c72b4",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.79446,
-     47.07968
     ]
    }
   },
@@ -128,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -171,40 +137,6 @@
     "coordinates": [
      5.3331,
      46.5481
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "339+380",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Saint-Loup-de-Varennes",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, A6, de Paris vers Lyon (sens nord-sud), au PR 339+380, à Saint-Loup-de-Varennes ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1fa7a8bcdfda",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.84895,
-     46.72173
     ]
    }
   },
@@ -230,8 +162,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -264,8 +196,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +230,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +264,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -366,42 +298,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.79099,
-     46.30523
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "389+250",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Charnay-lès-Mâcon",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A6, de Lyon vers Paris (sens sud-nord), au PR 389+250, à Charnay-lès-Mâcon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "619bee4daf57",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +332,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +366,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-04T16:42:00",
-    "date_maj": "2026-11-04T16:45:48",
+    "date_publication": "2026-11-04T16:57:00",
+    "date_maj": "2026-11-04T17:01:10",
     "precision": "commune"
    },
    "geometry": {
