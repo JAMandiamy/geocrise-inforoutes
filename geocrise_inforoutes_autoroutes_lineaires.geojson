@@ -1,7 +1,48 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-04T05:27:00",
- "date_maj": "2026-11-04T05:30:53",
- "features": []
+ "date_publication": "2026-11-04T05:42:00",
+ "date_maj": "2026-11-04T05:51:36",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "337",
+    "pr_fin": "339",
+    "longueur_km": 2.0,
+    "commune": "Sevrey",
+    "commune_fin": "Saint-Loup-de-Varennes",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), entre les PR 337 et 339 (sur 2,0 km), de Sevrey à Saint-Loup-de-Varennes ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "ba74160e94fa",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-04T05:42:00",
+    "date_maj": "2026-11-04T05:51:36",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.83164,
+      46.73669
+     ],
+     [
+      4.84895,
+      46.72173
+     ]
+    ]
+   }
+  }
+ ]
 }
