@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-04T17:42:00",
- "date_maj": "2026-11-04T17:45:40",
+ "date_publication": "2026-11-04T17:57:00",
+ "date_maj": "2026-11-04T18:01:31",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "commune"
    },
    "geometry": {
@@ -103,40 +103,6 @@
     "coordinates": [
      4.88104,
      47.02533
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A39",
-    "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "96+800",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Savigny-en-Revermont",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), au PR 96+800, à Savigny-en-Revermont ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "a8131a4223b4",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.38979,
-     46.63608
     ]
    }
   },
@@ -162,8 +128,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -230,8 +196,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +230,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +264,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +298,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +332,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +366,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
+    "date_publication": "2026-11-04T17:57:00",
+    "date_maj": "2026-11-04T18:01:31",
     "precision": "commune"
    },
    "geometry": {
@@ -409,40 +375,6 @@
     "coordinates": [
      4.02102,
      47.5148
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "113",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Piffonds",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A6, de Paris vers Lyon (sens ouest-est), au PR 113, à Piffonds, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1f0a02e89ec0",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-04T17:42:00",
-    "date_maj": "2026-11-04T17:45:40",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.14669,
-     48.05714
     ]
    }
   }
