@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": []}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.6391, 42.40322]}, "properties": {"date_acquisition": "2026-11-04T12:25:00Z", "jour": "2026-11-04", "satellite": "NOAA-21", "frp_mw": 2.77, "confiance": "nominale", "brillance_k": 329.73, "jour_nuit": "jour"}}]}
