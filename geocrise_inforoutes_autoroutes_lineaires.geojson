@@ -2,7 +2,7 @@
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
  "date_publication": "2026-11-04T09:57:00",
- "date_maj": "2026-11-04T10:01:10",
+ "date_maj": "2026-11-04T10:06:09",
  "features": [
   {
    "type": "Feature",
@@ -27,7 +27,7 @@
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
     "date_publication": "2026-11-04T09:57:00",
-    "date_maj": "2026-11-04T10:01:10",
+    "date_maj": "2026-11-04T10:06:09",
     "precision": "communes (début → fin)"
    },
    "geometry": {
