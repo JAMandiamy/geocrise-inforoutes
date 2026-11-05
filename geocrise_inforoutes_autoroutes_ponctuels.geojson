@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-05T07:12:00",
- "date_maj": "2026-11-05T07:15:46",
+ "date_publication": "2026-11-05T07:27:00",
+ "date_maj": "2026-11-05T07:30:56",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      5.19027,
      47.44758
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté - PL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "71+600",
-    "pr_fin": "71+300",
-    "longueur_km": 0.3,
-    "commune": "Til-Châtel",
-    "commune_fin": "",
-    "heure_evt": "2026-11-05T06:50:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 6h50, Véhicule arrêté - PL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 71+600, à Til-Châtel, Sur voie de droite, sur bande d'arrêt d'urgence ; À 6h59, Piéton sur chaussée, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 71+600 et 71+300 (sur 0,3 km) ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "720c34a78eec",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.19545,
-     47.5234
     ]
    }
   },
@@ -128,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +103,40 @@
     "coordinates": [
      4.88104,
      47.02533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - PL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "71+300",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Til-Châtel",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - PL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 71+300, à Til-Châtel, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f0ffa229b6cb",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.19545,
+     47.5234
     ]
    }
   },
@@ -162,8 +162,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "3cd4aeb0a2b1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +332,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +366,8 @@
     "evt_id": "9983c336e948",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +400,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +434,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-05T07:12:00",
-    "date_maj": "2026-11-05T07:15:46",
+    "date_publication": "2026-11-05T07:27:00",
+    "date_maj": "2026-11-05T07:30:56",
     "precision": "commune"
    },
    "geometry": {
