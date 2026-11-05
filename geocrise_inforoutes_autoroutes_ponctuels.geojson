@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-05T15:35:00",
- "date_maj": "2026-11-05T15:45:46",
+ "date_publication": "2026-11-05T15:50:00",
+ "date_maj": "2026-11-05T16:01:15",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "3adfd7c62e45",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
@@ -103,40 +103,6 @@
     "coordinates": [
      5.19027,
      47.44758
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "284",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Bligny-sur-Ouche",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 284, à Bligny-sur-Ouche ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "60f3380785b3",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.68927,
-     47.11676
     ]
    }
   },
@@ -162,8 +128,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
@@ -196,42 +162,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.3331,
-     46.5481
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A39",
-    "sens": "sud-nord",
-    "direction": "Bourg-en-Bresse → Dijon",
-    "pr_debut": "111+500",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Le Miroir",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 111+500, à Le Miroir ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "06b11d156004",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +196,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -298,8 +230,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +264,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +298,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +332,8 @@
     "evt_id": "3e62e135bace",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +366,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
@@ -468,8 +400,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-05T15:35:00",
-    "date_maj": "2026-11-05T15:45:46",
+    "date_publication": "2026-11-05T15:50:00",
+    "date_maj": "2026-11-05T16:01:15",
     "precision": "commune"
    },
    "geometry": {
