@@ -1,9 +1,49 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-05T17:20:00",
- "date_maj": "2026-11-05T17:30:58",
+ "date_publication": "2026-11-05T17:35:00",
+ "date_maj": "2026-11-05T17:45:37",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "334+800",
+    "pr_fin": "334+600",
+    "longueur_km": 0.2,
+    "commune": "Lux",
+    "commune_fin": "Saint-Rémy",
+    "heure_evt": "2026-11-05T17:13:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 17h13, Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), au PR 334+600, à Saint-Rémy, Sur bande d'arrêt d'urgence ; À 17h24, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 334+800 et 334+600 (sur 0,2 km), de Lux à Saint-Rémy, Sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "85dc679c3341",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-05T17:35:00",
+    "date_maj": "2026-11-05T17:45:37",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.86132,
+      46.74921
+     ],
+     [
+      4.82616,
+      46.75889
+     ]
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +66,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T17:20:00",
-    "date_maj": "2026-11-05T17:30:58",
+    "date_publication": "2026-11-05T17:35:00",
+    "date_maj": "2026-11-05T17:45:37",
     "precision": "communes (début → fin)"
    },
    "geometry": {
