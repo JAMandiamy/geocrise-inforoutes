@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-05T20:05:00",
- "date_maj": "2026-11-05T20:15:38",
+ "date_publication": "2026-11-05T20:20:00",
+ "date_maj": "2026-11-05T20:30:56",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -69,74 +69,6 @@
     "coordinates": [
      5.19027,
      47.44758
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "238",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Roilly",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 238, à Roilly ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "0523251e3656",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.34029,
-     47.41654
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "249+600",
-    "pr_fin": "249+250",
-    "longueur_km": 0.4,
-    "commune": "Thorey-sous-Charny",
-    "commune_fin": "",
-    "heure_evt": "2026-11-05T19:28:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 19h28, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 249+600 et 249+250 (sur 0,4 km), à Thorey-sous-Charny, Sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "232b47df2b0e",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.45739,
-     47.33208
     ]
    }
   },
@@ -162,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +128,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +162,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -264,8 +196,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +230,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +264,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +298,8 @@
     "evt_id": "3e62e135bace",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -400,8 +332,8 @@
     "evt_id": "398561f8ba64",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -434,8 +366,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-05T20:05:00",
-    "date_maj": "2026-11-05T20:15:38",
+    "date_publication": "2026-11-05T20:20:00",
+    "date_maj": "2026-11-05T20:30:56",
     "precision": "commune"
    },
    "geometry": {
