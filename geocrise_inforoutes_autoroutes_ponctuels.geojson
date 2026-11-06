@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-06T12:35:00",
- "date_maj": "2026-11-06T12:45:40",
+ "date_publication": "2026-11-06T12:50:00",
+ "date_maj": "2026-11-06T13:01:11",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "c2db822c64d0",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +332,8 @@
     "evt_id": "0e92cd36618f",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +366,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -382,7 +382,7 @@
    "type": "Feature",
    "properties": {
     "importance": 1,
-    "type_evt": "Véhicule arrêté",
+    "type_evt": "Véhicule arrêté - VL",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A5",
@@ -396,12 +396,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A5, de Paris vers Dijon (sens ouest-est), au PR 61+700, à La Chapelle-sur-Oreuse, Sur bande d'arrêt d'urgence ; Piéton sur chaussée, au PR 61+700 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "34bd449d8db1",
+    "texte": "Véhicule arrêté - VL, A5, de Paris vers Dijon (sens ouest-est), au PR 61+700, à La Chapelle-sur-Oreuse, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "2572eed02e1e",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-06T12:35:00",
-    "date_maj": "2026-11-06T12:45:40",
+    "date_publication": "2026-11-06T12:50:00",
+    "date_maj": "2026-11-06T13:01:11",
     "precision": "commune"
    },
    "geometry": {
