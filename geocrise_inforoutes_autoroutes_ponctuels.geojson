@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-06T19:05:00",
- "date_maj": "2026-11-06T19:16:06",
+ "date_publication": "2026-11-06T19:20:00",
+ "date_maj": "2026-11-06T19:30:55",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T19:05:00",
-    "date_maj": "2026-11-06T19:16:06",
+    "date_publication": "2026-11-06T19:20:00",
+    "date_maj": "2026-11-06T19:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T19:05:00",
-    "date_maj": "2026-11-06T19:16:06",
+    "date_publication": "2026-11-06T19:20:00",
+    "date_maj": "2026-11-06T19:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T19:05:00",
-    "date_maj": "2026-11-06T19:16:06",
+    "date_publication": "2026-11-06T19:20:00",
+    "date_maj": "2026-11-06T19:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -121,15 +121,15 @@
     "longueur_km": "",
     "commune": "Le Miroir",
     "commune_fin": "",
-    "heure_evt": "2026-11-05T19:13:00",
+    "heure_evt": "2026-11-06T19:13:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
     "texte": "À 19h13, Obstacle - Événement signalé, A39 (deux sens), au PR 109+345, à Le Miroir ; [Origine : SCA APRR DATEXII]",
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T19:05:00",
-    "date_maj": "2026-11-06T19:16:06",
+    "date_publication": "2026-11-06T19:20:00",
+    "date_maj": "2026-11-06T19:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -150,20 +150,20 @@
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
-    "pr_debut": "320",
+    "pr_debut": "319+800",
     "pr_fin": "320+114",
-    "longueur_km": 0.2,
+    "longueur_km": 0.4,
     "commune": "Demigny",
     "commune_fin": "",
-    "heure_evt": "2026-11-06T18:34:00",
+    "heure_evt": "2026-11-06T19:05:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 18h34, Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 320+114, à Demigny ; À 18h35, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 320 et 320+114 (sur 0,2 km), sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f59c04236dce",
+    "texte": "À 19h05, Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 320+114, à Demigny ; À 19h15, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 319+800 et 320+114 (sur 0,4 km), Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "85e1032796b3",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T19:05:00",
-    "date_maj": "2026-11-06T19:16:06",
+    "date_publication": "2026-11-06T19:20:00",
+    "date_maj": "2026-11-06T19:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T19:05:00",
-    "date_maj": "2026-11-06T19:16:06",
+    "date_publication": "2026-11-06T19:20:00",
+    "date_maj": "2026-11-06T19:30:55",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T19:05:00",
-    "date_maj": "2026-11-06T19:16:06",
+    "date_publication": "2026-11-06T19:20:00",
+    "date_maj": "2026-11-06T19:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T19:05:00",
-    "date_maj": "2026-11-06T19:16:06",
+    "date_publication": "2026-11-06T19:20:00",
+    "date_maj": "2026-11-06T19:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-06T19:05:00",
-    "date_maj": "2026-11-06T19:16:06",
+    "date_publication": "2026-11-06T19:20:00",
+    "date_maj": "2026-11-06T19:30:55",
     "precision": "commune"
    },
    "geometry": {
