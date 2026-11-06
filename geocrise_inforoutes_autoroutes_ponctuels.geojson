@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-06T23:05:00",
- "date_maj": "2026-11-06T23:15:44",
+ "date_publication": "2026-11-06T23:35:00",
+ "date_maj": "2026-11-06T23:45:42",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T23:05:00",
-    "date_maj": "2026-11-06T23:15:44",
+    "date_publication": "2026-11-06T23:35:00",
+    "date_maj": "2026-11-06T23:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T23:05:00",
-    "date_maj": "2026-11-06T23:15:44",
+    "date_publication": "2026-11-06T23:35:00",
+    "date_maj": "2026-11-06T23:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T23:05:00",
-    "date_maj": "2026-11-06T23:15:44",
+    "date_publication": "2026-11-06T23:35:00",
+    "date_maj": "2026-11-06T23:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T23:05:00",
-    "date_maj": "2026-11-06T23:15:44",
+    "date_publication": "2026-11-06T23:35:00",
+    "date_maj": "2026-11-06T23:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T23:05:00",
-    "date_maj": "2026-11-06T23:15:44",
+    "date_publication": "2026-11-06T23:35:00",
+    "date_maj": "2026-11-06T23:45:42",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T23:05:00",
-    "date_maj": "2026-11-06T23:15:44",
+    "date_publication": "2026-11-06T23:35:00",
+    "date_maj": "2026-11-06T23:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T23:05:00",
-    "date_maj": "2026-11-06T23:15:44",
+    "date_publication": "2026-11-06T23:35:00",
+    "date_maj": "2026-11-06T23:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -246,33 +246,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté",
+    "type_evt": "Accident",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A5",
     "sens": "est-ouest",
     "direction": "Dijon → Paris",
-    "pr_debut": "78",
+    "pr_debut": "67",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Les Clérimois",
+    "commune": "Soucy",
     "commune_fin": "",
-    "heure_evt": "2026-11-06T22:44:00",
+    "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 22h44, Véhicule arrêté, A5, de Dijon vers Paris (sens est-ouest), au PR 78, à Les Clérimois, Sur bande d'arrêt d'urgence ; À 22h46, Accident, 2 PL - Événement signalé, A5, de Paris vers Dijon (sens ouest-est), au PR 68, à Soucy ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "89e3f056e2d4",
+    "texte": "Accident, 1 PL, A5, de Dijon vers Paris (sens est-ouest), au PR 67, à Soucy, Sur bande d'arrêt d'urgence ; À 23h31, Véhicule arrêté - PL, au PR 78, à Les Clérimois ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "09534ba847a2",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-06T23:05:00",
-    "date_maj": "2026-11-06T23:15:44",
+    "date_publication": "2026-11-06T23:35:00",
+    "date_maj": "2026-11-06T23:45:42",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.4591,
-     48.2295
+     3.32735,
+     48.25398
     ]
    }
   },
@@ -298,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-06T23:05:00",
-    "date_maj": "2026-11-06T23:15:44",
+    "date_publication": "2026-11-06T23:35:00",
+    "date_maj": "2026-11-06T23:45:42",
     "precision": "commune"
    },
    "geometry": {
