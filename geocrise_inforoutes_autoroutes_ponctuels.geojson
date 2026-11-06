@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-06T10:35:00",
- "date_maj": "2026-11-06T10:45:47",
+ "date_publication": "2026-11-06T10:50:00",
+ "date_maj": "2026-11-06T11:01:06",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
+    "date_publication": "2026-11-06T10:50:00",
+    "date_maj": "2026-11-06T11:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
+    "date_publication": "2026-11-06T10:50:00",
+    "date_maj": "2026-11-06T11:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
+    "date_publication": "2026-11-06T10:50:00",
+    "date_maj": "2026-11-06T11:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -103,40 +103,6 @@
     "coordinates": [
      4.88104,
      47.02533
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté - PL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A77",
-    "sens": "nord-sud",
-    "direction": "Paris → Nevers",
-    "pr_debut": "98+800",
-    "pr_fin": "99+300",
-    "longueur_km": 0.5,
-    "commune": "Cosne-Cours-sur-Loire",
-    "commune_fin": "",
-    "heure_evt": "2026-11-06T09:01:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 9h01, Véhicule arrêté - PL, A77, de Paris vers Nevers (sens nord-sud), au PR 99+210, à Cosne-Cours-sur-Loire, Sur bande d'arrêt d'urgence ; À 9h15, Réduction du nombre de voies, applicable à tous les véhicules, A77, de Paris vers Nevers (sens nord-sud), entre les PR 98+800 et 99+300 (sur 0,5 km), Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "b63ce585628a",
-    "dep": "58",
-    "nom_dep": "Nièvre",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     2.9323,
-     47.41391
     ]
    }
   },
@@ -162,8 +128,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
+    "date_publication": "2026-11-06T10:50:00",
+    "date_maj": "2026-11-06T11:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
+    "date_publication": "2026-11-06T10:50:00",
+    "date_maj": "2026-11-06T11:01:06",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -230,8 +196,8 @@
     "evt_id": "e2736028eee7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
+    "date_publication": "2026-11-06T10:50:00",
+    "date_maj": "2026-11-06T11:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +230,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
+    "date_publication": "2026-11-06T10:50:00",
+    "date_maj": "2026-11-06T11:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +264,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
+    "date_publication": "2026-11-06T10:50:00",
+    "date_maj": "2026-11-06T11:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +298,8 @@
     "evt_id": "3e62e135bace",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
+    "date_publication": "2026-11-06T10:50:00",
+    "date_maj": "2026-11-06T11:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +332,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-06T10:35:00",
-    "date_maj": "2026-11-06T10:45:47",
+    "date_publication": "2026-11-06T10:50:00",
+    "date_maj": "2026-11-06T11:01:06",
     "precision": "commune"
    },
    "geometry": {
