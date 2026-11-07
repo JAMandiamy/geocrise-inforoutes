@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-07T12:50:00",
- "date_maj": "2026-11-07T13:01:08",
+ "date_publication": "2026-11-07T13:05:00",
+ "date_maj": "2026-11-07T13:15:34",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T12:50:00",
-    "date_maj": "2026-11-07T13:01:08",
+    "date_publication": "2026-11-07T13:05:00",
+    "date_maj": "2026-11-07T13:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T12:50:00",
-    "date_maj": "2026-11-07T13:01:08",
+    "date_publication": "2026-11-07T13:05:00",
+    "date_maj": "2026-11-07T13:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T12:50:00",
-    "date_maj": "2026-11-07T13:01:08",
+    "date_publication": "2026-11-07T13:05:00",
+    "date_maj": "2026-11-07T13:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +103,40 @@
     "coordinates": [
      4.88104,
      47.02533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A77",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "138+568",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Chaulgnes",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal errant - Événement signalé, A77 (deux sens), au PR 138+568, à Chaulgnes ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f1cef51b8379",
+    "dep": "58",
+    "nom_dep": "Nièvre",
+    "date_publication": "2026-11-07T13:05:00",
+    "date_maj": "2026-11-07T13:15:34",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.10485,
+     47.12483
     ]
    }
   },
@@ -128,8 +162,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T12:50:00",
-    "date_maj": "2026-11-07T13:01:08",
+    "date_publication": "2026-11-07T13:05:00",
+    "date_maj": "2026-11-07T13:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +196,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T12:50:00",
-    "date_maj": "2026-11-07T13:01:08",
+    "date_publication": "2026-11-07T13:05:00",
+    "date_maj": "2026-11-07T13:15:34",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T12:50:00",
-    "date_maj": "2026-11-07T13:01:08",
+    "date_publication": "2026-11-07T13:05:00",
+    "date_maj": "2026-11-07T13:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +264,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T12:50:00",
-    "date_maj": "2026-11-07T13:01:08",
+    "date_publication": "2026-11-07T13:05:00",
+    "date_maj": "2026-11-07T13:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-07T12:50:00",
-    "date_maj": "2026-11-07T13:01:08",
+    "date_publication": "2026-11-07T13:05:00",
+    "date_maj": "2026-11-07T13:15:34",
     "precision": "commune"
    },
    "geometry": {
