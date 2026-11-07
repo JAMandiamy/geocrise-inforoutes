@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-07T14:35:00",
- "date_maj": "2026-11-07T15:01:12",
+ "date_publication": "2026-11-07T15:05:00",
+ "date_maj": "2026-11-07T15:15:39",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 3,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A36",
-    "sens": "est-ouest",
-    "direction": "Mulhouse → Beaune",
-    "pr_debut": "175+490",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Flagey-lès-Auxonne",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A36, de Mulhouse vers Beaune (sens est-ouest), Impact : route coupée, au PR 175+490, à Flagey-lès-Auxonne, situé sur bretelle de l'échangeur, Sur toutes les voies, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "d7360275bbb5",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.39919,
-     47.12978
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
+    "date_publication": "2026-11-07T15:05:00",
+    "date_maj": "2026-11-07T15:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +35,40 @@
     "coordinates": [
      4.88104,
      47.02533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "non",
+    "route": "A31",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "8+715",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Corgoloin",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal errant, A31 (deux sens), au PR 8+715, à Corgoloin ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "8c9e82725d88",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-07T15:05:00",
+    "date_maj": "2026-11-07T15:15:39",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93205,
+     47.08151
     ]
    }
   },
@@ -94,8 +94,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
+    "date_publication": "2026-11-07T15:05:00",
+    "date_maj": "2026-11-07T15:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "9975b09d046b",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
+    "date_publication": "2026-11-07T15:05:00",
+    "date_maj": "2026-11-07T15:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
+    "date_publication": "2026-11-07T15:05:00",
+    "date_maj": "2026-11-07T15:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -171,40 +171,6 @@
     "coordinates": [
      4.88104,
      47.02533
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A39",
-    "sens": "sud-nord",
-    "direction": "Bourg-en-Bresse → Dijon",
-    "pr_debut": "7",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Fauverney",
-    "commune_fin": "",
-    "heure_evt": "2026-11-07T14:29:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 14h29, Véhicule arrêté, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 7, à Fauverney, Sur bande d'arrêt d'urgence ; À 14h33, Obstacle, au PR 7 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "fdbf46220bfb",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.14636,
-     47.26316
     ]
    }
   },
@@ -230,8 +196,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
+    "date_publication": "2026-11-07T15:05:00",
+    "date_maj": "2026-11-07T15:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +230,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
+    "date_publication": "2026-11-07T15:05:00",
+    "date_maj": "2026-11-07T15:15:39",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -298,8 +264,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
+    "date_publication": "2026-11-07T15:05:00",
+    "date_maj": "2026-11-07T15:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +298,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
+    "date_publication": "2026-11-07T15:05:00",
+    "date_maj": "2026-11-07T15:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -366,8 +332,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-07T14:35:00",
-    "date_maj": "2026-11-07T15:01:12",
+    "date_publication": "2026-11-07T15:05:00",
+    "date_maj": "2026-11-07T15:15:39",
     "precision": "commune"
    },
    "geometry": {
