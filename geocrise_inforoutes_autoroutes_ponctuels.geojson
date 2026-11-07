@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-07T01:35:00",
- "date_maj": "2026-11-07T01:45:34",
+ "date_publication": "2026-11-07T01:50:00",
+ "date_maj": "2026-11-07T02:01:00",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T01:35:00",
-    "date_maj": "2026-11-07T01:45:34",
+    "date_publication": "2026-11-07T01:50:00",
+    "date_maj": "2026-11-07T02:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T01:35:00",
-    "date_maj": "2026-11-07T01:45:34",
+    "date_publication": "2026-11-07T01:50:00",
+    "date_maj": "2026-11-07T02:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      5.19027,
      47.44758
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "277+990",
+    "pr_fin": "278+290",
+    "longueur_km": 0.3,
+    "commune": "Crugey",
+    "commune_fin": "",
+    "heure_evt": "2026-11-07T01:20:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 1h20, Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 278, à Crugey, Sur bande d'arrêt d'urgence ; À 1h49, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 277+990 et 278+290 (sur 0,3 km), Sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "793f32784518",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-07T01:50:00",
+    "date_maj": "2026-11-07T02:01:00",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.6795,
+     47.1811
     ]
    }
   },
@@ -94,8 +128,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T01:35:00",
-    "date_maj": "2026-11-07T01:45:34",
+    "date_publication": "2026-11-07T01:50:00",
+    "date_maj": "2026-11-07T02:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -103,40 +137,6 @@
     "coordinates": [
      4.88104,
      47.02533
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "278",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Crugey",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 278, à Crugey, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "77b69c459330",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-07T01:35:00",
-    "date_maj": "2026-11-07T01:45:34",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.6795,
-     47.1811
     ]
    }
   },
@@ -162,8 +162,8 @@
     "evt_id": "27d96be1be2d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T01:35:00",
-    "date_maj": "2026-11-07T01:45:34",
+    "date_publication": "2026-11-07T01:50:00",
+    "date_maj": "2026-11-07T02:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T01:35:00",
-    "date_maj": "2026-11-07T01:45:34",
+    "date_publication": "2026-11-07T01:50:00",
+    "date_maj": "2026-11-07T02:01:00",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T01:35:00",
-    "date_maj": "2026-11-07T01:45:34",
+    "date_publication": "2026-11-07T01:50:00",
+    "date_maj": "2026-11-07T02:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-07T01:35:00",
-    "date_maj": "2026-11-07T01:45:34",
+    "date_publication": "2026-11-07T01:50:00",
+    "date_maj": "2026-11-07T02:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-07T01:35:00",
-    "date_maj": "2026-11-07T01:45:34",
+    "date_publication": "2026-11-07T01:50:00",
+    "date_maj": "2026-11-07T02:01:00",
     "precision": "commune"
    },
    "geometry": {
