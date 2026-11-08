@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-08T22:20:00",
- "date_maj": "2026-11-08T22:45:42",
+ "date_publication": "2026-11-08T22:50:00",
+ "date_maj": "2026-11-08T23:01:03",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T22:20:00",
-    "date_maj": "2026-11-08T22:45:42",
+    "date_publication": "2026-11-08T22:50:00",
+    "date_maj": "2026-11-08T23:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T22:20:00",
-    "date_maj": "2026-11-08T22:45:42",
+    "date_publication": "2026-11-08T22:50:00",
+    "date_maj": "2026-11-08T23:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -76,8 +76,8 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A36",
     "sens": "ouest-est",
@@ -87,15 +87,15 @@
     "longueur_km": 0.3,
     "commune": "Bagnot",
     "commune_fin": "",
-    "heure_evt": "2026-11-08T22:12:00",
+    "heure_evt": "2026-11-08T22:25:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 22h12, Accident, A36, de Beaune vers Mulhouse (sens ouest-est), au PR 201+400, à Bagnot, Sur voie de gauche ; À 22h15, Réduction du nombre de voies, applicable à tous les véhicules, A36, de Beaune vers Mulhouse (sens ouest-est), entre les PR 201+700 et 201+400 (sur 0,3 km), La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "174180fcfb86",
+    "texte": "À 22h25, Réduction du nombre de voies, applicable à tous les véhicules, A36, de Beaune vers Mulhouse (sens ouest-est), entre les PR 201+700 et 201+400 (sur 0,3 km), à Bagnot, Sur voie de gauche, La mesure est obligatoire ; À 22h27, Accident, 2 VL, A36, de Beaune vers Mulhouse (sens ouest-est), au PR 201+400 ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a8fe8f3cc3a0",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T22:20:00",
-    "date_maj": "2026-11-08T22:45:42",
+    "date_publication": "2026-11-08T22:50:00",
+    "date_maj": "2026-11-08T23:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T22:20:00",
-    "date_maj": "2026-11-08T22:45:42",
+    "date_publication": "2026-11-08T22:50:00",
+    "date_maj": "2026-11-08T23:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +137,40 @@
     "coordinates": [
      4.88104,
      47.02533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 3,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "355",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Tournus",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), Impact : route coupée, au PR 355, à Tournus, situé sur la bretelle de sortie de l'échangeur, Sur toutes les voies, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "fba76a6a68ab",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-08T22:50:00",
+    "date_maj": "2026-11-08T23:01:03",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89504,
+     46.56883
     ]
    }
   },
@@ -162,8 +196,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T22:20:00",
-    "date_maj": "2026-11-08T22:45:42",
+    "date_publication": "2026-11-08T22:50:00",
+    "date_maj": "2026-11-08T23:01:03",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T22:20:00",
-    "date_maj": "2026-11-08T22:45:42",
+    "date_publication": "2026-11-08T22:50:00",
+    "date_maj": "2026-11-08T23:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +264,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T22:20:00",
-    "date_maj": "2026-11-08T22:45:42",
+    "date_publication": "2026-11-08T22:50:00",
+    "date_maj": "2026-11-08T23:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-08T22:20:00",
-    "date_maj": "2026-11-08T22:45:42",
+    "date_publication": "2026-11-08T22:50:00",
+    "date_maj": "2026-11-08T23:01:03",
     "precision": "commune"
    },
    "geometry": {
