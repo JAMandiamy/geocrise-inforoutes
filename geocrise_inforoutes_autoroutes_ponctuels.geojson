@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-08T11:50:00",
- "date_maj": "2026-11-08T12:01:05",
+ "date_publication": "2026-11-08T12:05:00",
+ "date_maj": "2026-11-08T12:15:34",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T11:50:00",
-    "date_maj": "2026-11-08T12:01:05",
+    "date_publication": "2026-11-08T12:05:00",
+    "date_maj": "2026-11-08T12:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T11:50:00",
-    "date_maj": "2026-11-08T12:01:05",
+    "date_publication": "2026-11-08T12:05:00",
+    "date_maj": "2026-11-08T12:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T11:50:00",
-    "date_maj": "2026-11-08T12:01:05",
+    "date_publication": "2026-11-08T12:05:00",
+    "date_maj": "2026-11-08T12:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T11:50:00",
-    "date_maj": "2026-11-08T12:01:05",
+    "date_publication": "2026-11-08T12:05:00",
+    "date_maj": "2026-11-08T12:15:34",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -162,8 +162,42 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T11:50:00",
-    "date_maj": "2026-11-08T12:01:05",
+    "date_publication": "2026-11-08T12:05:00",
+    "date_maj": "2026-11-08T12:15:34",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86115,
+     46.66918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Piéton sur chaussée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "345",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Beaumont-sur-Grosne",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Piéton sur chaussée, A6, de Paris vers Lyon (sens nord-sud), au PR 345, à Beaumont-sur-Grosne ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "617a7ca7f1be",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-08T12:05:00",
+    "date_maj": "2026-11-08T12:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T11:50:00",
-    "date_maj": "2026-11-08T12:01:05",
+    "date_publication": "2026-11-08T12:05:00",
+    "date_maj": "2026-11-08T12:15:34",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +264,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-08T11:50:00",
-    "date_maj": "2026-11-08T12:01:05",
+    "date_publication": "2026-11-08T12:05:00",
+    "date_maj": "2026-11-08T12:15:34",
     "precision": "commune"
    },
    "geometry": {
