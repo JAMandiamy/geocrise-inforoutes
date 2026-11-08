@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-08T12:50:00",
- "date_maj": "2026-11-08T13:01:28",
+ "date_publication": "2026-11-08T13:05:00",
+ "date_maj": "2026-11-08T13:15:36",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T12:50:00",
-    "date_maj": "2026-11-08T13:01:28",
+    "date_publication": "2026-11-08T13:05:00",
+    "date_maj": "2026-11-08T13:15:36",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T12:50:00",
-    "date_maj": "2026-11-08T13:01:28",
+    "date_publication": "2026-11-08T13:05:00",
+    "date_maj": "2026-11-08T13:15:36",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      5.19027,
      47.44758
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A39",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "2+710",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Sennecey-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal errant - Événement signalé, A39 (deux sens), au PR 2+710, à Sennecey-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "13a31f82bb19",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-08T13:05:00",
+    "date_maj": "2026-11-08T13:15:36",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.10504,
+     47.29184
     ]
    }
   },
@@ -94,8 +128,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T12:50:00",
-    "date_maj": "2026-11-08T13:01:28",
+    "date_publication": "2026-11-08T13:05:00",
+    "date_maj": "2026-11-08T13:15:36",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +162,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T12:50:00",
-    "date_maj": "2026-11-08T13:01:28",
+    "date_publication": "2026-11-08T13:05:00",
+    "date_maj": "2026-11-08T13:15:36",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -162,8 +196,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T12:50:00",
-    "date_maj": "2026-11-08T13:01:28",
+    "date_publication": "2026-11-08T13:05:00",
+    "date_maj": "2026-11-08T13:15:36",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T12:50:00",
-    "date_maj": "2026-11-08T13:01:28",
+    "date_publication": "2026-11-08T13:05:00",
+    "date_maj": "2026-11-08T13:15:36",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +264,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-08T12:50:00",
-    "date_maj": "2026-11-08T13:01:28",
+    "date_publication": "2026-11-08T13:05:00",
+    "date_maj": "2026-11-08T13:15:36",
     "precision": "commune"
    },
    "geometry": {
