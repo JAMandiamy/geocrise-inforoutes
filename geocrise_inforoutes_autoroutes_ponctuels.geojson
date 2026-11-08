@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-09T00:05:00",
- "date_maj": "2026-11-09T00:15:36",
+ "date_publication": "2026-11-09T00:20:00",
+ "date_maj": "2026-11-09T00:31:01",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T00:05:00",
-    "date_maj": "2026-11-09T00:15:36",
+    "date_publication": "2026-11-09T00:20:00",
+    "date_maj": "2026-11-09T00:31:01",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T00:05:00",
-    "date_maj": "2026-11-09T00:15:36",
+    "date_publication": "2026-11-09T00:20:00",
+    "date_maj": "2026-11-09T00:31:01",
     "precision": "commune"
    },
    "geometry": {
@@ -76,26 +76,60 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A6",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "268+226",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "256",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Maconge",
+    "commune": "Éguilly",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Animal errant, A6 (deux sens), au PR 268+226, à Maconge ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "c5d43bef607b",
+    "texte": "Accident, 1 VL - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 256, à Éguilly, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "d976a1befed8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T00:05:00",
-    "date_maj": "2026-11-09T00:15:36",
+    "date_publication": "2026-11-09T00:20:00",
+    "date_maj": "2026-11-09T00:31:01",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.50099,
+     47.30313
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "268+500",
+    "pr_fin": "268",
+    "longueur_km": 0.5,
+    "commune": "Maconge",
+    "commune_fin": "",
+    "heure_evt": "2026-11-09T00:00:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 0h00, Animal errant, A6 (deux sens), au PR 268+226, à Maconge ; À 0h12, Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), au PR 256, à Éguilly, situé sur une Aire de service, Hors voie de circulation ; À 0h14, Produit sur chaussée(Route rendue glissante), A6, de Lyon vers Paris (sens sud-nord), entre les PR 268+500 et 268 (sur 0,5 km), à Maconge ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "658c708d0920",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-09T00:20:00",
+    "date_maj": "2026-11-09T00:31:01",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +162,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T00:05:00",
-    "date_maj": "2026-11-09T00:15:36",
+    "date_publication": "2026-11-09T00:20:00",
+    "date_maj": "2026-11-09T00:31:01",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +196,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T00:05:00",
-    "date_maj": "2026-11-09T00:15:36",
+    "date_publication": "2026-11-09T00:20:00",
+    "date_maj": "2026-11-09T00:31:01",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T00:05:00",
-    "date_maj": "2026-11-09T00:15:36",
+    "date_publication": "2026-11-09T00:20:00",
+    "date_maj": "2026-11-09T00:31:01",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +264,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T00:05:00",
-    "date_maj": "2026-11-09T00:15:36",
+    "date_publication": "2026-11-09T00:20:00",
+    "date_maj": "2026-11-09T00:31:01",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-09T00:05:00",
-    "date_maj": "2026-11-09T00:15:36",
+    "date_publication": "2026-11-09T00:20:00",
+    "date_maj": "2026-11-09T00:31:01",
     "precision": "commune"
    },
    "geometry": {
