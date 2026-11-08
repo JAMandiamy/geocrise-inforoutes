@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-08T06:05:00",
- "date_maj": "2026-11-08T06:15:37",
+ "date_publication": "2026-11-08T06:20:00",
+ "date_maj": "2026-11-08T06:31:04",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T06:05:00",
-    "date_maj": "2026-11-08T06:15:37",
+    "date_publication": "2026-11-08T06:20:00",
+    "date_maj": "2026-11-08T06:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T06:05:00",
-    "date_maj": "2026-11-08T06:15:37",
+    "date_publication": "2026-11-08T06:20:00",
+    "date_maj": "2026-11-08T06:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T06:05:00",
-    "date_maj": "2026-11-08T06:15:37",
+    "date_publication": "2026-11-08T06:20:00",
+    "date_maj": "2026-11-08T06:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -112,7 +112,7 @@
     "importance": 2,
     "type_evt": "Accident",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
     "sens": "sud-nord",
     "direction": "Lyon → Paris",
@@ -124,12 +124,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 339+208, à Saint-Loup-de-Varennes, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "abbaba1e761c",
+    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), au PR 339+208, à Saint-Loup-de-Varennes, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "ce9f1640db54",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T06:05:00",
-    "date_maj": "2026-11-08T06:15:37",
+    "date_publication": "2026-11-08T06:20:00",
+    "date_maj": "2026-11-08T06:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T06:05:00",
-    "date_maj": "2026-11-08T06:15:37",
+    "date_publication": "2026-11-08T06:20:00",
+    "date_maj": "2026-11-08T06:31:04",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "425ed6b09dec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T06:05:00",
-    "date_maj": "2026-11-08T06:15:37",
+    "date_publication": "2026-11-08T06:20:00",
+    "date_maj": "2026-11-08T06:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T06:05:00",
-    "date_maj": "2026-11-08T06:15:37",
+    "date_publication": "2026-11-08T06:20:00",
+    "date_maj": "2026-11-08T06:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +264,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-08T06:05:00",
-    "date_maj": "2026-11-08T06:15:37",
+    "date_publication": "2026-11-08T06:20:00",
+    "date_maj": "2026-11-08T06:31:04",
     "precision": "commune"
    },
    "geometry": {
