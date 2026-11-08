@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-08T14:35:00",
- "date_maj": "2026-11-08T14:45:33",
+ "date_publication": "2026-11-08T14:50:00",
+ "date_maj": "2026-11-08T15:01:00",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T14:35:00",
-    "date_maj": "2026-11-08T14:45:33",
+    "date_publication": "2026-11-08T14:50:00",
+    "date_maj": "2026-11-08T15:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T14:35:00",
-    "date_maj": "2026-11-08T14:45:33",
+    "date_publication": "2026-11-08T14:50:00",
+    "date_maj": "2026-11-08T15:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      5.19027,
      47.44758
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "283+850",
-    "pr_fin": "284+50",
-    "longueur_km": 0.2,
-    "commune": "Bligny-sur-Ouche",
-    "commune_fin": "",
-    "heure_evt": "2026-11-08T14:13:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 14h13, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 283+850 et 284+50 (sur 0,2 km), à Bligny-sur-Ouche, Sur voie véhicules lents, La mesure est obligatoire ; À 14h14, Véhicule arrêté - VL, A6, de Paris vers Lyon (sens nord-sud), au PR 284+50 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "460c19ba2b0e",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T14:35:00",
-    "date_maj": "2026-11-08T14:45:33",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.68927,
-     47.11676
     ]
    }
   },
@@ -128,8 +94,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-08T14:35:00",
-    "date_maj": "2026-11-08T14:45:33",
+    "date_publication": "2026-11-08T14:50:00",
+    "date_maj": "2026-11-08T15:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T14:35:00",
-    "date_maj": "2026-11-08T14:45:33",
+    "date_publication": "2026-11-08T14:50:00",
+    "date_maj": "2026-11-08T15:01:00",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T14:35:00",
-    "date_maj": "2026-11-08T14:45:33",
+    "date_publication": "2026-11-08T14:50:00",
+    "date_maj": "2026-11-08T15:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +196,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-08T14:35:00",
-    "date_maj": "2026-11-08T14:45:33",
+    "date_publication": "2026-11-08T14:50:00",
+    "date_maj": "2026-11-08T15:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +230,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-08T14:35:00",
-    "date_maj": "2026-11-08T14:45:33",
+    "date_publication": "2026-11-08T14:50:00",
+    "date_maj": "2026-11-08T15:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -273,40 +239,6 @@
     "coordinates": [
      4.02102,
      47.5148
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A19",
-    "sens": "nord-sud",
-    "direction": "Sens (A5) → Orléans (A10)",
-    "pr_debut": "15+300",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Villeroy",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A19, de Sens (A5) vers Orléans (A10) (sens nord-sud), au PR 15+300, à Villeroy, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "c28f5060b95f",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-08T14:35:00",
-    "date_maj": "2026-11-08T14:45:33",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.18398,
-     48.18216
     ]
    }
   }
