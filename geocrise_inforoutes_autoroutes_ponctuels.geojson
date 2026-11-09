@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-09T10:50:00",
- "date_maj": "2026-11-09T11:01:30",
+ "date_publication": "2026-11-09T11:05:00",
+ "date_maj": "2026-11-09T11:15:42",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T10:50:00",
-    "date_maj": "2026-11-09T11:01:30",
+    "date_publication": "2026-11-09T11:05:00",
+    "date_maj": "2026-11-09T11:15:42",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T10:50:00",
-    "date_maj": "2026-11-09T11:01:30",
+    "date_publication": "2026-11-09T11:05:00",
+    "date_maj": "2026-11-09T11:15:42",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "45aaab047260",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T10:50:00",
-    "date_maj": "2026-11-09T11:01:30",
+    "date_publication": "2026-11-09T11:05:00",
+    "date_maj": "2026-11-09T11:15:42",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T10:50:00",
-    "date_maj": "2026-11-09T11:01:30",
+    "date_publication": "2026-11-09T11:05:00",
+    "date_maj": "2026-11-09T11:15:42",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T10:50:00",
-    "date_maj": "2026-11-09T11:01:30",
+    "date_publication": "2026-11-09T11:05:00",
+    "date_maj": "2026-11-09T11:15:42",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T10:50:00",
-    "date_maj": "2026-11-09T11:01:30",
+    "date_publication": "2026-11-09T11:05:00",
+    "date_maj": "2026-11-09T11:15:42",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T10:50:00",
-    "date_maj": "2026-11-09T11:01:30",
+    "date_publication": "2026-11-09T11:05:00",
+    "date_maj": "2026-11-09T11:15:42",
     "precision": "commune"
    },
    "geometry": {
@@ -246,33 +246,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Animal écrasé",
+    "type_evt": "Animal errant",
     "groupe": "2 - Météo et environnement",
-    "signale": "non",
+    "signale": "oui",
     "route": "A19",
-    "sens": "nord-sud",
-    "direction": "Sens (A5) → Orléans (A10)",
-    "pr_debut": "8",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "15+563",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Nailly",
+    "commune": "Villeroy",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Animal écrasé, A19, de Sens (A5) vers Orléans (A10) (sens nord-sud), au PR 8, à Nailly ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "45dbd5edd50e",
+    "texte": "Animal errant - Événement signalé, A19 (deux sens), au PR 15+563, à Villeroy ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7c5d414c76eb",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-09T10:50:00",
-    "date_maj": "2026-11-09T11:01:30",
+    "date_publication": "2026-11-09T11:05:00",
+    "date_maj": "2026-11-09T11:15:42",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.21055,
-     48.21771
+     3.18398,
+     48.18216
     ]
    }
   },
@@ -298,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-09T10:50:00",
-    "date_maj": "2026-11-09T11:01:30",
+    "date_publication": "2026-11-09T11:05:00",
+    "date_maj": "2026-11-09T11:15:42",
     "precision": "commune"
    },
    "geometry": {
