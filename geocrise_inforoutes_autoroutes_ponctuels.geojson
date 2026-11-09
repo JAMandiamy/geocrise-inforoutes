@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-09T10:05:00",
- "date_maj": "2026-11-09T10:15:36",
+ "date_publication": "2026-11-09T10:20:00",
+ "date_maj": "2026-11-09T10:31:04",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T10:05:00",
-    "date_maj": "2026-11-09T10:15:36",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T10:05:00",
-    "date_maj": "2026-11-09T10:15:36",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "45aaab047260",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T10:05:00",
-    "date_maj": "2026-11-09T10:15:36",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T10:05:00",
-    "date_maj": "2026-11-09T10:15:36",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T10:05:00",
-    "date_maj": "2026-11-09T10:15:36",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +196,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T10:05:00",
-    "date_maj": "2026-11-09T10:15:36",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -223,15 +223,15 @@
     "longueur_km": 0.2,
     "commune": "Charnay-lès-Mâcon",
     "commune_fin": "",
-    "heure_evt": "2026-11-08T10:14:00",
+    "heure_evt": "2026-11-09T10:14:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
     "texte": "À 10h14, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 390+100 et 389+900 (sur 0,2 km), à Charnay-lès-Mâcon, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T10:05:00",
-    "date_maj": "2026-11-09T10:15:36",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -245,10 +245,44 @@
   {
    "type": "Feature",
    "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - VL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "328+200",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Champforgeuil",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - VL, A6, de Paris vers Lyon (sens nord-sud), au PR 328+200, à Champforgeuil, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "27d59d896c4b",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82274,
+     46.81345
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "importance": 2,
     "type_evt": "Animal écrasé",
     "groupe": "2 - Météo et environnement",
-    "signale": "oui",
+    "signale": "non",
     "route": "A19",
     "sens": "nord-sud",
     "direction": "Sens (A5) → Orléans (A10)",
@@ -260,12 +294,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Animal écrasé - Événement signalé, A19, de Sens (A5) vers Orléans (A10) (sens nord-sud), au PR 8, à Nailly ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "d145834246e1",
+    "texte": "Animal écrasé, A19, de Sens (A5) vers Orléans (A10) (sens nord-sud), au PR 8, à Nailly ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "45dbd5edd50e",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-09T10:05:00",
-    "date_maj": "2026-11-09T10:15:36",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +332,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-09T10:05:00",
-    "date_maj": "2026-11-09T10:15:36",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
     "precision": "commune"
    },
    "geometry": {
@@ -307,6 +341,40 @@
     "coordinates": [
      4.02102,
      47.5148
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - PL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A19",
+    "sens": "est-ouest",
+    "direction": "Sens (A5) → Orléans (A10)",
+    "pr_debut": "29+850",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Savigny-sur-Clairis",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA Cofiroute",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - PL - Événement signalé, A19, de Sens (A5) vers Orléans (A10) (sens est-ouest), au PR 29+850, à Savigny-sur-Clairis, situé sur bretelle de l'échangeur, Sur bande d'arrêt d'urgence ; [Origine : SCA Cofiroute]",
+    "evt_id": "04ff778321fb",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-09T10:20:00",
+    "date_maj": "2026-11-09T10:31:04",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.0804,
+     48.07721
     ]
    }
   }
