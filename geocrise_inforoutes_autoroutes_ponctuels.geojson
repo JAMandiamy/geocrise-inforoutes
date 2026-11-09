@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-09T14:20:00",
- "date_maj": "2026-11-09T14:30:57",
+ "date_publication": "2026-11-09T14:35:00",
+ "date_maj": "2026-11-09T14:45:38",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "079bc098154c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T14:20:00",
-    "date_maj": "2026-11-09T14:30:57",
+    "date_publication": "2026-11-09T14:35:00",
+    "date_maj": "2026-11-09T14:45:38",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T14:20:00",
-    "date_maj": "2026-11-09T14:30:57",
+    "date_publication": "2026-11-09T14:35:00",
+    "date_maj": "2026-11-09T14:45:38",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "45aaab047260",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T14:20:00",
-    "date_maj": "2026-11-09T14:30:57",
+    "date_publication": "2026-11-09T14:35:00",
+    "date_maj": "2026-11-09T14:45:38",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "78947b7588ba",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-09T14:20:00",
-    "date_maj": "2026-11-09T14:30:57",
+    "date_publication": "2026-11-09T14:35:00",
+    "date_maj": "2026-11-09T14:45:38",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +137,40 @@
     "coordinates": [
      4.88104,
      47.02533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A31",
+    "sens": "sud-nord",
+    "direction": "Lyon → Luxembourg",
+    "pr_debut": "51",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Arceau",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - Événement signalé, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 51, à Arceau, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e5d9597536e3",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-09T14:35:00",
+    "date_maj": "2026-11-09T14:45:38",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.19382,
+     47.37799
     ]
    }
   },
@@ -162,8 +196,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T14:20:00",
-    "date_maj": "2026-11-09T14:30:57",
+    "date_publication": "2026-11-09T14:35:00",
+    "date_maj": "2026-11-09T14:45:38",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T14:20:00",
-    "date_maj": "2026-11-09T14:30:57",
+    "date_publication": "2026-11-09T14:35:00",
+    "date_maj": "2026-11-09T14:45:38",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +264,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T14:20:00",
-    "date_maj": "2026-11-09T14:30:57",
+    "date_publication": "2026-11-09T14:35:00",
+    "date_maj": "2026-11-09T14:45:38",
     "precision": "commune"
    },
    "geometry": {
@@ -239,40 +273,6 @@
     "coordinates": [
      4.79099,
      46.30523
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "393",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Vinzelles",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 393, à Vinzelles ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f41d8112a02d",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-09T14:20:00",
-    "date_maj": "2026-11-09T14:30:57",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.77625,
-     46.268
     ]
    }
   },
@@ -298,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-09T14:20:00",
-    "date_maj": "2026-11-09T14:30:57",
+    "date_publication": "2026-11-09T14:35:00",
+    "date_maj": "2026-11-09T14:45:38",
     "precision": "commune"
    },
    "geometry": {
