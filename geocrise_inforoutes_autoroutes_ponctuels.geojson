@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-10T23:50:00",
- "date_maj": "2026-11-11T00:01:00",
+ "date_publication": "2026-11-11T00:05:00",
+ "date_maj": "2026-11-11T00:15:41",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T23:50:00",
-    "date_maj": "2026-11-11T00:01:00",
+    "date_publication": "2026-11-11T00:05:00",
+    "date_maj": "2026-11-11T00:15:41",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      5.19027,
      47.44758
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "287+800",
-    "pr_fin": "287+600",
-    "longueur_km": 0.2,
-    "commune": "Aubaine",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), au PR 287+600, à Aubaine, Sur bande d'arrêt d'urgence ; Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 287+800 et 287+600 (sur 0,2 km), Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "66156faf9f6a",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T23:50:00",
-    "date_maj": "2026-11-11T00:01:00",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.73572,
-     47.13124
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T23:50:00",
-    "date_maj": "2026-11-11T00:01:00",
+    "date_publication": "2026-11-11T00:05:00",
+    "date_maj": "2026-11-11T00:15:41",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T23:50:00",
-    "date_maj": "2026-11-11T00:01:00",
+    "date_publication": "2026-11-11T00:05:00",
+    "date_maj": "2026-11-11T00:15:41",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T23:50:00",
-    "date_maj": "2026-11-11T00:01:00",
+    "date_publication": "2026-11-11T00:05:00",
+    "date_maj": "2026-11-11T00:15:41",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-10T23:50:00",
-    "date_maj": "2026-11-11T00:01:00",
+    "date_publication": "2026-11-11T00:05:00",
+    "date_maj": "2026-11-11T00:15:41",
     "precision": "commune"
    },
    "geometry": {
