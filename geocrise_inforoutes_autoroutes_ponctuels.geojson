@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-10T02:50:00",
- "date_maj": "2026-11-10T03:01:06",
+ "date_publication": "2026-11-10T03:05:00",
+ "date_maj": "2026-11-10T03:15:40",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T02:50:00",
-    "date_maj": "2026-11-10T03:01:06",
+    "date_publication": "2026-11-10T03:05:00",
+    "date_maj": "2026-11-10T03:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      5.19027,
      47.44758
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "272+964",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Châteauneuf",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, 1 PL, A6, de Paris vers Lyon (sens nord-sud), au PR 272+964, à Châteauneuf, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "49e4155865e8",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-10T03:05:00",
+    "date_maj": "2026-11-10T03:15:40",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.6472,
+     47.21755
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "e5d9597536e3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T02:50:00",
-    "date_maj": "2026-11-10T03:01:06",
+    "date_publication": "2026-11-10T03:05:00",
+    "date_maj": "2026-11-10T03:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +128,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T02:50:00",
-    "date_maj": "2026-11-10T03:01:06",
+    "date_publication": "2026-11-10T03:05:00",
+    "date_maj": "2026-11-10T03:15:40",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +162,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T02:50:00",
-    "date_maj": "2026-11-10T03:01:06",
+    "date_publication": "2026-11-10T03:05:00",
+    "date_maj": "2026-11-10T03:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +196,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T02:50:00",
-    "date_maj": "2026-11-10T03:01:06",
+    "date_publication": "2026-11-10T03:05:00",
+    "date_maj": "2026-11-10T03:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "d4cd8bb24723",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T02:50:00",
-    "date_maj": "2026-11-10T03:01:06",
+    "date_publication": "2026-11-10T03:05:00",
+    "date_maj": "2026-11-10T03:15:40",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -226,12 +260,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 380+100, à Saint-Martin-Belle-Roche, situé sur la bretelle de sortie de l'échangeur, Hors voie de circulation, sur accotement, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "bd9e0bf91c52",
+    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 380+100, à Saint-Martin-Belle-Roche, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, sur accotement, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "37df5f3a4a8f",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T02:50:00",
-    "date_maj": "2026-11-10T03:01:06",
+    "date_publication": "2026-11-10T03:05:00",
+    "date_maj": "2026-11-10T03:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-10T02:50:00",
-    "date_maj": "2026-11-10T03:01:06",
+    "date_publication": "2026-11-10T03:05:00",
+    "date_maj": "2026-11-10T03:15:40",
     "precision": "commune"
    },
    "geometry": {
