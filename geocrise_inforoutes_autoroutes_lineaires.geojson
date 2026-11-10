@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-10T04:50:00",
- "date_maj": "2026-11-10T05:01:08",
+ "date_publication": "2026-11-10T05:05:00",
+ "date_maj": "2026-11-10T05:15:37",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T04:50:00",
-    "date_maj": "2026-11-10T05:01:08",
+    "date_publication": "2026-11-10T05:05:00",
+    "date_maj": "2026-11-10T05:15:37",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -59,15 +59,15 @@
     "longueur_km": 1.7,
     "commune": "Chaintré",
     "commune_fin": "Crêches-sur-Saône",
-    "heure_evt": "2026-11-10T04:14:00",
+    "heure_evt": "2026-11-10T04:44:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 4h14, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 394+900 et 396+600 (sur 1,7 km), de Chaintré à Crêches-sur-Saône, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; À 4h30, Piéton sur chaussée, entre les PR 394+900 et 412 (sur 17,1 km), entre les départements 71 (Saône-et-Loire) et 69 (Rhône), de Chaintré à Belleville ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "b21171a4667e",
+    "texte": "À 4h44, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 394+900 et 396+600 (sur 1,7 km), de Chaintré à Crêches-sur-Saône, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "440fe412678c",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T04:50:00",
-    "date_maj": "2026-11-10T05:01:08",
+    "date_publication": "2026-11-10T05:05:00",
+    "date_maj": "2026-11-10T05:15:37",
     "precision": "communes (début → fin)"
    },
    "geometry": {
