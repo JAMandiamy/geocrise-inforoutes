@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-10T12:05:00",
- "date_maj": "2026-11-10T12:31:04",
+ "date_publication": "2026-11-10T12:35:00",
+ "date_maj": "2026-11-10T12:45:41",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T12:05:00",
-    "date_maj": "2026-11-10T12:31:04",
+    "date_publication": "2026-11-10T12:35:00",
+    "date_maj": "2026-11-10T12:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      5.19027,
      47.44758
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
-    "pr_debut": "37+600",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Fauverney",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 37+600, à Fauverney, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "0afb062b7a58",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T12:05:00",
-    "date_maj": "2026-11-10T12:31:04",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.14636,
-     47.26316
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "e5d9597536e3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T12:05:00",
-    "date_maj": "2026-11-10T12:31:04",
+    "date_publication": "2026-11-10T12:35:00",
+    "date_maj": "2026-11-10T12:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T12:05:00",
-    "date_maj": "2026-11-10T12:31:04",
+    "date_publication": "2026-11-10T12:35:00",
+    "date_maj": "2026-11-10T12:45:41",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T12:05:00",
-    "date_maj": "2026-11-10T12:31:04",
+    "date_publication": "2026-11-10T12:35:00",
+    "date_maj": "2026-11-10T12:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T12:05:00",
-    "date_maj": "2026-11-10T12:31:04",
+    "date_publication": "2026-11-10T12:35:00",
+    "date_maj": "2026-11-10T12:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -205,40 +171,6 @@
     "coordinates": [
      4.79099,
      46.30523
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A5",
-    "sens": "ouest-est",
-    "direction": "Paris → Dijon",
-    "pr_debut": "65+200",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Soucy",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A5, de Paris vers Dijon (sens ouest-est), au PR 65+200, à Soucy ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f631e883ebd6",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-10T12:05:00",
-    "date_maj": "2026-11-10T12:31:04",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.32735,
-     48.25398
     ]
    }
   },
@@ -264,8 +196,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-10T12:05:00",
-    "date_maj": "2026-11-10T12:31:04",
+    "date_publication": "2026-11-10T12:35:00",
+    "date_maj": "2026-11-10T12:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -273,6 +205,40 @@
     "coordinates": [
      4.02102,
      47.5148
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - PL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "209+21",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Sauvigny-le-Bois",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - PL, A6, de Paris vers Lyon (sens ouest-est), au PR 209+21, à Sauvigny-le-Bois, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, sur accotement, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "09852de08c11",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-10T12:35:00",
+    "date_maj": "2026-11-10T12:45:41",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.96242,
+     47.5131
     ]
    }
   }
