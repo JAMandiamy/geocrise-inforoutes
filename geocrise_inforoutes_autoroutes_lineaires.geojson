@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-10T05:05:00",
- "date_maj": "2026-11-10T05:19:46",
+ "date_publication": "2026-11-10T05:20:00",
+ "date_maj": "2026-11-10T05:30:55",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T05:05:00",
-    "date_maj": "2026-11-10T05:19:46",
+    "date_publication": "2026-11-10T05:20:00",
+    "date_maj": "2026-11-10T05:30:55",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -40,46 +40,6 @@
      [
       4.84895,
       46.72173
-     ]
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "394+900",
-    "pr_fin": "396+600",
-    "longueur_km": 1.7,
-    "commune": "Chaintré",
-    "commune_fin": "Crêches-sur-Saône",
-    "heure_evt": "2026-11-10T04:44:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 4h44, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 394+900 et 396+600 (sur 1,7 km), de Chaintré à Crêches-sur-Saône, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "440fe412678c",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T05:05:00",
-    "date_maj": "2026-11-10T05:19:46",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.76945,
-      46.25911
-     ],
-     [
-      4.78705,
-      46.23918
      ]
     ]
    }
