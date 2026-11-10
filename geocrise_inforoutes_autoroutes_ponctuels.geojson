@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-10T04:20:00",
- "date_maj": "2026-11-10T04:30:58",
+ "date_publication": "2026-11-10T04:35:00",
+ "date_maj": "2026-11-10T04:45:48",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T04:20:00",
-    "date_maj": "2026-11-10T04:30:58",
+    "date_publication": "2026-11-10T04:35:00",
+    "date_maj": "2026-11-10T04:45:48",
     "precision": "commune"
    },
    "geometry": {
@@ -42,7 +42,7 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté",
+    "type_evt": "Véhicule arrêté - VL",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A36",
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A36, de Mulhouse vers Beaune (sens est-ouest), au PR 175+610, à Flagey-lès-Auxonne, situé sur bretelle de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "64aaa940d243",
+    "texte": "Véhicule arrêté - VL, A36, de Mulhouse vers Beaune (sens est-ouest), au PR 175+610, à Flagey-lès-Auxonne, situé sur bretelle de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "05d77c7226bb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T04:20:00",
-    "date_maj": "2026-11-10T04:30:58",
+    "date_publication": "2026-11-10T04:35:00",
+    "date_maj": "2026-11-10T04:45:48",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      5.39919,
      47.12978
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "271+900",
-    "pr_fin": "272+300",
-    "longueur_km": 0.4,
-    "commune": "Vandenesse-en-Auxois",
-    "commune_fin": "",
-    "heure_evt": "2026-11-10T03:26:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 3h26, Accident, 1 PL, 1 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 272+200, à Vandenesse-en-Auxois, Sur voie de droite, sur bande d'arrêt d'urgence ; À 3h27, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 271+900 et 272+300 (sur 0,4 km), sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "c9af262a0f3e",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T04:20:00",
-    "date_maj": "2026-11-10T04:30:58",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.61382,
-     47.22485
     ]
    }
   },
@@ -128,8 +94,8 @@
     "evt_id": "e5d9597536e3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-10T04:20:00",
-    "date_maj": "2026-11-10T04:30:58",
+    "date_publication": "2026-11-10T04:35:00",
+    "date_maj": "2026-11-10T04:45:48",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T04:20:00",
-    "date_maj": "2026-11-10T04:30:58",
+    "date_publication": "2026-11-10T04:35:00",
+    "date_maj": "2026-11-10T04:45:48",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T04:20:00",
-    "date_maj": "2026-11-10T04:30:58",
+    "date_publication": "2026-11-10T04:35:00",
+    "date_maj": "2026-11-10T04:45:48",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +196,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T04:20:00",
-    "date_maj": "2026-11-10T04:30:58",
+    "date_publication": "2026-11-10T04:35:00",
+    "date_maj": "2026-11-10T04:45:48",
     "precision": "commune"
    },
    "geometry": {
@@ -257,15 +223,15 @@
     "longueur_km": 1.7,
     "commune": "Chaintré",
     "commune_fin": "Crêches-sur-Saône",
-    "heure_evt": "2026-11-10T02:02:00",
+    "heure_evt": "2026-11-10T04:14:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 2h02, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 394+900 et 396+600 (sur 1,7 km), de Chaintré à Crêches-sur-Saône, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "754cc0b7d177",
+    "texte": "À 4h14, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 394+900 et 396+600 (sur 1,7 km), de Chaintré à Crêches-sur-Saône, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; À 4h30, Piéton sur chaussée, entre les PR 394+900 et 412 (sur 17,1 km), entre les départements 71 (Saône-et-Loire) et 69 (Rhône), de Chaintré à Belleville ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "b21171a4667e",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T04:20:00",
-    "date_maj": "2026-11-10T04:30:58",
+    "date_publication": "2026-11-10T04:35:00",
+    "date_maj": "2026-11-10T04:45:48",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -273,6 +239,40 @@
     "coordinates": [
      4.77825,
      46.249145
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté - PL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "est-ouest",
+    "direction": "Lyon → Paris",
+    "pr_debut": "143+900",
+    "pr_fin": "142",
+    "longueur_km": 1.9,
+    "commune": "Fleury-la-Vallée",
+    "commune_fin": "Laduz",
+    "heure_evt": "2026-11-10T04:22:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 4h22, Véhicule arrêté - PL, A6, de Lyon vers Paris (sens est-ouest), au PR 142, à Laduz, Sur bande d'arrêt d'urgence ; À 4h28, Réduction du nombre de voies, applicable à tous les véhicules - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), entre les PR 143+900 et 142 (sur 1,9 km), de Fleury-la-Vallée à Laduz, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "02bdc6babe0c",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-10T04:35:00",
+    "date_maj": "2026-11-10T04:45:48",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.44777,
+     47.86455
     ]
    }
   },
@@ -298,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-10T04:20:00",
-    "date_maj": "2026-11-10T04:30:58",
+    "date_publication": "2026-11-10T04:35:00",
+    "date_maj": "2026-11-10T04:45:48",
     "precision": "commune"
    },
    "geometry": {
