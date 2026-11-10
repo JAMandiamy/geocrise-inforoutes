@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-10T04:05:00",
- "date_maj": "2026-11-10T04:15:33",
+ "date_publication": "2026-11-10T04:20:00",
+ "date_maj": "2026-11-10T04:30:58",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T04:05:00",
-    "date_maj": "2026-11-10T04:15:33",
+    "date_publication": "2026-11-10T04:20:00",
+    "date_maj": "2026-11-10T04:30:58",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -48,8 +48,8 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté - PL",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "nord-sud",
@@ -59,15 +59,15 @@
     "longueur_km": 1.7,
     "commune": "Chaintré",
     "commune_fin": "Crêches-sur-Saône",
-    "heure_evt": "2026-11-10T01:35:00",
+    "heure_evt": "2026-11-10T02:02:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 1h35, Véhicule arrêté - PL, A6, de Paris vers Lyon (sens nord-sud), au PR 396, à Crêches-sur-Saône, Sur bande d'arrêt d'urgence ; À 2h02, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 394+900 et 396+600 (sur 1,7 km), de Chaintré à Crêches-sur-Saône, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "d4cd8bb24723",
+    "texte": "À 2h02, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 394+900 et 396+600 (sur 1,7 km), de Chaintré à Crêches-sur-Saône, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "754cc0b7d177",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-10T04:05:00",
-    "date_maj": "2026-11-10T04:15:33",
+    "date_publication": "2026-11-10T04:20:00",
+    "date_maj": "2026-11-10T04:30:58",
     "precision": "communes (début → fin)"
    },
    "geometry": {
