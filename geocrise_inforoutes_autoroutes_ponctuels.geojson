@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-11T13:05:00",
- "date_maj": "2026-11-11T13:15:35",
+ "date_publication": "2026-11-11T13:20:00",
+ "date_maj": "2026-11-11T13:30:51",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 3,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "306+300",
-    "pr_fin": "306+350",
-    "longueur_km": 0.1,
-    "commune": "Levernois",
-    "commune_fin": "",
-    "heure_evt": "2026-11-11T12:47:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 12h47, Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), Impact : route coupée, au PR 306+369, à Levernois, situé sur la bretelle d'entrée de l'échangeur, Sur toutes les voies, hors voie de circulation, Sur 0 m ; À 12h48, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 306+300 et 306+350 (sur 0,1 km), Sur autre voie, sur accotement, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "abc8a1f07887",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-11T13:05:00",
-    "date_maj": "2026-11-11T13:15:35",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.87445,
-     46.99246
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-11T13:05:00",
-    "date_maj": "2026-11-11T13:15:35",
+    "date_publication": "2026-11-11T13:20:00",
+    "date_maj": "2026-11-11T13:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T13:05:00",
-    "date_maj": "2026-11-11T13:15:35",
+    "date_publication": "2026-11-11T13:20:00",
+    "date_maj": "2026-11-11T13:30:51",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T13:05:00",
-    "date_maj": "2026-11-11T13:15:35",
+    "date_publication": "2026-11-11T13:20:00",
+    "date_maj": "2026-11-11T13:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T13:05:00",
-    "date_maj": "2026-11-11T13:15:35",
+    "date_publication": "2026-11-11T13:20:00",
+    "date_maj": "2026-11-11T13:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-11T13:05:00",
-    "date_maj": "2026-11-11T13:15:35",
+    "date_publication": "2026-11-11T13:20:00",
+    "date_maj": "2026-11-11T13:30:51",
     "precision": "commune"
    },
    "geometry": {
