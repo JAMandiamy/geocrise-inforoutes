@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-11T09:20:00",
- "date_maj": "2026-11-11T09:30:48",
+ "date_publication": "2026-11-11T09:35:00",
+ "date_maj": "2026-11-11T09:45:42",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-11T09:20:00",
-    "date_maj": "2026-11-11T09:30:48",
+    "date_publication": "2026-11-11T09:35:00",
+    "date_maj": "2026-11-11T09:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T09:20:00",
-    "date_maj": "2026-11-11T09:30:48",
+    "date_publication": "2026-11-11T09:35:00",
+    "date_maj": "2026-11-11T09:45:42",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T09:20:00",
-    "date_maj": "2026-11-11T09:30:48",
+    "date_publication": "2026-11-11T09:35:00",
+    "date_maj": "2026-11-11T09:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T09:20:00",
-    "date_maj": "2026-11-11T09:30:48",
+    "date_publication": "2026-11-11T09:35:00",
+    "date_maj": "2026-11-11T09:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +137,40 @@
     "coordinates": [
      4.79099,
      46.30523
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Piéton sur chaussée",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A19",
+    "sens": "sud-nord",
+    "direction": "Orléans (A10) → Sens (A5)",
+    "pr_debut": "17",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Subligny",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Piéton sur chaussée, A19, de Orléans (A10) vers Sens (A5) (sens sud-nord), au PR 17, à Subligny ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "1117e97b4aed",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-11T09:35:00",
+    "date_maj": "2026-11-11T09:45:42",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.20625,
+     48.16786
     ]
    }
   },
@@ -162,8 +196,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-11T09:20:00",
-    "date_maj": "2026-11-11T09:30:48",
+    "date_publication": "2026-11-11T09:35:00",
+    "date_maj": "2026-11-11T09:45:42",
     "precision": "commune"
    },
    "geometry": {
