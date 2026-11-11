@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-11T11:05:00",
- "date_maj": "2026-11-11T11:15:38",
+ "date_publication": "2026-11-11T11:20:00",
+ "date_maj": "2026-11-11T11:30:51",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-11T11:05:00",
-    "date_maj": "2026-11-11T11:15:38",
+    "date_publication": "2026-11-11T11:20:00",
+    "date_maj": "2026-11-11T11:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      5.19027,
      47.44758
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Produit sur chaussée (liquide)",
+    "groupe": "5 - Information et services",
+    "signale": "oui",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "56+100",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Brognon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Produit sur chaussée (liquide) - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 56+100, à Brognon, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "999d17a6d28a",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-11T11:20:00",
+    "date_maj": "2026-11-11T11:30:51",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.16595,
+     47.41168
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T11:05:00",
-    "date_maj": "2026-11-11T11:15:38",
+    "date_publication": "2026-11-11T11:20:00",
+    "date_maj": "2026-11-11T11:30:51",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +128,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T11:05:00",
-    "date_maj": "2026-11-11T11:15:38",
+    "date_publication": "2026-11-11T11:20:00",
+    "date_maj": "2026-11-11T11:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +137,40 @@
     "coordinates": [
      4.86115,
      46.66918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "346+820",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Laives",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 346+820, à Laives, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "5420476e4f69",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-11T11:20:00",
+    "date_maj": "2026-11-11T11:30:51",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83571,
+     46.65443
     ]
    }
   },
@@ -128,8 +196,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T11:05:00",
-    "date_maj": "2026-11-11T11:15:38",
+    "date_publication": "2026-11-11T11:20:00",
+    "date_maj": "2026-11-11T11:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -137,40 +205,6 @@
     "coordinates": [
      4.79099,
      46.30523
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "368",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Montbellet",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 368, à Montbellet, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e92ca6215d6b",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T11:05:00",
-    "date_maj": "2026-11-11T11:15:38",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.87944,
-     46.47085
     ]
    }
   },
@@ -196,8 +230,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-11T11:05:00",
-    "date_maj": "2026-11-11T11:15:38",
+    "date_publication": "2026-11-11T11:20:00",
+    "date_maj": "2026-11-11T11:30:51",
     "precision": "commune"
    },
    "geometry": {
