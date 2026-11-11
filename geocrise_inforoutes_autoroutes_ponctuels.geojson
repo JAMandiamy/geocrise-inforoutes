@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-11T11:20:00",
- "date_maj": "2026-11-11T11:30:51",
+ "date_publication": "2026-11-11T11:35:00",
+ "date_maj": "2026-11-11T11:45:40",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-11T11:20:00",
-    "date_maj": "2026-11-11T11:30:51",
+    "date_publication": "2026-11-11T11:35:00",
+    "date_maj": "2026-11-11T11:45:40",
     "precision": "commune"
    },
    "geometry": {
@@ -41,14 +41,48 @@
   {
    "type": "Feature",
    "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A39",
+    "sens": "sud-nord",
+    "direction": "Bourg-en-Bresse → Dijon",
+    "pr_debut": "29+250",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Labergement-lès-Auxonne",
+    "commune_fin": "",
+    "heure_evt": "2026-11-11T11:27:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 11h27, Accident, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 29+250, à Labergement-lès-Auxonne ; À 11h30, Inondation, au PR 31, à Flagey-lès-Auxonne ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "de7fa96b3f5d",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-11T11:35:00",
+    "date_maj": "2026-11-11T11:45:40",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.37781,
+     47.16058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "importance": 1,
     "type_evt": "Produit sur chaussée (liquide)",
     "groupe": "5 - Information et services",
     "signale": "oui",
     "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "56+100",
+    "sens": "sud-nord",
+    "direction": "Lyon → Luxembourg",
+    "pr_debut": "56+550",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Brognon",
@@ -56,12 +90,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Produit sur chaussée (liquide) - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 56+100, à Brognon, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "999d17a6d28a",
+    "texte": "Produit sur chaussée (liquide) - Événement signalé, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 56+550, à Brognon, situé sur une Aire de service, Hors voie de circulation, sur accotement ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "ead5f3bb8017",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-11T11:20:00",
-    "date_maj": "2026-11-11T11:30:51",
+    "date_publication": "2026-11-11T11:35:00",
+    "date_maj": "2026-11-11T11:45:40",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +128,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T11:20:00",
-    "date_maj": "2026-11-11T11:30:51",
+    "date_publication": "2026-11-11T11:35:00",
+    "date_maj": "2026-11-11T11:45:40",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +162,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T11:20:00",
-    "date_maj": "2026-11-11T11:30:51",
+    "date_publication": "2026-11-11T11:35:00",
+    "date_maj": "2026-11-11T11:45:40",
     "precision": "commune"
    },
    "geometry": {
@@ -146,7 +180,7 @@
     "importance": 2,
     "type_evt": "Accident",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
     "sens": "sud-nord",
     "direction": "Lyon → Paris",
@@ -158,12 +192,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 346+820, à Laives, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "5420476e4f69",
+    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), au PR 346+820, à Laives, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "8f5c2bc4c1ec",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T11:20:00",
-    "date_maj": "2026-11-11T11:30:51",
+    "date_publication": "2026-11-11T11:35:00",
+    "date_maj": "2026-11-11T11:45:40",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T11:20:00",
-    "date_maj": "2026-11-11T11:30:51",
+    "date_publication": "2026-11-11T11:35:00",
+    "date_maj": "2026-11-11T11:45:40",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +264,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-11T11:20:00",
-    "date_maj": "2026-11-11T11:30:51",
+    "date_publication": "2026-11-11T11:35:00",
+    "date_maj": "2026-11-11T11:45:40",
     "precision": "commune"
    },
    "geometry": {
