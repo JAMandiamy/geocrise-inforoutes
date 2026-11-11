@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-11T10:50:00",
- "date_maj": "2026-11-11T11:01:00",
+ "date_publication": "2026-11-11T11:05:00",
+ "date_maj": "2026-11-11T11:15:38",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-11T10:50:00",
-    "date_maj": "2026-11-11T11:01:00",
+    "date_publication": "2026-11-11T11:05:00",
+    "date_maj": "2026-11-11T11:15:38",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      5.19027,
      47.44758
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "291+600",
-    "pr_fin": "291+300",
-    "longueur_km": 0.3,
-    "commune": "Savigny-lès-Beaune",
-    "commune_fin": "",
-    "heure_evt": "2026-11-11T10:18:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 10h18, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 291+600 et 291+300 (sur 0,3 km), à Savigny-lès-Beaune, Sur voie de gauche, La mesure est obligatoire ; À 10h19, Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), au PR 291+300 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "da57f00b2656",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-11T10:50:00",
-    "date_maj": "2026-11-11T11:01:00",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.79446,
-     47.07968
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T10:50:00",
-    "date_maj": "2026-11-11T11:01:00",
+    "date_publication": "2026-11-11T11:05:00",
+    "date_maj": "2026-11-11T11:15:38",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T10:50:00",
-    "date_maj": "2026-11-11T11:01:00",
+    "date_publication": "2026-11-11T11:05:00",
+    "date_maj": "2026-11-11T11:15:38",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T10:50:00",
-    "date_maj": "2026-11-11T11:01:00",
+    "date_publication": "2026-11-11T11:05:00",
+    "date_maj": "2026-11-11T11:15:38",
     "precision": "commune"
    },
    "geometry": {
@@ -180,7 +146,7 @@
     "importance": 1,
     "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
@@ -192,12 +158,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 368, à Montbellet, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "8003e7664d62",
+    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 368, à Montbellet, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e92ca6215d6b",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-11T10:50:00",
-    "date_maj": "2026-11-11T11:01:00",
+    "date_publication": "2026-11-11T11:05:00",
+    "date_maj": "2026-11-11T11:15:38",
     "precision": "commune"
    },
    "geometry": {
@@ -205,40 +171,6 @@
     "coordinates": [
      4.87944,
      46.47085
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "165+61",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Venoy",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A6, de Paris vers Lyon (sens ouest-est), au PR 165+61, à Venoy, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "30e3413a7db1",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-11T10:50:00",
-    "date_maj": "2026-11-11T11:01:00",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.64874,
-     47.80811
     ]
    }
   },
@@ -264,8 +196,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-11T10:50:00",
-    "date_maj": "2026-11-11T11:01:00",
+    "date_publication": "2026-11-11T11:05:00",
+    "date_maj": "2026-11-11T11:15:38",
     "precision": "commune"
    },
    "geometry": {
