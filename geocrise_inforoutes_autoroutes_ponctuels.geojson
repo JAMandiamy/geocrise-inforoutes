@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-12T03:50:00",
- "date_maj": "2026-11-12T04:01:05",
+ "date_publication": "2026-11-12T04:05:00",
+ "date_maj": "2026-11-12T04:15:32",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-12T03:50:00",
-    "date_maj": "2026-11-12T04:01:05",
+    "date_publication": "2026-11-12T04:05:00",
+    "date_maj": "2026-11-12T04:15:32",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T03:50:00",
-    "date_maj": "2026-11-12T04:01:05",
+    "date_publication": "2026-11-12T04:05:00",
+    "date_maj": "2026-11-12T04:15:32",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T03:50:00",
-    "date_maj": "2026-11-12T04:01:05",
+    "date_publication": "2026-11-12T04:05:00",
+    "date_maj": "2026-11-12T04:15:32",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T03:50:00",
-    "date_maj": "2026-11-12T04:01:05",
+    "date_publication": "2026-11-12T04:05:00",
+    "date_maj": "2026-11-12T04:15:32",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "4c0f6bbb2bfb",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T03:50:00",
-    "date_maj": "2026-11-12T04:01:05",
+    "date_publication": "2026-11-12T04:05:00",
+    "date_maj": "2026-11-12T04:15:32",
     "precision": "commune"
    },
    "geometry": {
@@ -178,26 +178,26 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "est-ouest",
     "direction": "Lyon → Paris",
-    "pr_debut": "198+560",
-    "pr_fin": "198",
-    "longueur_km": 0.6,
+    "pr_debut": "199+200",
+    "pr_fin": "198+560",
+    "longueur_km": 0.7,
     "commune": "Sainte-Colombe",
     "commune_fin": "",
-    "heure_evt": "2026-11-12T03:27:00",
+    "heure_evt": "2026-11-12T03:33:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 3h27, Accident, 1 PL, A6, de Lyon vers Paris (sens est-ouest), entre les PR 198+560 et 198 (sur 0,6 km), à Sainte-Colombe, Sur voie de droite, sur bande d'arrêt d'urgence ; À 3h33, Réduction du nombre de voies, applicable à tous les véhicules, entre les PR 199+200 et 198+560 (sur 0,7 km), La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "d0574920d2d7",
+    "texte": "À 3h33, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens est-ouest), entre les PR 199+200 et 198+560 (sur 0,7 km), à Sainte-Colombe, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; À 3h59, Accident, 1 PL, entre les PR 198+560 et 198 (sur 0,6 km) ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "2ef25e6c70c1",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T03:50:00",
-    "date_maj": "2026-11-12T04:01:05",
+    "date_publication": "2026-11-12T04:05:00",
+    "date_maj": "2026-11-12T04:15:32",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T03:50:00",
-    "date_maj": "2026-11-12T04:01:05",
+    "date_publication": "2026-11-12T04:05:00",
+    "date_maj": "2026-11-12T04:15:32",
     "precision": "commune"
    },
    "geometry": {
