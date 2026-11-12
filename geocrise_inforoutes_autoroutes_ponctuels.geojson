@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-12T16:35:00",
- "date_maj": "2026-11-12T16:46:03",
+ "date_publication": "2026-11-12T16:50:00",
+ "date_maj": "2026-11-12T17:01:11",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-12T16:35:00",
-    "date_maj": "2026-11-12T16:46:03",
+    "date_publication": "2026-11-12T16:50:00",
+    "date_maj": "2026-11-12T17:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -46,9 +46,9 @@
     "groupe": "2 - Météo et environnement",
     "signale": "oui",
     "route": "A36",
-    "sens": "ouest-est",
-    "direction": "Beaune → Mulhouse",
-    "pr_debut": "216+625",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "216+768",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Ladoix-Serrigny",
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Animal errant - Événement signalé, A36, de Beaune vers Mulhouse (sens ouest-est), au PR 216+625, à Ladoix-Serrigny ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1d649fa0cb4f",
+    "texte": "Animal errant - Événement signalé, A36 (deux sens), au PR 216+768, à Ladoix-Serrigny ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "aadecc4b64fe",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-12T16:35:00",
-    "date_maj": "2026-11-12T16:46:03",
+    "date_publication": "2026-11-12T16:50:00",
+    "date_maj": "2026-11-12T17:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T16:35:00",
-    "date_maj": "2026-11-12T16:46:03",
+    "date_publication": "2026-11-12T16:50:00",
+    "date_maj": "2026-11-12T17:01:11",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T16:35:00",
-    "date_maj": "2026-11-12T16:46:03",
+    "date_publication": "2026-11-12T16:50:00",
+    "date_maj": "2026-11-12T17:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T16:35:00",
-    "date_maj": "2026-11-12T16:46:03",
+    "date_publication": "2026-11-12T16:50:00",
+    "date_maj": "2026-11-12T17:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -192,12 +192,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, avec PL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 391+100, à Mâcon, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "ca510965c76b",
+    "texte": "Accident, avec PL, 1 VL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 391+100, à Mâcon, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e46514896fa1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T16:35:00",
-    "date_maj": "2026-11-12T16:46:03",
+    "date_publication": "2026-11-12T16:50:00",
+    "date_maj": "2026-11-12T17:01:11",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +230,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T16:35:00",
-    "date_maj": "2026-11-12T16:46:03",
+    "date_publication": "2026-11-12T16:50:00",
+    "date_maj": "2026-11-12T17:01:11",
     "precision": "commune"
    },
    "geometry": {
