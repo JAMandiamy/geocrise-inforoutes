@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-12T12:50:00",
- "date_maj": "2026-11-12T13:01:08",
+ "date_publication": "2026-11-12T13:05:00",
+ "date_maj": "2026-11-12T13:15:38",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T12:50:00",
-    "date_maj": "2026-11-12T13:01:08",
+    "date_publication": "2026-11-12T13:05:00",
+    "date_maj": "2026-11-12T13:15:38",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -40,6 +40,46 @@
      [
       4.84895,
       46.72173
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "375+500",
+    "pr_fin": "375",
+    "longueur_km": 0.5,
+    "commune": "La Salle",
+    "commune_fin": "Saint-Albain",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), entre les PR 375+500 et 375 (sur 0,5 km), de La Salle à Saint-Albain, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e8a3e23633f3",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-12T13:05:00",
+    "date_maj": "2026-11-12T13:15:38",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.8597,
+      46.4079
+     ],
+     [
+      4.86993,
+      46.42525
      ]
     ]
    }
