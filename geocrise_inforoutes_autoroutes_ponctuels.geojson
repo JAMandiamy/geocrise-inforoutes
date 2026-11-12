@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-12T20:35:00",
- "date_maj": "2026-11-12T20:45:41",
+ "date_publication": "2026-11-12T20:50:00",
+ "date_maj": "2026-11-12T21:01:02",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-12T20:35:00",
-    "date_maj": "2026-11-12T20:45:41",
+    "date_publication": "2026-11-12T20:50:00",
+    "date_maj": "2026-11-12T21:01:02",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T20:35:00",
-    "date_maj": "2026-11-12T20:45:41",
+    "date_publication": "2026-11-12T20:50:00",
+    "date_maj": "2026-11-12T21:01:02",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T20:35:00",
-    "date_maj": "2026-11-12T20:45:41",
+    "date_publication": "2026-11-12T20:50:00",
+    "date_maj": "2026-11-12T21:01:02",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T20:35:00",
-    "date_maj": "2026-11-12T20:45:41",
+    "date_publication": "2026-11-12T20:50:00",
+    "date_maj": "2026-11-12T21:01:02",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +137,40 @@
     "coordinates": [
      4.79099,
      46.30523
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - PL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "est-ouest",
+    "direction": "Lyon → Paris",
+    "pr_debut": "198",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Sainte-Colombe",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - PL, A6, de Lyon vers Paris (sens est-ouest), au PR 198, à Sainte-Colombe, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "77a9f16db463",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-12T20:50:00",
+    "date_maj": "2026-11-12T21:01:02",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.95952,
+     47.57531
     ]
    }
   }
