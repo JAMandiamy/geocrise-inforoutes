@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-12T10:50:00",
- "date_maj": "2026-11-12T11:01:03",
+ "date_publication": "2026-11-12T11:05:00",
+ "date_maj": "2026-11-12T11:15:46",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-12T10:50:00",
-    "date_maj": "2026-11-12T11:01:03",
+    "date_publication": "2026-11-12T11:05:00",
+    "date_maj": "2026-11-12T11:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T10:50:00",
-    "date_maj": "2026-11-12T11:01:03",
+    "date_publication": "2026-11-12T11:05:00",
+    "date_maj": "2026-11-12T11:15:46",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T10:50:00",
-    "date_maj": "2026-11-12T11:01:03",
+    "date_publication": "2026-11-12T11:05:00",
+    "date_maj": "2026-11-12T11:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T10:50:00",
-    "date_maj": "2026-11-12T11:01:03",
+    "date_publication": "2026-11-12T11:05:00",
+    "date_maj": "2026-11-12T11:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -143,34 +143,34 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
     "signale": "oui",
-    "route": "A6",
-    "sens": "est-ouest",
-    "direction": "Lyon → Paris",
-    "pr_debut": "190",
+    "route": "A39",
+    "sens": "sud-nord",
+    "direction": "Bourg-en-Bresse → Dijon",
+    "pr_debut": "94+200",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Nitry",
+    "commune": "Beaurepaire-en-Bresse",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), au PR 190, à Nitry ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4c0f6bbb2bfb",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T10:50:00",
-    "date_maj": "2026-11-12T11:01:03",
+    "texte": "Véhicule arrêté - Événement signalé, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 94+200, à Beaurepaire-en-Bresse, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "12e2231a7aa4",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-12T11:05:00",
+    "date_maj": "2026-11-12T11:15:46",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.8787,
-     47.67598
+     5.3952,
+     46.66876
     ]
    }
   },
@@ -196,8 +196,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T10:50:00",
-    "date_maj": "2026-11-12T11:01:03",
+    "date_publication": "2026-11-12T11:05:00",
+    "date_maj": "2026-11-12T11:15:46",
     "precision": "commune"
    },
    "geometry": {
