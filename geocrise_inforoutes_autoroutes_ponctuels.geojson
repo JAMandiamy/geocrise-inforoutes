@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-12T09:20:00",
- "date_maj": "2026-11-12T09:31:00",
+ "date_publication": "2026-11-12T09:35:00",
+ "date_maj": "2026-11-12T09:45:36",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-12T09:20:00",
-    "date_maj": "2026-11-12T09:31:00",
+    "date_publication": "2026-11-12T09:35:00",
+    "date_maj": "2026-11-12T09:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T09:20:00",
-    "date_maj": "2026-11-12T09:31:00",
+    "date_publication": "2026-11-12T09:35:00",
+    "date_maj": "2026-11-12T09:45:36",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T09:20:00",
-    "date_maj": "2026-11-12T09:31:00",
+    "date_publication": "2026-11-12T09:35:00",
+    "date_maj": "2026-11-12T09:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -103,40 +103,6 @@
     "coordinates": [
      4.86115,
      46.66918
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "388+116",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Charnay-lès-Mâcon",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 388+116, à Charnay-lès-Mâcon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3a3109639f74",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T09:20:00",
-    "date_maj": "2026-11-12T09:31:00",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.79099,
-     46.30523
     ]
    }
   },
@@ -162,8 +128,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T09:20:00",
-    "date_maj": "2026-11-12T09:31:00",
+    "date_publication": "2026-11-12T09:35:00",
+    "date_maj": "2026-11-12T09:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -180,11 +146,11 @@
     "importance": 1,
     "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A39",
     "sens": "sud-nord",
     "direction": "Bourg-en-Bresse → Dijon",
-    "pr_debut": "101+400",
+    "pr_debut": "101+700",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Flacey-en-Bresse",
@@ -192,12 +158,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 101+400, à Flacey-en-Bresse, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3905710226d9",
+    "texte": "Véhicule arrêté, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 101+700, à Flacey-en-Bresse, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "51f83081baf5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T09:20:00",
-    "date_maj": "2026-11-12T09:31:00",
+    "date_publication": "2026-11-12T09:35:00",
+    "date_maj": "2026-11-12T09:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +196,8 @@
     "evt_id": "a1fe6c5c6886",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T09:20:00",
-    "date_maj": "2026-11-12T09:31:00",
+    "date_publication": "2026-11-12T09:35:00",
+    "date_maj": "2026-11-12T09:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +230,8 @@
     "evt_id": "c979ee9a24ca",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T09:20:00",
-    "date_maj": "2026-11-12T09:31:00",
+    "date_publication": "2026-11-12T09:35:00",
+    "date_maj": "2026-11-12T09:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +264,8 @@
     "evt_id": "4c0f6bbb2bfb",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T09:20:00",
-    "date_maj": "2026-11-12T09:31:00",
+    "date_publication": "2026-11-12T09:35:00",
+    "date_maj": "2026-11-12T09:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -332,8 +298,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T09:20:00",
-    "date_maj": "2026-11-12T09:31:00",
+    "date_publication": "2026-11-12T09:35:00",
+    "date_maj": "2026-11-12T09:45:36",
     "precision": "commune"
    },
    "geometry": {
