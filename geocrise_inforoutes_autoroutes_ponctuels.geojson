@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-12T08:05:00",
- "date_maj": "2026-11-12T08:15:29",
+ "date_publication": "2026-11-12T08:20:00",
+ "date_maj": "2026-11-12T08:30:56",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "808bb9683b42",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-12T08:05:00",
-    "date_maj": "2026-11-12T08:15:29",
+    "date_publication": "2026-11-12T08:20:00",
+    "date_maj": "2026-11-12T08:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      5.19027,
      47.44758
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A311",
-    "sens": "sud-nord",
-    "direction": "Perrigny-les-Dijon (A31) → Dijon (N274)",
-    "pr_debut": "28+400",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Perrigny-lès-Dijon",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 1 VL, A311, de Perrigny-les-Dijon (A31) vers Dijon (N274) (sens sud-nord), au PR 28+400, à Perrigny-lès-Dijon, Sur voie de droite, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "517eaab6de1d",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-12T08:05:00",
-    "date_maj": "2026-11-12T08:15:29",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.02072,
-     47.25659
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T08:05:00",
-    "date_maj": "2026-11-12T08:15:29",
+    "date_publication": "2026-11-12T08:20:00",
+    "date_maj": "2026-11-12T08:30:56",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T08:05:00",
-    "date_maj": "2026-11-12T08:15:29",
+    "date_publication": "2026-11-12T08:20:00",
+    "date_maj": "2026-11-12T08:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-12T08:05:00",
-    "date_maj": "2026-11-12T08:15:29",
+    "date_publication": "2026-11-12T08:20:00",
+    "date_maj": "2026-11-12T08:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "a1fe6c5c6886",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T08:05:00",
-    "date_maj": "2026-11-12T08:15:29",
+    "date_publication": "2026-11-12T08:20:00",
+    "date_maj": "2026-11-12T08:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +196,8 @@
     "evt_id": "c979ee9a24ca",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T08:05:00",
-    "date_maj": "2026-11-12T08:15:29",
+    "date_publication": "2026-11-12T08:20:00",
+    "date_maj": "2026-11-12T08:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +230,8 @@
     "evt_id": "4c0f6bbb2bfb",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T08:05:00",
-    "date_maj": "2026-11-12T08:15:29",
+    "date_publication": "2026-11-12T08:20:00",
+    "date_maj": "2026-11-12T08:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -298,8 +264,8 @@
     "evt_id": "e2da57e62b33",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-12T08:05:00",
-    "date_maj": "2026-11-12T08:15:29",
+    "date_publication": "2026-11-12T08:20:00",
+    "date_maj": "2026-11-12T08:30:56",
     "precision": "commune"
    },
    "geometry": {
