@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-13T21:05:00",
- "date_maj": "2026-11-13T21:16:54",
+ "date_publication": "2026-11-13T21:20:00",
+ "date_maj": "2026-11-13T21:30:50",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - VL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A36",
+    "sens": "est-ouest",
+    "direction": "Mulhouse → Beaune",
+    "pr_debut": "207+500",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Argilly",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - VL, A36, de Mulhouse vers Beaune (sens est-ouest), au PR 207+500, à Argilly, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "5ba3b3ab251d",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-13T21:20:00",
+    "date_maj": "2026-11-13T21:30:50",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02386,
+     47.0655
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T21:05:00",
-    "date_maj": "2026-11-13T21:16:54",
+    "date_publication": "2026-11-13T21:20:00",
+    "date_maj": "2026-11-13T21:30:50",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -60,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T21:05:00",
-    "date_maj": "2026-11-13T21:16:54",
+    "date_publication": "2026-11-13T21:20:00",
+    "date_maj": "2026-11-13T21:30:50",
     "precision": "commune"
    },
    "geometry": {
