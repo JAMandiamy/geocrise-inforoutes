@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-13T17:05:00",
- "date_maj": "2026-11-13T17:15:48",
+ "date_publication": "2026-11-13T17:20:00",
+ "date_maj": "2026-11-13T17:30:52",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal écrasé",
-    "groupe": "2 - Météo et environnement",
-    "signale": "oui",
-    "route": "A31",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "22+19",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Gilly-lès-Cîteaux",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Animal écrasé - Événement signalé, A31 (deux sens), au PR 22+19, à Gilly-lès-Cîteaux ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "240569727429",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-13T17:05:00",
-    "date_maj": "2026-11-13T17:15:48",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.99316,
-     47.17507
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T17:05:00",
-    "date_maj": "2026-11-13T17:15:48",
+    "date_publication": "2026-11-13T17:20:00",
+    "date_maj": "2026-11-13T17:30:52",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T17:05:00",
-    "date_maj": "2026-11-13T17:15:48",
+    "date_publication": "2026-11-13T17:20:00",
+    "date_maj": "2026-11-13T17:30:52",
     "precision": "commune"
    },
    "geometry": {
@@ -113,30 +79,30 @@
     "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
-    "route": "A39",
-    "sens": "sud-nord",
-    "direction": "Bourg-en-Bresse → Dijon",
-    "pr_debut": "108+400",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "162+400",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Le Miroir",
+    "commune": "Venoy",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 108+400, à Le Miroir, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "8cd8581a33cf",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T17:05:00",
-    "date_maj": "2026-11-13T17:15:48",
+    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens ouest-est), au PR 162+400, à Venoy, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7a89d169a327",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-13T17:20:00",
+    "date_maj": "2026-11-13T17:30:52",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.3331,
-     46.5481
+     3.64874,
+     47.80811
     ]
    }
   }
