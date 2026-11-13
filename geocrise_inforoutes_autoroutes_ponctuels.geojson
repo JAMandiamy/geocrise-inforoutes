@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-13T23:50:00",
- "date_maj": "2026-11-14T00:01:04",
+ "date_publication": "2026-11-14T00:05:00",
+ "date_maj": "2026-11-14T00:15:38",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "sud-nord",
+    "direction": "Lyon → Luxembourg",
+    "pr_debut": "26+900",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Gevrey-Chambertin",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 26+900, à Gevrey-Chambertin, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "d03b60549f0d",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-14T00:05:00",
+    "date_maj": "2026-11-14T00:15:38",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97006,
+     47.21847
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T23:50:00",
-    "date_maj": "2026-11-14T00:01:04",
+    "date_publication": "2026-11-14T00:05:00",
+    "date_maj": "2026-11-14T00:15:38",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -60,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T23:50:00",
-    "date_maj": "2026-11-14T00:01:04",
+    "date_publication": "2026-11-14T00:05:00",
+    "date_maj": "2026-11-14T00:15:38",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +103,40 @@
     "coordinates": [
      4.86115,
      46.66918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "394",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Vinzelles",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, avec PL, 1 VL, A6, de Lyon vers Paris (sens sud-nord), au PR 394, à Vinzelles, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c4629bc18522",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-14T00:05:00",
+    "date_maj": "2026-11-14T00:15:38",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.77625,
+     46.268
     ]
    }
   }
