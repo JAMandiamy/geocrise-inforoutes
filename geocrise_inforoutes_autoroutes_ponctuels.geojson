@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-13T16:05:00",
- "date_maj": "2026-11-13T16:15:36",
+ "date_publication": "2026-11-13T16:20:00",
+ "date_maj": "2026-11-13T16:33:33",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "333",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Saint-Rémy",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 2 VL, A6, de Lyon vers Paris (sens sud-nord), au PR 333, à Saint-Rémy, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1f958a79d953",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T16:05:00",
-    "date_maj": "2026-11-13T16:15:36",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.82616,
-     46.75889
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T16:05:00",
-    "date_maj": "2026-11-13T16:15:36",
+    "date_publication": "2026-11-13T16:20:00",
+    "date_maj": "2026-11-13T16:33:33",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T16:05:00",
-    "date_maj": "2026-11-13T16:15:36",
+    "date_publication": "2026-11-13T16:20:00",
+    "date_maj": "2026-11-13T16:33:33",
     "precision": "commune"
    },
    "geometry": {
