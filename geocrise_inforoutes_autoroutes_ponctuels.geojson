@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-13T11:35:00",
- "date_maj": "2026-11-13T11:45:41",
+ "date_publication": "2026-11-13T11:50:00",
+ "date_maj": "2026-11-13T12:01:18",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 3,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A79",
-    "sens": "ouest-est",
-    "direction": "",
-    "pr_debut": "92+343",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Digoin",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A79 (sens ouest-est), Impact : route coupée, toutes les voies, au PR 92+343, à Digoin, situé sur la bretelle d'entrée de l'échangeur, Sur toutes les voies, hors voie de circulation, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "d4abf386d1fe",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T11:35:00",
-    "date_maj": "2026-11-13T11:45:41",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.9969,
-     46.48606
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T11:35:00",
-    "date_maj": "2026-11-13T11:45:41",
+    "date_publication": "2026-11-13T11:50:00",
+    "date_maj": "2026-11-13T12:01:18",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T11:35:00",
-    "date_maj": "2026-11-13T11:45:41",
+    "date_publication": "2026-11-13T11:50:00",
+    "date_maj": "2026-11-13T12:01:18",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "b91bcc558bc1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T11:35:00",
-    "date_maj": "2026-11-13T11:45:41",
+    "date_publication": "2026-11-13T11:50:00",
+    "date_maj": "2026-11-13T12:01:18",
     "precision": "commune"
    },
    "geometry": {
