@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-13T15:05:00",
- "date_maj": "2026-11-13T15:15:36",
+ "date_publication": "2026-11-13T15:20:00",
+ "date_maj": "2026-11-13T15:31:05",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "28",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Perrigny-lès-Dijon",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, toutes les voies, au PR 28, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4347a5433751",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-13T15:05:00",
-    "date_maj": "2026-11-13T15:15:36",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.02072,
-     47.25659
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "ca59cba6aab5",
     "dep": "58",
     "nom_dep": "Nièvre",
-    "date_publication": "2026-11-13T15:05:00",
-    "date_maj": "2026-11-13T15:15:36",
+    "date_publication": "2026-11-13T15:20:00",
+    "date_maj": "2026-11-13T15:31:05",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +35,40 @@
     "coordinates": [
      2.93882,
      47.45526
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "333",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Saint-Rémy",
+    "commune_fin": "",
+    "heure_evt": "2026-11-13T15:15:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 15h15, Véhicule arrêté - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 333, à Saint-Rémy, Sur bande d'arrêt d'urgence ; À 15h19, Accident - Événement signalé, au PR 333 ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "30709dcfbdbc",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-13T15:20:00",
+    "date_maj": "2026-11-13T15:31:05",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82616,
+     46.75889
     ]
    }
   },
@@ -94,8 +94,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T15:05:00",
-    "date_maj": "2026-11-13T15:15:36",
+    "date_publication": "2026-11-13T15:20:00",
+    "date_maj": "2026-11-13T15:31:05",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T15:05:00",
-    "date_maj": "2026-11-13T15:15:36",
+    "date_publication": "2026-11-13T15:20:00",
+    "date_maj": "2026-11-13T15:31:05",
     "precision": "commune"
    },
    "geometry": {
@@ -137,40 +137,6 @@
     "coordinates": [
      4.86115,
      46.66918
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "374+224",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Saint-Albain",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 374+224, à Saint-Albain, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, sur accotement, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e5715826cbb2",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T15:05:00",
-    "date_maj": "2026-11-13T15:15:36",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.86993,
-     46.42525
     ]
    }
   }
