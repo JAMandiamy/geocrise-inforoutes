@@ -1,77 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-13T15:35:00",
- "date_maj": "2026-11-13T15:46:05",
+ "date_publication": "2026-11-13T15:50:00",
+ "date_maj": "2026-11-13T16:01:46",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "246",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Clamerey",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 246, à Clamerey ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "7f26e991ca99",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-13T15:35:00",
-    "date_maj": "2026-11-13T15:46:05",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.43908,
-     47.39316
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
-    "signale": "oui",
-    "route": "A77",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "96+438",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Myennes",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Animal errant - Événement signalé, A77 (deux sens), au PR 96+438, à Myennes ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "ca59cba6aab5",
-    "dep": "58",
-    "nom_dep": "Nièvre",
-    "date_publication": "2026-11-13T15:35:00",
-    "date_maj": "2026-11-13T15:46:05",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     2.93882,
-     47.45526
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -94,8 +26,8 @@
     "evt_id": "1f958a79d953",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T15:35:00",
-    "date_maj": "2026-11-13T15:46:05",
+    "date_publication": "2026-11-13T15:50:00",
+    "date_maj": "2026-11-13T16:01:46",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +60,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T15:35:00",
-    "date_maj": "2026-11-13T15:46:05",
+    "date_publication": "2026-11-13T15:50:00",
+    "date_maj": "2026-11-13T16:01:46",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -162,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-13T15:35:00",
-    "date_maj": "2026-11-13T15:46:05",
+    "date_publication": "2026-11-13T15:50:00",
+    "date_maj": "2026-11-13T16:01:46",
     "precision": "commune"
    },
    "geometry": {
