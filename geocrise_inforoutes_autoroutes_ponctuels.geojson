@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-14T15:50:00",
- "date_maj": "2026-11-14T16:01:04",
+ "date_publication": "2026-11-14T16:05:00",
+ "date_maj": "2026-11-14T16:16:44",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "b228ee4868c5",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-14T15:50:00",
-    "date_maj": "2026-11-14T16:01:04",
+    "date_publication": "2026-11-14T16:05:00",
+    "date_maj": "2026-11-14T16:16:44",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "dd3b3966b2ea",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-14T15:50:00",
-    "date_maj": "2026-11-14T16:01:04",
+    "date_publication": "2026-11-14T16:05:00",
+    "date_maj": "2026-11-14T16:16:44",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T15:50:00",
-    "date_maj": "2026-11-14T16:01:04",
+    "date_publication": "2026-11-14T16:05:00",
+    "date_maj": "2026-11-14T16:16:44",
     "precision": "commune"
    },
    "geometry": {
