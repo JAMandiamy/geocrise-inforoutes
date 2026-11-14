@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-14T07:50:00",
- "date_maj": "2026-11-14T08:02:57",
+ "date_publication": "2026-11-14T08:05:00",
+ "date_maj": "2026-11-14T08:15:36",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "sud-nord",
+    "direction": "Lyon → Luxembourg",
+    "pr_debut": "33",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Ouges",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, 1 VL - Événement signalé, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 33, à Ouges, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "3584e47f8273",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-14T08:05:00",
+    "date_maj": "2026-11-14T08:15:36",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.08056,
+     47.25762
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T07:50:00",
-    "date_maj": "2026-11-14T08:02:57",
+    "date_publication": "2026-11-14T08:05:00",
+    "date_maj": "2026-11-14T08:15:36",
     "precision": "commune"
    },
    "geometry": {
