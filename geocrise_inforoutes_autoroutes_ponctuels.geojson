@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-14T23:20:00",
- "date_maj": "2026-11-14T23:45:35",
+ "date_publication": "2026-11-14T23:50:00",
+ "date_maj": "2026-11-14T23:57:22",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A39",
-    "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "100+80",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Savigny-en-Revermont",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 1 VL, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), au PR 100+80, à Savigny-en-Revermont, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "447a6f3a1187",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T23:20:00",
-    "date_maj": "2026-11-14T23:45:35",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.38979,
-     46.63608
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T23:20:00",
-    "date_maj": "2026-11-14T23:45:35",
+    "date_publication": "2026-11-14T23:50:00",
+    "date_maj": "2026-11-14T23:57:22",
     "precision": "commune"
    },
    "geometry": {
