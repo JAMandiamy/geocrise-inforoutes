@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-14T14:05:00",
- "date_maj": "2026-11-14T14:15:38",
+ "date_publication": "2026-11-14T14:20:00",
+ "date_maj": "2026-11-14T14:30:54",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "b228ee4868c5",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-14T14:05:00",
-    "date_maj": "2026-11-14T14:15:38",
+    "date_publication": "2026-11-14T14:20:00",
+    "date_maj": "2026-11-14T14:30:54",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      5.20479,
      47.60363
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A39",
-    "sens": "sud-nord",
-    "direction": "Bourg-en-Bresse → Dijon",
-    "pr_debut": "104+200",
-    "pr_fin": "103+950",
-    "longueur_km": 0.3,
-    "commune": "Sagy",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Réduction du nombre de voies, applicable à tous les véhicules, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), entre les PR 104+200 et 103+950 (sur 0,3 km), à Sagy, sur bande d'arrêt d'urgence, sur accotement, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "bf172e56eaf3",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T14:05:00",
-    "date_maj": "2026-11-14T14:15:38",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.32384,
-     46.59412
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T14:05:00",
-    "date_maj": "2026-11-14T14:15:38",
+    "date_publication": "2026-11-14T14:20:00",
+    "date_maj": "2026-11-14T14:30:54",
     "precision": "commune"
    },
    "geometry": {
