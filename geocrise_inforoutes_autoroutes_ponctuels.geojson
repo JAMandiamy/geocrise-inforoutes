@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-14T09:35:00",
- "date_maj": "2026-11-14T09:47:37",
+ "date_publication": "2026-11-14T09:50:00",
+ "date_maj": "2026-11-14T10:01:02",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "7075117e7c4d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-14T09:35:00",
-    "date_maj": "2026-11-14T09:47:37",
+    "date_publication": "2026-11-14T09:50:00",
+    "date_maj": "2026-11-14T10:01:02",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      5.39919,
      47.12978
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "235+100",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Bierre-lès-Semur",
-    "commune_fin": "",
-    "heure_evt": "2026-11-14T09:25:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 9h25, Accident, 1 VL, avec PL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, toutes les voies, au PR 235+100, à Bierre-lès-Semur ; À 9h33, Obstacle - Événement signalé, au PR 235 ; À 9h34, Véhicule arrêté, au PR 234, à Courcelles-lès-Semur, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "ece640a4949a",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-14T09:35:00",
-    "date_maj": "2026-11-14T09:47:37",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.29874,
-     47.42326
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T09:35:00",
-    "date_maj": "2026-11-14T09:47:37",
+    "date_publication": "2026-11-14T09:50:00",
+    "date_maj": "2026-11-14T10:01:02",
     "precision": "commune"
    },
    "geometry": {
