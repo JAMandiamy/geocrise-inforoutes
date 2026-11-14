@@ -1,40 +1,40 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-14T08:50:00",
- "date_maj": "2026-11-14T09:01:08",
+ "date_publication": "2026-11-14T09:05:00",
+ "date_maj": "2026-11-14T09:15:35",
  "features": [
   {
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "31+400",
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A36",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "175+121",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Fénay",
+    "commune": "Flagey-lès-Auxonne",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 31+400, à Fénay, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "10c30a013439",
+    "texte": "Animal errant - Événement signalé, A36 (deux sens), au PR 175+121, à Flagey-lès-Auxonne ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7075117e7c4d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-14T08:50:00",
-    "date_maj": "2026-11-14T09:01:08",
+    "date_publication": "2026-11-14T09:05:00",
+    "date_maj": "2026-11-14T09:15:35",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.05375,
-     47.24566
+     5.39919,
+     47.12978
     ]
    }
   },
@@ -60,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T08:50:00",
-    "date_maj": "2026-11-14T09:01:08",
+    "date_publication": "2026-11-14T09:05:00",
+    "date_maj": "2026-11-14T09:15:35",
     "precision": "commune"
    },
    "geometry": {
