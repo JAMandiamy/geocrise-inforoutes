@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-14T08:05:00",
- "date_maj": "2026-11-14T08:15:36",
+ "date_publication": "2026-11-14T08:20:00",
+ "date_maj": "2026-11-14T08:30:44",
  "features": [
   {
    "type": "Feature",
@@ -12,29 +12,29 @@
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
-    "pr_debut": "33",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "31+400",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Ouges",
+    "commune": "Fénay",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL - Événement signalé, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 33, à Ouges, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3584e47f8273",
+    "texte": "Accident, 1 VL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 31+400, à Fénay, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "10c30a013439",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-14T08:05:00",
-    "date_maj": "2026-11-14T08:15:36",
+    "date_publication": "2026-11-14T08:20:00",
+    "date_maj": "2026-11-14T08:30:44",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.08056,
-     47.25762
+     5.05375,
+     47.24566
     ]
    }
   },
@@ -60,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T08:05:00",
-    "date_maj": "2026-11-14T08:15:36",
+    "date_publication": "2026-11-14T08:20:00",
+    "date_maj": "2026-11-14T08:30:44",
     "precision": "commune"
    },
    "geometry": {
