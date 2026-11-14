@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-14T22:50:00",
- "date_maj": "2026-11-14T23:01:05",
+ "date_publication": "2026-11-14T23:05:00",
+ "date_maj": "2026-11-14T23:15:32",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
-    "pr_debut": "3",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Chorey-les-Beaune",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A31, de Lyon vers Luxembourg (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 3, à Chorey-les-Beaune ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f291ac22c64d",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-14T22:50:00",
-    "date_maj": "2026-11-14T23:01:05",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.86715,
-     47.05233
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "447a6f3a1187",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T22:50:00",
-    "date_maj": "2026-11-14T23:01:05",
+    "date_publication": "2026-11-14T23:05:00",
+    "date_maj": "2026-11-14T23:15:32",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T22:50:00",
-    "date_maj": "2026-11-14T23:01:05",
+    "date_publication": "2026-11-14T23:05:00",
+    "date_maj": "2026-11-14T23:15:32",
     "precision": "commune"
    },
    "geometry": {
