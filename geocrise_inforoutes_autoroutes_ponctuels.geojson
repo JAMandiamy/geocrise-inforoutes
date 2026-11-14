@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-14T01:05:00",
- "date_maj": "2026-11-14T01:15:41",
+ "date_publication": "2026-11-14T01:20:00",
+ "date_maj": "2026-11-14T01:33:03",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "2a62c788c0d5",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T01:05:00",
-    "date_maj": "2026-11-14T01:15:41",
+    "date_publication": "2026-11-14T01:20:00",
+    "date_maj": "2026-11-14T01:33:03",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T01:05:00",
-    "date_maj": "2026-11-14T01:15:41",
+    "date_publication": "2026-11-14T01:20:00",
+    "date_maj": "2026-11-14T01:33:03",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      4.86115,
      46.66918
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "394+400",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Vinzelles",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 1 VL, 1 PL, A6, de Lyon vers Paris (sens sud-nord), au PR 394+400, à Vinzelles, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "fc50e5b7ef10",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T01:05:00",
-    "date_maj": "2026-11-14T01:15:41",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.77625,
-     46.268
     ]
    }
   }
