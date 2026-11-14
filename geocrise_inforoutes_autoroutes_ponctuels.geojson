@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-14T15:35:00",
- "date_maj": "2026-11-14T15:45:46",
+ "date_publication": "2026-11-14T15:50:00",
+ "date_maj": "2026-11-14T16:01:04",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "b228ee4868c5",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-14T15:35:00",
-    "date_maj": "2026-11-14T15:45:46",
+    "date_publication": "2026-11-14T15:50:00",
+    "date_maj": "2026-11-14T16:01:04",
     "precision": "commune"
    },
    "geometry": {
@@ -49,19 +49,19 @@
     "sens": "sud-nord",
     "direction": "Lyon → Paris",
     "pr_debut": "295+100",
-    "pr_fin": "",
-    "longueur_km": "",
+    "pr_fin": "294+900",
+    "longueur_km": 0.2,
     "commune": "Bouze-lès-Beaune",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernée, au PR 295+100, à Bouze-lès-Beaune, Sur voie véhicules lents, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e8a60410eb61",
+    "texte": "Véhicule arrêté - VL, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, au PR 295, à Bouze-lès-Beaune, Sur voie véhicules lents, sur bande d'arrêt d'urgence ; Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 295+100 et 294+900 (sur 0,2 km), La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "dd3b3966b2ea",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-14T15:35:00",
-    "date_maj": "2026-11-14T15:45:46",
+    "date_publication": "2026-11-14T15:50:00",
+    "date_maj": "2026-11-14T16:01:04",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-14T15:35:00",
-    "date_maj": "2026-11-14T15:45:46",
+    "date_publication": "2026-11-14T15:50:00",
+    "date_maj": "2026-11-14T16:01:04",
     "precision": "commune"
    },
    "geometry": {
