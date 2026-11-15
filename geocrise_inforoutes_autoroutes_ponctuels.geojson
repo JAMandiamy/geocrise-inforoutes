@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-15T08:50:00",
- "date_maj": "2026-11-15T09:03:05",
+ "date_publication": "2026-11-15T09:05:00",
+ "date_maj": "2026-11-15T09:17:43",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "335+100",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Lux",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 335+100, à Lux, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; À 8h55, Véhicule arrêté - Événement signalé, au PR 335+800, à Sevrey ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "826a57c3714a",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-15T09:05:00",
+    "date_maj": "2026-11-15T09:17:43",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86132,
+     46.74921
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T08:50:00",
-    "date_maj": "2026-11-15T09:03:05",
+    "date_publication": "2026-11-15T09:05:00",
+    "date_maj": "2026-11-15T09:17:43",
     "precision": "commune"
    },
    "geometry": {
@@ -35,74 +69,6 @@
     "coordinates": [
      4.86115,
      46.66918
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
-    "signale": "non",
-    "route": "A5",
-    "sens": "est-ouest",
-    "direction": "Dijon → Paris",
-    "pr_debut": "53+200",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Serbonnes",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Animal errant, A5, de Dijon vers Paris (sens est-ouest), au PR 53+200, à Serbonnes ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4b8f66349acb",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-15T08:50:00",
-    "date_maj": "2026-11-15T09:03:05",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.20527,
-     48.3274
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal écrasé",
-    "groupe": "2 - Météo et environnement",
-    "signale": "non",
-    "route": "A6",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "209+670",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Sauvigny-le-Bois",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Animal écrasé, A6 (deux sens), au PR 209+670, à Sauvigny-le-Bois ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "744c05f2b89a",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-15T08:50:00",
-    "date_maj": "2026-11-15T09:03:05",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.96242,
-     47.5131
     ]
    }
   }
