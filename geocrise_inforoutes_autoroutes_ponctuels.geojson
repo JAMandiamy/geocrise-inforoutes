@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-15T09:05:00",
- "date_maj": "2026-11-15T09:17:43",
+ "date_publication": "2026-11-15T09:20:00",
+ "date_maj": "2026-11-15T09:30:49",
  "features": [
   {
    "type": "Feature",
@@ -14,27 +14,27 @@
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
-    "pr_debut": "335+100",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Lux",
+    "pr_debut": "335+326",
+    "pr_fin": "335+400",
+    "longueur_km": 0.1,
+    "commune": "Sevrey",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 335+100, à Lux, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; À 8h55, Véhicule arrêté - Événement signalé, au PR 335+800, à Sevrey ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "826a57c3714a",
+    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 335+400, à Sevrey, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 335+326 et 335+400 (sur 0,1 km), Sur autre voie, La mesure est obligatoire ; À 8h55, Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 335+800 ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "9278f9eee91b",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T09:05:00",
-    "date_maj": "2026-11-15T09:17:43",
+    "date_publication": "2026-11-15T09:20:00",
+    "date_maj": "2026-11-15T09:30:49",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.86132,
-     46.74921
+     4.83164,
+     46.73669
     ]
    }
   },
@@ -60,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T09:05:00",
-    "date_maj": "2026-11-15T09:17:43",
+    "date_publication": "2026-11-15T09:20:00",
+    "date_maj": "2026-11-15T09:30:49",
     "precision": "commune"
    },
    "geometry": {
