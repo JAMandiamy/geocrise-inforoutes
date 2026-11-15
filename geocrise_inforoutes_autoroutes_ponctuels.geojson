@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-15T08:20:00",
- "date_maj": "2026-11-15T08:31:01",
+ "date_publication": "2026-11-15T08:35:00",
+ "date_maj": "2026-11-15T08:45:32",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T08:20:00",
-    "date_maj": "2026-11-15T08:31:01",
+    "date_publication": "2026-11-15T08:35:00",
+    "date_maj": "2026-11-15T08:45:32",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86115,
      46.66918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal écrasé",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "209+29",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Sauvigny-le-Bois",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal écrasé - Événement signalé, A6 (deux sens), au PR 209+29, à Sauvigny-le-Bois ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "4ea31d49f796",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-15T08:35:00",
+    "date_maj": "2026-11-15T08:45:32",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.96242,
+     47.5131
     ]
    }
   }
