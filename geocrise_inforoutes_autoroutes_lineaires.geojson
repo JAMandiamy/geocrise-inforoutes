@@ -1,7 +1,48 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-15T23:05:00",
- "date_maj": "2026-11-15T23:15:42",
- "features": []
+ "date_publication": "2026-11-15T23:20:00",
+ "date_maj": "2026-11-15T23:30:50",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté - VL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "372+500",
+    "pr_fin": "373",
+    "longueur_km": 0.5,
+    "commune": "Fleurville",
+    "commune_fin": "Viré",
+    "heure_evt": "2026-11-15T23:03:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 23h03, Véhicule arrêté - VL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, au PR 372+900, à Viré ; À 23h12, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 372+500 et 373 (sur 0,5 km), de Fleurville à Viré, Sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "9ac15a986540",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-15T23:20:00",
+    "date_maj": "2026-11-15T23:30:50",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.87882,
+      46.44301
+     ],
+     [
+      4.84565,
+      46.44436
+     ]
+    ]
+   }
+  }
+ ]
 }
