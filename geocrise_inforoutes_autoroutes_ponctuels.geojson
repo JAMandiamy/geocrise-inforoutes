@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-15T03:20:00",
- "date_maj": "2026-11-15T03:30:57",
+ "date_publication": "2026-11-15T03:35:00",
+ "date_maj": "2026-11-15T03:45:37",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
-    "pr_debut": "44+600",
-    "pr_fin": "44+800",
-    "longueur_km": 0.2,
-    "commune": "Arc-sur-Tille",
-    "commune_fin": "",
-    "heure_evt": "2026-11-15T02:33:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 2h33, Réduction du nombre de voies, applicable à tous les véhicules, A31, de Lyon vers Luxembourg (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : voies rétrécies, 1 voie concernée, entre les PR 44+600 et 44+800 (sur 0,2 km), à Arc-sur-Tille, Sur voie de gauche, La mesure est obligatoire ; À 3h04, Accident, 1 VL, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 44+800 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "0e62347ee184",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-15T03:20:00",
-    "date_maj": "2026-11-15T03:30:57",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.20203,
-     47.33945
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T03:20:00",
-    "date_maj": "2026-11-15T03:30:57",
+    "date_publication": "2026-11-15T03:35:00",
+    "date_maj": "2026-11-15T03:45:37",
     "precision": "commune"
    },
    "geometry": {
