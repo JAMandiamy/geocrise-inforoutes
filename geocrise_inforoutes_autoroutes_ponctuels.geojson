@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-15T19:50:00",
- "date_maj": "2026-11-15T20:01:11",
+ "date_publication": "2026-11-15T20:05:00",
+ "date_maj": "2026-11-15T20:15:36",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal écrasé",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A39",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "98+679",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Savigny-en-Revermont",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal écrasé - Événement signalé, A39 (deux sens), au PR 98+679, à Savigny-en-Revermont ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "203bc0347266",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-15T20:05:00",
+    "date_maj": "2026-11-15T20:15:36",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.38979,
+     46.63608
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "97a9917a0648",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T19:50:00",
-    "date_maj": "2026-11-15T20:01:11",
+    "date_publication": "2026-11-15T20:05:00",
+    "date_maj": "2026-11-15T20:15:36",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T19:50:00",
-    "date_maj": "2026-11-15T20:01:11",
+    "date_publication": "2026-11-15T20:05:00",
+    "date_maj": "2026-11-15T20:15:36",
     "precision": "commune"
    },
    "geometry": {
