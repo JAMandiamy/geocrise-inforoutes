@@ -1,45 +1,45 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-15T23:35:00",
- "date_maj": "2026-11-15T23:46:13",
+ "date_publication": "2026-11-15T23:50:00",
+ "date_maj": "2026-11-16T00:01:09",
  "features": [
   {
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
     "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "372+500",
-    "pr_fin": "373",
-    "longueur_km": 0.5,
-    "commune": "Fleurville",
-    "commune_fin": "Viré",
-    "heure_evt": "2026-11-15T23:29:00",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "270",
+    "pr_fin": "260",
+    "longueur_km": 10.0,
+    "commune": "Vandenesse-en-Auxois",
+    "commune_fin": "Chailly-sur-Armançon",
+    "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 23h29, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, entre les PR 372+500 et 373 (sur 0,5 km), de Fleurville à Viré, Sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3ca20c568366",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T23:35:00",
-    "date_maj": "2026-11-15T23:46:13",
+    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, entre les PR 270 et 260 (sur 10,0 km), de Vandenesse-en-Auxois à Chailly-sur-Armançon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "d42e35ac542f",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-15T23:50:00",
+    "date_maj": "2026-11-16T00:01:09",
     "precision": "communes (début → fin)"
    },
    "geometry": {
     "type": "LineString",
     "coordinates": [
      [
-      4.87882,
-      46.44301
+      4.61382,
+      47.22485
      ],
      [
-      4.84565,
-      46.44436
+      4.4783,
+      47.27011
      ]
     ]
    }
