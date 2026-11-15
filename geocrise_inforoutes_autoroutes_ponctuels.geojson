@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-15T19:05:00",
- "date_maj": "2026-11-15T19:15:33",
+ "date_publication": "2026-11-15T19:20:00",
+ "date_maj": "2026-11-15T19:30:59",
  "features": [
   {
    "type": "Feature",
@@ -14,61 +14,27 @@
     "route": "A39",
     "sens": "nord-sud",
     "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "13+500",
+    "pr_debut": "13+700",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Genlis",
+    "commune": "Labergement-Foigney",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), au PR 13+500, à Genlis, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "c11db0f953af",
+    "texte": "Véhicule arrêté, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), au PR 13+700, à Labergement-Foigney, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "75867a6e8ed6",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-15T19:05:00",
-    "date_maj": "2026-11-15T19:15:33",
+    "date_publication": "2026-11-15T19:20:00",
+    "date_maj": "2026-11-15T19:30:59",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.22033,
-     47.24075
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "264+400",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Pouilly-en-Auxois",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 264+400, à Pouilly-en-Auxois, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e167cfbd9a00",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-15T19:05:00",
-    "date_maj": "2026-11-15T19:15:33",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.55378,
-     47.26349
+     5.24784,
+     47.25583
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "97a9917a0648",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T19:05:00",
-    "date_maj": "2026-11-15T19:15:33",
+    "date_publication": "2026-11-15T19:20:00",
+    "date_maj": "2026-11-15T19:30:59",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T19:05:00",
-    "date_maj": "2026-11-15T19:15:33",
+    "date_publication": "2026-11-15T19:20:00",
+    "date_maj": "2026-11-15T19:30:59",
     "precision": "commune"
    },
    "geometry": {
