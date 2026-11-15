@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-15T02:05:00",
- "date_maj": "2026-11-15T02:15:41",
+ "date_publication": "2026-11-15T02:20:00",
+ "date_maj": "2026-11-15T02:30:49",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "sud-nord",
+    "direction": "Lyon → Luxembourg",
+    "pr_debut": "44+800",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Arc-sur-Tille",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, A31, de Lyon vers Luxembourg (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 44+800, à Arc-sur-Tille ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "289b0aca1f7c",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-15T02:20:00",
+    "date_maj": "2026-11-15T02:30:49",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.20203,
+     47.33945
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-15T02:05:00",
-    "date_maj": "2026-11-15T02:15:41",
+    "date_publication": "2026-11-15T02:20:00",
+    "date_maj": "2026-11-15T02:30:49",
     "precision": "commune"
    },
    "geometry": {
