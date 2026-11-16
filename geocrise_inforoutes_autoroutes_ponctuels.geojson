@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-16T19:35:00",
- "date_maj": "2026-11-16T19:45:41",
+ "date_publication": "2026-11-16T19:50:00",
+ "date_maj": "2026-11-16T20:01:06",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "324",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "La Loyère",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 2 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 324, à La Loyère, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3db7604d4ca1",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T19:35:00",
-    "date_maj": "2026-11-16T19:45:41",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.8374,
-     46.8404
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T19:35:00",
-    "date_maj": "2026-11-16T19:45:41",
+    "date_publication": "2026-11-16T19:50:00",
+    "date_maj": "2026-11-16T20:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "bfa8f1a03e5e",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T19:35:00",
-    "date_maj": "2026-11-16T19:45:41",
+    "date_publication": "2026-11-16T19:50:00",
+    "date_maj": "2026-11-16T20:01:06",
     "precision": "commune"
    },
    "geometry": {
