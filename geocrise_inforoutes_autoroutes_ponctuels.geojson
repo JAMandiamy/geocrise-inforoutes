@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-16T23:20:00",
- "date_maj": "2026-11-16T23:30:52",
+ "date_publication": "2026-11-16T23:35:00",
+ "date_maj": "2026-11-16T23:46:36",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "329",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Champforgeuil",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 2 VL, A6, de Lyon vers Paris (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 329, à Champforgeuil ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "22ee2085a8b1",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T23:20:00",
-    "date_maj": "2026-11-16T23:30:52",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.82274,
-     46.81345
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T23:20:00",
-    "date_maj": "2026-11-16T23:30:52",
+    "date_publication": "2026-11-16T23:35:00",
+    "date_maj": "2026-11-16T23:46:36",
     "precision": "commune"
    },
    "geometry": {
