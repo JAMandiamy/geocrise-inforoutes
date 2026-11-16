@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-16T19:50:00",
- "date_maj": "2026-11-16T20:01:06",
+ "date_publication": "2026-11-16T20:05:00",
+ "date_maj": "2026-11-16T20:15:33",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T19:50:00",
-    "date_maj": "2026-11-16T20:01:06",
+    "date_publication": "2026-11-16T20:05:00",
+    "date_maj": "2026-11-16T20:15:33",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86115,
      46.66918
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "334",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Saint-Rémy",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), au PR 334, à Saint-Rémy, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "bfa8f1a03e5e",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T19:50:00",
-    "date_maj": "2026-11-16T20:01:06",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.82616,
-     46.75889
     ]
    }
   }
