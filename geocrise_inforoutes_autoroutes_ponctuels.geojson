@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-16T09:50:00",
- "date_maj": "2026-11-16T10:01:06",
+ "date_publication": "2026-11-16T10:05:00",
+ "date_maj": "2026-11-16T10:15:36",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "335+800",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Sevrey",
-    "commune_fin": "",
-    "heure_evt": "2026-11-16T08:55:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 8h55, Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 335+800, à Sevrey ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "97a9917a0648",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T09:50:00",
-    "date_maj": "2026-11-16T10:01:06",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.83164,
-     46.73669
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T09:50:00",
-    "date_maj": "2026-11-16T10:01:06",
+    "date_publication": "2026-11-16T10:05:00",
+    "date_maj": "2026-11-16T10:15:36",
     "precision": "commune"
    },
    "geometry": {
