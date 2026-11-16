@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-16T13:05:00",
- "date_maj": "2026-11-16T13:15:43",
+ "date_publication": "2026-11-16T13:20:00",
+ "date_maj": "2026-11-16T13:30:51",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
+    "signale": "non",
+    "route": "A39",
+    "sens": "sud-nord",
+    "direction": "Bourg-en-Bresse → Dijon",
+    "pr_debut": "33+900",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Flagey-lès-Auxonne",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Réduction du nombre de voies, applicable à tous les véhicules, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 33+900, à Flagey-lès-Auxonne, Sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c9371c5155b3",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-16T13:20:00",
+    "date_maj": "2026-11-16T13:30:51",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.39919,
+     47.12978
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T13:05:00",
-    "date_maj": "2026-11-16T13:15:43",
+    "date_publication": "2026-11-16T13:20:00",
+    "date_maj": "2026-11-16T13:30:51",
     "precision": "commune"
    },
    "geometry": {
