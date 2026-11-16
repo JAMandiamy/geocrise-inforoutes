@@ -1,77 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-16T12:35:00",
- "date_maj": "2026-11-16T12:45:48",
+ "date_publication": "2026-11-16T12:50:00",
+ "date_maj": "2026-11-16T13:01:06",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "4",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Ladoix-Serrigny",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 4, à Ladoix-Serrigny ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "7740daa5b867",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-16T12:35:00",
-    "date_maj": "2026-11-16T12:45:48",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.90773,
-     47.06759
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "7+400",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Ladoix-Serrigny",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 7+400, à Ladoix-Serrigny ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "50574c97c9d9",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-16T12:35:00",
-    "date_maj": "2026-11-16T12:45:48",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.90773,
-     47.06759
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -94,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T12:35:00",
-    "date_maj": "2026-11-16T12:45:48",
+    "date_publication": "2026-11-16T12:50:00",
+    "date_maj": "2026-11-16T13:01:06",
     "precision": "commune"
    },
    "geometry": {
