@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-16T12:05:00",
- "date_maj": "2026-11-16T12:15:44",
+ "date_publication": "2026-11-16T12:20:00",
+ "date_maj": "2026-11-16T12:30:57",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 3,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "395+500",
-    "pr_fin": "395+700",
-    "longueur_km": 0.2,
-    "commune": "Crêches-sur-Saône",
-    "commune_fin": "",
-    "heure_evt": "2026-11-16T11:04:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 11h04, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, entre les PR 395+500 et 395+700 (sur 0,2 km), à Crêches-sur-Saône, Sur voie de droite, La mesure est obligatoire ; À 11h35, Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 395+700, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1bacfa2e4baa",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T12:05:00",
-    "date_maj": "2026-11-16T12:15:44",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.78705,
-     46.23918
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T12:05:00",
-    "date_maj": "2026-11-16T12:15:44",
+    "date_publication": "2026-11-16T12:20:00",
+    "date_maj": "2026-11-16T12:30:57",
     "precision": "commune"
    },
    "geometry": {
