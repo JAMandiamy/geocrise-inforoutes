@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-16T18:50:00",
- "date_maj": "2026-11-16T19:01:13",
+ "date_publication": "2026-11-16T19:05:00",
+ "date_maj": "2026-11-16T19:15:40",
  "features": [
   {
    "type": "Feature",
@@ -14,27 +14,27 @@
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
-    "pr_debut": "342",
+    "pr_debut": "324",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Saint-Ambreuil",
+    "commune": "La Loyère",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, A6, de Paris vers Lyon (sens nord-sud), au PR 342, à Saint-Ambreuil, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "77a5b2caddd7",
+    "texte": "Accident, 2 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 324, à La Loyère, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "3db7604d4ca1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T18:50:00",
-    "date_maj": "2026-11-16T19:01:13",
+    "date_publication": "2026-11-16T19:05:00",
+    "date_maj": "2026-11-16T19:15:40",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.81486,
-     46.67905
+     4.8374,
+     46.8404
     ]
    }
   },
@@ -60,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T18:50:00",
-    "date_maj": "2026-11-16T19:01:13",
+    "date_publication": "2026-11-16T19:05:00",
+    "date_maj": "2026-11-16T19:15:40",
     "precision": "commune"
    },
    "geometry": {
