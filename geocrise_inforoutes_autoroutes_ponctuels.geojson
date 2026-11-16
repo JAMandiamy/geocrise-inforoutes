@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-16T15:20:00",
- "date_maj": "2026-11-16T15:31:11",
+ "date_publication": "2026-11-16T15:35:00",
+ "date_maj": "2026-11-16T15:45:40",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "c9371c5155b3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-16T15:20:00",
-    "date_maj": "2026-11-16T15:31:11",
+    "date_publication": "2026-11-16T15:35:00",
+    "date_maj": "2026-11-16T15:45:40",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T15:20:00",
-    "date_maj": "2026-11-16T15:31:11",
+    "date_publication": "2026-11-16T15:35:00",
+    "date_maj": "2026-11-16T15:45:40",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      4.86115,
      46.66918
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A406",
-    "sens": "ouest-est",
-    "direction": "Mâcon → Bourg-en-Bresse",
-    "pr_debut": "10+383",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Mâcon",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A406, de Mâcon vers Bourg-en-Bresse (sens ouest-est), Impact : voies rétrécies, toutes les voies, au PR 10+383, à Mâcon, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "441c802ef94d",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T15:20:00",
-    "date_maj": "2026-11-16T15:31:11",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.83514,
-     46.36224
     ]
    }
   }
