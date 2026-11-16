@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-16T18:35:00",
- "date_maj": "2026-11-16T18:46:39",
+ "date_publication": "2026-11-16T18:50:00",
+ "date_maj": "2026-11-16T19:01:13",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "342",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Saint-Ambreuil",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, A6, de Paris vers Lyon (sens nord-sud), au PR 342, à Saint-Ambreuil, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "77a5b2caddd7",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-16T18:50:00",
+    "date_maj": "2026-11-16T19:01:13",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81486,
+     46.67905
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-16T18:35:00",
-    "date_maj": "2026-11-16T18:46:39",
+    "date_publication": "2026-11-16T18:50:00",
+    "date_maj": "2026-11-16T19:01:13",
     "precision": "commune"
    },
    "geometry": {
