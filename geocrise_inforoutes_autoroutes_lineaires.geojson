@@ -1,48 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-16T00:20:00",
- "date_maj": "2026-11-16T00:45:35",
- "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "270",
-    "pr_fin": "260",
-    "longueur_km": 10.0,
-    "commune": "Vandenesse-en-Auxois",
-    "commune_fin": "Chailly-sur-Armançon",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, entre les PR 270 et 260 (sur 10,0 km), de Vandenesse-en-Auxois à Chailly-sur-Armançon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "d42e35ac542f",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-16T00:20:00",
-    "date_maj": "2026-11-16T00:45:35",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.61382,
-      47.22485
-     ],
-     [
-      4.4783,
-      47.27011
-     ]
-    ]
-   }
-  }
- ]
+ "date_publication": "2026-11-16T00:50:00",
+ "date_maj": "2026-11-16T01:01:15",
+ "features": []
 }
