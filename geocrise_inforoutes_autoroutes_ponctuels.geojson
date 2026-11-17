@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T16:35:00",
- "date_maj": "2026-11-17T16:45:40",
+ "date_publication": "2026-11-17T16:50:00",
+ "date_maj": "2026-11-17T17:01:14",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T16:35:00",
-    "date_maj": "2026-11-17T16:45:40",
+    "date_publication": "2026-11-17T16:50:00",
+    "date_maj": "2026-11-17T17:01:14",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "269",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Maconge",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 269, à Maconge ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4158be9e4de8",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T16:35:00",
-    "date_maj": "2026-11-17T16:45:40",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.57939,
-     47.22581
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T16:35:00",
-    "date_maj": "2026-11-17T16:45:40",
+    "date_publication": "2026-11-17T16:50:00",
+    "date_maj": "2026-11-17T17:01:14",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "a83367c99bed",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T16:35:00",
-    "date_maj": "2026-11-17T16:45:40",
+    "date_publication": "2026-11-17T16:50:00",
+    "date_maj": "2026-11-17T17:01:14",
     "precision": "commune"
    },
    "geometry": {
