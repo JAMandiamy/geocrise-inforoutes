@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T13:50:00",
- "date_maj": "2026-11-17T14:01:12",
+ "date_publication": "2026-11-17T14:05:00",
+ "date_maj": "2026-11-17T14:15:40",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "3+300",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Chorey-les-Beaune",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 3+300, à Chorey-les-Beaune, Sur voie de gauche ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "733f82e0a9b2",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T13:50:00",
-    "date_maj": "2026-11-17T14:01:12",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.86715,
-     47.05233
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -46,29 +12,29 @@
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
-    "pr_debut": "44",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Bressey-sur-Tille",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "3+450",
+    "pr_fin": "3+400",
+    "longueur_km": 0.1,
+    "commune": "Chorey-les-Beaune",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle, A31, de Lyon vers Luxembourg (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 44, à Bressey-sur-Tille ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "c762897e9a07",
+    "texte": "Obstacle, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, au PR 3+400, à Chorey-les-Beaune, Sur voie de gauche ; Réduction du nombre de voies, applicable à tous les véhicules, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 3+450 et 3+400 (sur 0,1 km), La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T13:50:00",
-    "date_maj": "2026-11-17T14:01:12",
+    "date_publication": "2026-11-17T14:05:00",
+    "date_maj": "2026-11-17T14:15:40",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.18086,
-     47.31041
+     4.86715,
+     47.05233
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "b5f12eb1af06",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T13:50:00",
-    "date_maj": "2026-11-17T14:01:12",
+    "date_publication": "2026-11-17T14:05:00",
+    "date_maj": "2026-11-17T14:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T13:50:00",
-    "date_maj": "2026-11-17T14:01:12",
+    "date_publication": "2026-11-17T14:05:00",
+    "date_maj": "2026-11-17T14:15:40",
     "precision": "commune"
    },
    "geometry": {
