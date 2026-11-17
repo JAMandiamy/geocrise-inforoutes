@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T15:50:00",
- "date_maj": "2026-11-17T16:01:23",
+ "date_publication": "2026-11-17T16:05:00",
+ "date_maj": "2026-11-17T16:16:18",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T15:50:00",
-    "date_maj": "2026-11-17T16:01:23",
+    "date_publication": "2026-11-17T16:05:00",
+    "date_maj": "2026-11-17T16:16:18",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T15:50:00",
-    "date_maj": "2026-11-17T16:01:23",
+    "date_publication": "2026-11-17T16:05:00",
+    "date_maj": "2026-11-17T16:16:18",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      4.86115,
      46.66918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "362+700",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Le Villars",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), au PR 362+700, à Le Villars, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e7cee6328f48",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-17T16:05:00",
+    "date_maj": "2026-11-17T16:16:18",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9205,
+     46.5302
     ]
    }
   },
@@ -94,8 +128,8 @@
     "evt_id": "a83367c99bed",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T15:50:00",
-    "date_maj": "2026-11-17T16:01:23",
+    "date_publication": "2026-11-17T16:05:00",
+    "date_maj": "2026-11-17T16:16:18",
     "precision": "commune"
    },
    "geometry": {
@@ -112,11 +146,11 @@
     "importance": 2,
     "type_evt": "Obstacle",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A5",
     "sens": "est-ouest",
     "direction": "Dijon → Paris",
-    "pr_debut": "72+200",
+    "pr_debut": "72+700",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Fontaine-la-Gaillarde",
@@ -124,12 +158,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A5, de Dijon vers Paris (sens est-ouest), Impact : voies neutralisées, toutes les voies, au PR 72+200, à Fontaine-la-Gaillarde ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "6a0107d557e3",
+    "texte": "Obstacle, A5, de Dijon vers Paris (sens est-ouest), Impact : voies neutralisées, toutes les voies, au PR 72+700, à Fontaine-la-Gaillarde ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "5c1d4aba9343",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-17T15:50:00",
-    "date_maj": "2026-11-17T16:01:23",
+    "date_publication": "2026-11-17T16:05:00",
+    "date_maj": "2026-11-17T16:16:18",
     "precision": "commune"
    },
    "geometry": {
@@ -137,40 +171,6 @@
     "coordinates": [
      3.40515,
      48.22404
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A5",
-    "sens": "ouest-est",
-    "direction": "Paris → Dijon",
-    "pr_debut": "64+599",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "La Chapelle-sur-Oreuse",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A5, de Paris vers Dijon (sens ouest-est), au PR 64+599, à La Chapelle-sur-Oreuse, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "96746df419a1",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-17T15:50:00",
-    "date_maj": "2026-11-17T16:01:23",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.3016,
-     48.2955
     ]
    }
   }
