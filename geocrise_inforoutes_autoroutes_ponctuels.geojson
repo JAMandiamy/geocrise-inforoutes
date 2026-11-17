@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T09:20:00",
- "date_maj": "2026-11-17T09:30:52",
+ "date_publication": "2026-11-17T09:35:00",
+ "date_maj": "2026-11-17T09:45:40",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A39",
-    "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "30+600",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Flagey-lès-Auxonne",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 30+600, à Flagey-lès-Auxonne ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f0499f1a4442",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T09:20:00",
-    "date_maj": "2026-11-17T09:30:52",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.39919,
-     47.12978
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T09:20:00",
-    "date_maj": "2026-11-17T09:30:52",
+    "date_publication": "2026-11-17T09:35:00",
+    "date_maj": "2026-11-17T09:45:40",
     "precision": "commune"
    },
    "geometry": {
