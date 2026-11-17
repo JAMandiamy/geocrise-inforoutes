@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T18:35:00",
- "date_maj": "2026-11-17T18:45:39",
+ "date_publication": "2026-11-17T18:50:00",
+ "date_maj": "2026-11-17T19:01:07",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T18:35:00",
-    "date_maj": "2026-11-17T18:45:39",
+    "date_publication": "2026-11-17T18:50:00",
+    "date_maj": "2026-11-17T19:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "335+100",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Lux",
-    "commune_fin": "",
-    "heure_evt": "2026-11-17T18:07:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 18h07, Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 335+100, à Lux, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "be78c799323a",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T18:35:00",
-    "date_maj": "2026-11-17T18:45:39",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.86132,
-     46.74921
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T18:35:00",
-    "date_maj": "2026-11-17T18:45:39",
+    "date_publication": "2026-11-17T18:50:00",
+    "date_maj": "2026-11-17T19:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +69,40 @@
     "coordinates": [
      4.86115,
      46.66918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "111+900",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Piffonds",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), au PR 111+900, à Piffonds, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "98cc62eec2a3",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-17T18:50:00",
+    "date_maj": "2026-11-17T19:01:07",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.14669,
+     48.05714
     ]
    }
   },
@@ -128,8 +128,8 @@
     "evt_id": "21a21be10fdd",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-17T18:35:00",
-    "date_maj": "2026-11-17T18:45:39",
+    "date_publication": "2026-11-17T18:50:00",
+    "date_maj": "2026-11-17T19:01:07",
     "precision": "commune"
    },
    "geometry": {
