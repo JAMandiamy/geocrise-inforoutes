@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T19:50:00",
- "date_maj": "2026-11-17T20:02:10",
+ "date_publication": "2026-11-17T20:05:00",
+ "date_maj": "2026-11-17T20:09:43",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T19:50:00",
-    "date_maj": "2026-11-17T20:02:10",
+    "date_publication": "2026-11-17T20:05:00",
+    "date_maj": "2026-11-17T20:09:43",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T19:50:00",
-    "date_maj": "2026-11-17T20:02:10",
+    "date_publication": "2026-11-17T20:05:00",
+    "date_maj": "2026-11-17T20:09:43",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "6bc14508c0f5",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-17T19:50:00",
-    "date_maj": "2026-11-17T20:02:10",
+    "date_publication": "2026-11-17T20:05:00",
+    "date_maj": "2026-11-17T20:09:43",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +103,40 @@
     "coordinates": [
      3.14669,
      48.05714
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A19",
+    "sens": "sud-nord",
+    "direction": "Orléans (A10) → Sens (A5)",
+    "pr_debut": "20+300",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Villeneuve-la-Dondagre",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté, A19, de Orléans (A10) vers Sens (A5) (sens sud-nord), au PR 20+300, à Villeneuve-la-Dondagre, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "6688ee6725dd",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-17T20:05:00",
+    "date_maj": "2026-11-17T20:09:43",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.13825,
+     48.13831
     ]
    }
   }
