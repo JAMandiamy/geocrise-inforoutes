@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T05:50:00",
- "date_maj": "2026-11-17T06:01:07",
+ "date_publication": "2026-11-17T06:05:00",
+ "date_maj": "2026-11-17T06:16:00",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T05:50:00",
-    "date_maj": "2026-11-17T06:01:07",
+    "date_publication": "2026-11-17T06:05:00",
+    "date_maj": "2026-11-17T06:16:00",
     "precision": "commune"
    },
    "geometry": {
@@ -42,8 +42,8 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "est-ouest",
@@ -53,15 +53,15 @@
     "longueur_km": 0.2,
     "commune": "Sépeaux",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-11-17T05:30:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, toutes les voiesImpact : voies neutralisées, 1 voie concernée, au PR 127+500, à Sépeaux ; À 5h30, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens est-ouest), entre les PR 127+400 et 127+200 (sur 0,2 km), Sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "799a0f242762",
+    "texte": "À 5h30, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, entre les PR 127+400 et 127+200 (sur 0,2 km), à Sépeaux, Sur voie de droite, La mesure est obligatoire ; À 6h00, Accident, 1 VL, A6, de Lyon vers Paris (sens est-ouest), au PR 127+100, Sur voie de gauche ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "1cae2a52f4f8",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-17T05:50:00",
-    "date_maj": "2026-11-17T06:01:07",
+    "date_publication": "2026-11-17T06:05:00",
+    "date_maj": "2026-11-17T06:16:00",
     "precision": "commune"
    },
    "geometry": {
