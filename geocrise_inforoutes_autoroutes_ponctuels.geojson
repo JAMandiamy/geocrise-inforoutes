@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T05:35:00",
- "date_maj": "2026-11-17T05:45:36",
+ "date_publication": "2026-11-17T05:50:00",
+ "date_maj": "2026-11-17T06:01:07",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A39",
-    "sens": "sud-nord",
-    "direction": "Bourg-en-Bresse → Dijon",
-    "pr_debut": "32+600",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Saint-Seine-en-Bâche",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 32+600, à Saint-Seine-en-Bâche, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "8aa6343abd69",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T05:35:00",
-    "date_maj": "2026-11-17T05:45:36",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.3753,
-     47.11317
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T05:35:00",
-    "date_maj": "2026-11-17T05:45:36",
+    "date_publication": "2026-11-17T05:50:00",
+    "date_maj": "2026-11-17T06:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -76,9 +42,9 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Obstacle",
+    "type_evt": "Accident",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
     "sens": "est-ouest",
     "direction": "Lyon → Paris",
@@ -87,15 +53,15 @@
     "longueur_km": 0.2,
     "commune": "Sépeaux",
     "commune_fin": "",
-    "heure_evt": "2026-11-17T05:12:00",
+    "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 5h12, Obstacle - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, toutes les voiesImpact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, toutes les voies, au PR 127+500, à Sépeaux ; À 5h23, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens est-ouest), entre les PR 127+400 et 127+200 (sur 0,2 km), Sur voie de droite, La mesure est obligatoire ; Accident, 1 VL, A6, de Lyon vers Paris (sens est-ouest), au PR 127+500 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "5560b6fd13b5",
+    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, toutes les voiesImpact : voies neutralisées, 1 voie concernée, au PR 127+500, à Sépeaux ; À 5h30, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens est-ouest), entre les PR 127+400 et 127+200 (sur 0,2 km), Sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "799a0f242762",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-17T05:35:00",
-    "date_maj": "2026-11-17T05:45:36",
+    "date_publication": "2026-11-17T05:50:00",
+    "date_maj": "2026-11-17T06:01:07",
     "precision": "commune"
    },
    "geometry": {
