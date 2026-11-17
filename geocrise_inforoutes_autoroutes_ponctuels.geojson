@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T15:05:00",
- "date_maj": "2026-11-17T15:15:56",
+ "date_publication": "2026-11-17T15:20:00",
+ "date_maj": "2026-11-17T15:30:56",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T15:05:00",
-    "date_maj": "2026-11-17T15:15:56",
+    "date_publication": "2026-11-17T15:20:00",
+    "date_maj": "2026-11-17T15:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Convoi exceptionnel",
-    "groupe": "5 - Information et services",
-    "signale": "non",
-    "route": "A39",
-    "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "69",
-    "pr_fin": "120",
-    "longueur_km": 51.0,
-    "commune": "Bersaillin",
-    "commune_fin": "Condal",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Convoi exceptionnel, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), entre les PR 69 et 120 (sur 51,0 km), entre les départements 39 (Jura) et 71 (Saône-et-Loire), de Bersaillin à Condal ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "b5f12eb1af06",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T15:05:00",
-    "date_maj": "2026-11-17T15:15:56",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.27961,
-     46.46851
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T15:05:00",
-    "date_maj": "2026-11-17T15:15:56",
+    "date_publication": "2026-11-17T15:20:00",
+    "date_maj": "2026-11-17T15:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "a83367c99bed",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T15:05:00",
-    "date_maj": "2026-11-17T15:15:56",
+    "date_publication": "2026-11-17T15:20:00",
+    "date_maj": "2026-11-17T15:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -143,34 +109,34 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - VL",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
-    "route": "A6",
+    "route": "A5",
     "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "112+310",
+    "direction": "Paris → Dijon",
+    "pr_debut": "64+599",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Piffonds",
+    "commune": "La Chapelle-sur-Oreuse",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens ouest-est), au PR 112+310, à Piffonds, situé sur bretelle de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "42906f06389e",
+    "texte": "Véhicule arrêté - VL, A5, de Paris vers Dijon (sens ouest-est), au PR 64+599, à La Chapelle-sur-Oreuse, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "96746df419a1",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-17T15:05:00",
-    "date_maj": "2026-11-17T15:15:56",
+    "date_publication": "2026-11-17T15:20:00",
+    "date_maj": "2026-11-17T15:30:56",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.14669,
-     48.05714
+     3.3016,
+     48.2955
     ]
    }
   }
