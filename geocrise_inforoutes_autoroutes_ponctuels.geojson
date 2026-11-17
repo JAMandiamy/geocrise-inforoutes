@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T01:05:00",
- "date_maj": "2026-11-17T01:16:39",
+ "date_publication": "2026-11-17T01:20:00",
+ "date_maj": "2026-11-17T01:30:51",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T01:05:00",
-    "date_maj": "2026-11-17T01:16:39",
+    "date_publication": "2026-11-17T01:20:00",
+    "date_maj": "2026-11-17T01:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86115,
      46.66918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - VL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "402+300",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Saint-Symphorien-d'Ancelles",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - VL - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 402+300, à Saint-Symphorien-d'Ancelles, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "b7b44ade5f3a",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-17T01:20:00",
+    "date_maj": "2026-11-17T01:30:51",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76985,
+     46.19241
     ]
    }
   }
