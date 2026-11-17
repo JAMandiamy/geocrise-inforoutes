@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T09:05:00",
- "date_maj": "2026-11-17T09:15:37",
+ "date_publication": "2026-11-17T09:20:00",
+ "date_maj": "2026-11-17T09:30:52",
  "features": [
   {
    "type": "Feature",
@@ -10,11 +10,11 @@
     "importance": 2,
     "type_evt": "Obstacle",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A39",
     "sens": "nord-sud",
     "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "30+800",
+    "pr_debut": "30+600",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Flagey-lès-Auxonne",
@@ -22,12 +22,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 30+800, à Flagey-lès-Auxonne ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "94a03172405b",
+    "texte": "Obstacle, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 30+600, à Flagey-lès-Auxonne ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f0499f1a4442",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T09:05:00",
-    "date_maj": "2026-11-17T09:15:37",
+    "date_publication": "2026-11-17T09:20:00",
+    "date_maj": "2026-11-17T09:30:52",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      5.39919,
      47.12978
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "293+260",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Savigny-lès-Beaune",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Animal errant - Événement signalé, A6 (deux sens), au PR 293+260, à Savigny-lès-Beaune ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f94d8ac10025",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T09:05:00",
-    "date_maj": "2026-11-17T09:15:37",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.79446,
-     47.07968
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T09:05:00",
-    "date_maj": "2026-11-17T09:15:37",
+    "date_publication": "2026-11-17T09:20:00",
+    "date_maj": "2026-11-17T09:30:52",
     "precision": "commune"
    },
    "geometry": {
