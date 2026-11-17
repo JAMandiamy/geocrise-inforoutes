@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T18:20:00",
- "date_maj": "2026-11-17T18:30:55",
+ "date_publication": "2026-11-17T18:35:00",
+ "date_maj": "2026-11-17T18:45:39",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-17T18:20:00",
-    "date_maj": "2026-11-17T18:30:55",
+    "date_publication": "2026-11-17T18:35:00",
+    "date_maj": "2026-11-17T18:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -42,33 +42,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Obstacle",
+    "type_evt": "Accident",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
-    "pr_debut": "334",
+    "pr_debut": "335+100",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Saint-Rémy",
+    "commune": "Lux",
     "commune_fin": "",
-    "heure_evt": "2026-11-17T18:04:00",
+    "heure_evt": "2026-11-17T18:07:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 18h04, Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 334, à Saint-Rémy ; À 18h06, Accident, 1 VL, au PR 335+100, à Lux, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "b29eb4c2cd3b",
+    "texte": "À 18h07, Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 335+100, à Lux, situé sur la bretelle d'entrée de l'échangeur, Hors voie de circulation, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "be78c799323a",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T18:20:00",
-    "date_maj": "2026-11-17T18:30:55",
+    "date_publication": "2026-11-17T18:35:00",
+    "date_maj": "2026-11-17T18:45:39",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.82616,
-     46.75889
+     4.86132,
+     46.74921
     ]
    }
   },
@@ -94,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T18:20:00",
-    "date_maj": "2026-11-17T18:30:55",
+    "date_publication": "2026-11-17T18:35:00",
+    "date_maj": "2026-11-17T18:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +103,40 @@
     "coordinates": [
      4.86115,
      46.66918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "184",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Nitry",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), au PR 184, à Nitry, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "21a21be10fdd",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-17T18:35:00",
+    "date_maj": "2026-11-17T18:45:39",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.8787,
+     47.67598
     ]
    }
   }
