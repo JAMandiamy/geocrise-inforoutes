@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T09:50:00",
- "date_maj": "2026-11-17T10:01:05",
+ "date_publication": "2026-11-17T10:05:00",
+ "date_maj": "2026-11-17T10:15:42",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T09:50:00",
-    "date_maj": "2026-11-17T10:01:05",
+    "date_publication": "2026-11-17T10:05:00",
+    "date_maj": "2026-11-17T10:15:42",
     "precision": "commune"
    },
    "geometry": {
@@ -42,13 +42,13 @@
    "type": "Feature",
    "properties": {
     "importance": 1,
-    "type_evt": "Véhicule arrêté",
+    "type_evt": "Véhicule arrêté - PL",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A39",
     "sens": "sud-nord",
     "direction": "Bourg-en-Bresse → Dijon",
-    "pr_debut": "104+200",
+    "pr_debut": "104",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Sagy",
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 104+200, à Sagy, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4b25203750b8",
+    "texte": "Véhicule arrêté - PL, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), au PR 104, à Sagy, Hors voie de circulation, sur accotement ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "35b7bc2b6c50",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T09:50:00",
-    "date_maj": "2026-11-17T10:01:05",
+    "date_publication": "2026-11-17T10:05:00",
+    "date_maj": "2026-11-17T10:15:42",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      5.32384,
      46.59412
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - VL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "401+900",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Saint-Symphorien-d'Ancelles",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - VL, A6, de Lyon vers Paris (sens sud-nord), au PR 401+900, à Saint-Symphorien-d'Ancelles, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "82d11311d92b",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-17T10:05:00",
+    "date_maj": "2026-11-17T10:15:42",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76985,
+     46.19241
     ]
    }
   }
