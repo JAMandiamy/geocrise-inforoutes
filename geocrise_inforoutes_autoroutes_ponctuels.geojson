@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T04:05:00",
- "date_maj": "2026-11-17T04:15:34",
+ "date_publication": "2026-11-17T04:20:00",
+ "date_maj": "2026-11-17T04:32:06",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "294+750",
+    "pr_fin": "294+900",
+    "longueur_km": 0.2,
+    "commune": "Bouze-lès-Beaune",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, entre les PR 294+750 et 294+900 (sur 0,2 km), à Bouze-lès-Beaune, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "26a4f8fa9dd5",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-17T04:20:00",
+    "date_maj": "2026-11-17T04:32:06",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.77165,
+     47.05651
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T04:05:00",
-    "date_maj": "2026-11-17T04:15:34",
+    "date_publication": "2026-11-17T04:20:00",
+    "date_maj": "2026-11-17T04:32:06",
     "precision": "commune"
    },
    "geometry": {
