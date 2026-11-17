@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T13:20:00",
- "date_maj": "2026-11-17T13:31:11",
+ "date_publication": "2026-11-17T13:35:00",
+ "date_maj": "2026-11-17T13:45:37",
  "features": [
   {
    "type": "Feature",
@@ -11,30 +11,64 @@
     "type_evt": "Obstacle",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "322",
+    "route": "A31",
+    "sens": "sud-nord",
+    "direction": "Lyon → Luxembourg",
+    "pr_debut": "44",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Fontaines",
+    "commune": "Bressey-sur-Tille",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 2 voies concernées, au PR 322, à Fontaines ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3c265f107b37",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T13:20:00",
-    "date_maj": "2026-11-17T13:31:11",
+    "texte": "Obstacle, A31, de Lyon vers Luxembourg (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 44, à Bressey-sur-Tille ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c762897e9a07",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-17T13:35:00",
+    "date_maj": "2026-11-17T13:45:37",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.77446,
-     46.8503
+     5.18086,
+     47.31041
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Convoi exceptionnel",
+    "groupe": "5 - Information et services",
+    "signale": "non",
+    "route": "A39",
+    "sens": "nord-sud",
+    "direction": "Dijon → Bourg-en-Bresse",
+    "pr_debut": "69",
+    "pr_fin": "120",
+    "longueur_km": 51.0,
+    "commune": "Bersaillin",
+    "commune_fin": "Condal",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Convoi exceptionnel, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, entre les PR 69 et 120 (sur 51,0 km), entre les départements 39 (Jura) et 71 (Saône-et-Loire), de Bersaillin à Condal ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "96e605f62efb",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-17T13:35:00",
+    "date_maj": "2026-11-17T13:45:37",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.27961,
+     46.46851
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T13:20:00",
-    "date_maj": "2026-11-17T13:31:11",
+    "date_publication": "2026-11-17T13:35:00",
+    "date_maj": "2026-11-17T13:45:37",
     "precision": "commune"
    },
    "geometry": {
