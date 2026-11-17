@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T08:05:00",
- "date_maj": "2026-11-17T08:16:02",
+ "date_publication": "2026-11-17T08:20:00",
+ "date_maj": "2026-11-17T08:31:01",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T08:05:00",
-    "date_maj": "2026-11-17T08:16:02",
+    "date_publication": "2026-11-17T08:20:00",
+    "date_maj": "2026-11-17T08:31:01",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86115,
      46.66918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "127",
+    "pr_fin": "128",
+    "longueur_km": 1.0,
+    "commune": "Sépeaux",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), Impact : voies neutralisées, 1 voie concernée, entre les PR 127 et 128 (sur 1,0 km), à Sépeaux, Sur la voie du milieu ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a90c44b05b2e",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-17T08:20:00",
+    "date_maj": "2026-11-17T08:31:01",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.2402,
+     47.9346
     ]
    }
   }
