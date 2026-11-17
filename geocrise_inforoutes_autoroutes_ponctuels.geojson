@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-17T12:35:00",
- "date_maj": "2026-11-17T12:45:38",
+ "date_publication": "2026-11-17T12:50:00",
+ "date_maj": "2026-11-17T13:01:02",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "264+100",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Pouilly-en-Auxois",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 264+100, à Pouilly-en-Auxois, situé sur bretelle de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "ad065a67f807",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-17T12:50:00",
+    "date_maj": "2026-11-17T13:01:02",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.55378,
+     47.26349
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-17T12:35:00",
-    "date_maj": "2026-11-17T12:45:38",
+    "date_publication": "2026-11-17T12:50:00",
+    "date_maj": "2026-11-17T13:01:02",
     "precision": "commune"
    },
    "geometry": {
