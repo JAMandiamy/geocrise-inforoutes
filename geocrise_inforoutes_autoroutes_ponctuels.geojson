@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T23:05:00",
- "date_maj": "2026-11-18T23:15:47",
+ "date_publication": "2026-11-18T23:20:00",
+ "date_maj": "2026-11-18T23:30:57",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T23:05:00",
-    "date_maj": "2026-11-18T23:15:47",
+    "date_publication": "2026-11-18T23:20:00",
+    "date_maj": "2026-11-18T23:30:57",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "249+800",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Thorey-sous-Charny",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 249+800, à Thorey-sous-Charny, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "b21715dd7d41",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T23:05:00",
-    "date_maj": "2026-11-18T23:15:47",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.45739,
-     47.33208
     ]
    }
   }
