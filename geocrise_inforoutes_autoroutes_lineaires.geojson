@@ -1,7 +1,48 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-18T05:35:00",
- "date_maj": "2026-11-18T06:01:09",
- "features": []
+ "date_publication": "2026-11-18T06:05:00",
+ "date_maj": "2026-11-18T06:15:41",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Convoi exceptionnel",
+    "groupe": "5 - Information et services",
+    "signale": "non",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "49",
+    "pr_fin": "0",
+    "longueur_km": 49.4,
+    "commune": "Arceau",
+    "commune_fin": "Vignoles",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Convoi exceptionnel, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, entre les PR 49 et 0 (sur 49,4 km), de Arceau à Vignoles ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "1982c59c50c1",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-18T06:05:00",
+    "date_maj": "2026-11-18T06:15:41",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      5.19382,
+      47.37799
+     ],
+     [
+      4.88104,
+      47.02533
+     ]
+    ]
+   }
+  }
+ ]
 }
