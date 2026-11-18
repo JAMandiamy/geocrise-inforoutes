@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T20:20:00",
- "date_maj": "2026-11-18T20:30:53",
+ "date_publication": "2026-11-18T20:35:00",
+ "date_maj": "2026-11-18T20:45:44",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T20:20:00",
-    "date_maj": "2026-11-18T20:30:53",
+    "date_publication": "2026-11-18T20:35:00",
+    "date_maj": "2026-11-18T20:45:44",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,74 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - VL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "60",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Spoy",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - VL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 60, à Spoy, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "8d3618b3c683",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-18T20:35:00",
+    "date_maj": "2026-11-18T20:45:44",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.19027,
+     47.44758
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "110",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Savigny-sur-Clairis",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens ouest-est), Impact : voies rétrécies, toutes les voies, au PR 110, à Savigny-sur-Clairis, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "9448411a3113",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-18T20:35:00",
+    "date_maj": "2026-11-18T20:45:44",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.0804,
+     48.07721
     ]
    }
   }
