@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T15:20:00",
- "date_maj": "2026-11-18T15:31:57",
+ "date_publication": "2026-11-18T15:35:00",
+ "date_maj": "2026-11-18T15:45:43",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T15:20:00",
-    "date_maj": "2026-11-18T15:31:57",
+    "date_publication": "2026-11-18T15:35:00",
+    "date_maj": "2026-11-18T15:45:43",
     "precision": "commune"
    },
    "geometry": {
@@ -42,8 +42,8 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "sud-nord",
@@ -53,15 +53,15 @@
     "longueur_km": "",
     "commune": "Saint-Martin-Belle-Roche",
     "commune_fin": "",
-    "heure_evt": "2026-11-18T15:06:00",
+    "heure_evt": "2026-11-18T15:30:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 15h06, Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 2 voies concernées, au PR 379, à Saint-Martin-Belle-Roche, Sur bande d'arrêt d'urgence ; À 15h07, Réduction du nombre de voies, applicable à tous les véhicules, au PR 379, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "7582070485a8",
+    "texte": "À 15h30, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 2 voies concernées, au PR 379, à Saint-Martin-Belle-Roche, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7120f8180446",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-18T15:20:00",
-    "date_maj": "2026-11-18T15:31:57",
+    "date_publication": "2026-11-18T15:35:00",
+    "date_maj": "2026-11-18T15:45:43",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "3f1ce1cfc5d1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-18T15:20:00",
-    "date_maj": "2026-11-18T15:31:57",
+    "date_publication": "2026-11-18T15:35:00",
+    "date_maj": "2026-11-18T15:45:43",
     "precision": "commune"
    },
    "geometry": {
@@ -103,40 +103,6 @@
     "coordinates": [
      4.8618,
      46.60538
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "est-ouest",
-    "direction": "Lyon → Paris",
-    "pr_debut": "140",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Senan",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, 2 voies concernées, au PR 140, à Senan ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3960e463c645",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-18T15:20:00",
-    "date_maj": "2026-11-18T15:31:57",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.36699,
-     47.91877
     ]
    }
   }
