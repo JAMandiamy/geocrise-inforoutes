@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-18T12:05:00",
- "date_maj": "2026-11-18T12:15:40",
+ "date_publication": "2026-11-18T12:20:00",
+ "date_maj": "2026-11-18T12:30:56",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "f660a3272fe6",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T12:05:00",
-    "date_maj": "2026-11-18T12:15:40",
+    "date_publication": "2026-11-18T12:20:00",
+    "date_maj": "2026-11-18T12:30:56",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -40,6 +40,46 @@
      [
       4.30376,
       47.44882
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A19",
+    "sens": "sud-nord",
+    "direction": "Orléans (A10) → Sens (A5)",
+    "pr_debut": "0+900",
+    "pr_fin": "0+550",
+    "longueur_km": 0.4,
+    "commune": "Cuy",
+    "commune_fin": "La Chapelle-sur-Oreuse",
+    "heure_evt": "2026-11-18T12:19:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 12h19, Accident, 1 VL, A19, de Orléans (A10) vers Sens (A5) (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, au PR 0+550, à La Chapelle-sur-Oreuse, Sur voie de gauche ; À 12h20, Réduction du nombre de voies, applicable à tous les véhicules, A19, de Orléans (A10) vers Sens (A5) (sens sud-nord), entre les PR 0+900 et 0+550 (sur 0,4 km), de Cuy à La Chapelle-sur-Oreuse, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "26e43cd7f3ba",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-18T12:20:00",
+    "date_maj": "2026-11-18T12:30:56",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      3.27231,
+      48.25615
+     ],
+     [
+      3.3016,
+      48.2955
      ]
     ]
    }
