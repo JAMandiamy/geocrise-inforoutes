@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T12:50:00",
- "date_maj": "2026-11-18T13:01:09",
+ "date_publication": "2026-11-18T13:05:00",
+ "date_maj": "2026-11-18T13:15:37",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T12:50:00",
-    "date_maj": "2026-11-18T13:01:09",
+    "date_publication": "2026-11-18T13:05:00",
+    "date_maj": "2026-11-18T13:15:37",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "f660a3272fe6",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T12:50:00",
-    "date_maj": "2026-11-18T13:01:09",
+    "date_publication": "2026-11-18T13:05:00",
+    "date_maj": "2026-11-18T13:15:37",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -76,33 +76,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Piéton sur chaussée",
+    "type_evt": "Obstacle",
     "groupe": "1 - Accidents et obstacles",
     "signale": "oui",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "344",
+    "route": "A77",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "88+262",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Beaumont-sur-Grosne",
+    "commune": "Neuvy-sur-Loire",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Piéton sur chaussée - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 344, à Beaumont-sur-Grosne ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "ded844feb8b7",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-18T12:50:00",
-    "date_maj": "2026-11-18T13:01:09",
+    "texte": "Obstacle - Événement signalé, A77 (deux sens), au PR 88+262, à Neuvy-sur-Loire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "0e898f284b16",
+    "dep": "58",
+    "nom_dep": "Nièvre",
+    "date_publication": "2026-11-18T13:05:00",
+    "date_maj": "2026-11-18T13:15:37",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.86115,
-     46.66918
+     2.88663,
+     47.52914
     ]
    }
   },
@@ -128,8 +128,8 @@
     "evt_id": "47a6e995257c",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-18T12:50:00",
-    "date_maj": "2026-11-18T13:01:09",
+    "date_publication": "2026-11-18T13:05:00",
+    "date_maj": "2026-11-18T13:15:37",
     "precision": "commune"
    },
    "geometry": {
@@ -137,40 +137,6 @@
     "coordinates": [
      4.89148,
      46.63728
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A19",
-    "sens": "sud-nord",
-    "direction": "Orléans (A10) → Sens (A5)",
-    "pr_debut": "0+900",
-    "pr_fin": "0+450",
-    "longueur_km": 0.5,
-    "commune": "Cuy",
-    "commune_fin": "La Chapelle-sur-Oreuse",
-    "heure_evt": "2026-11-18T12:26:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 12h26, Réduction du nombre de voies, applicable à tous les véhicules, A19, de Orléans (A10) vers Sens (A5) (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, entre les PR 0+900 et 0+450 (sur 0,5 km), de Cuy à La Chapelle-sur-Oreuse, Sur voie de gauche, La mesure est obligatoire ; À 12h27, Accident, 1 VL, A19, de Orléans (A10) vers Sens (A5) (sens sud-nord), au PR 0+500, à La Chapelle-sur-Oreuse ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "b0219c499d50",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-18T12:50:00",
-    "date_maj": "2026-11-18T13:01:09",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.286955,
-     48.275825
     ]
    }
   }
