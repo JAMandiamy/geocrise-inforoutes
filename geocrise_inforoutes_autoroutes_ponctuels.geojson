@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T16:20:00",
- "date_maj": "2026-11-18T16:31:01",
+ "date_publication": "2026-11-18T16:35:00",
+ "date_maj": "2026-11-18T16:45:42",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T16:20:00",
-    "date_maj": "2026-11-18T16:31:01",
+    "date_publication": "2026-11-18T16:35:00",
+    "date_maj": "2026-11-18T16:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -42,8 +42,8 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "sud-nord",
@@ -53,15 +53,15 @@
     "longueur_km": 0.3,
     "commune": "Clamerey",
     "commune_fin": "",
-    "heure_evt": "2026-11-18T16:18:00",
+    "heure_evt": "2026-11-18T16:19:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 16h18, Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernée, au PR 246+500, à Clamerey, Sur bande d'arrêt d'urgence ; À 16h19, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 246+800 et 246+500 (sur 0,3 km), Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "281a45af7368",
+    "texte": "À 16h19, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernée, entre les PR 246+800 et 246+500 (sur 0,3 km), à Clamerey, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; À 16h21, Véhicule arrêté - PL, A6, de Lyon vers Paris (sens sud-nord), au PR 246+500, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "871d05f10d09",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T16:20:00",
-    "date_maj": "2026-11-18T16:31:01",
+    "date_publication": "2026-11-18T16:35:00",
+    "date_maj": "2026-11-18T16:45:42",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "386759144644",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-18T16:20:00",
-    "date_maj": "2026-11-18T16:31:01",
+    "date_publication": "2026-11-18T16:35:00",
+    "date_maj": "2026-11-18T16:45:42",
     "precision": "commune"
    },
    "geometry": {
