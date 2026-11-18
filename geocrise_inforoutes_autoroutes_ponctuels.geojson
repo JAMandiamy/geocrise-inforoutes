@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T22:20:00",
- "date_maj": "2026-11-18T22:30:50",
+ "date_publication": "2026-11-18T22:35:00",
+ "date_maj": "2026-11-18T22:45:36",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T22:20:00",
-    "date_maj": "2026-11-18T22:30:50",
+    "date_publication": "2026-11-18T22:35:00",
+    "date_maj": "2026-11-18T22:45:36",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - PL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "397",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Crêches-sur-Saône",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - PL, A6, de Paris vers Lyon (sens nord-sud), au PR 397, à Crêches-sur-Saône, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "bb88ae2ff395",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-18T22:35:00",
+    "date_maj": "2026-11-18T22:45:36",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.78705,
+     46.23918
     ]
    }
   }
