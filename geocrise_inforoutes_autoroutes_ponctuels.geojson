@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T15:35:00",
- "date_maj": "2026-11-18T15:45:43",
+ "date_publication": "2026-11-18T15:50:00",
+ "date_maj": "2026-11-18T16:01:28",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T15:35:00",
-    "date_maj": "2026-11-18T15:45:43",
+    "date_publication": "2026-11-18T15:50:00",
+    "date_maj": "2026-11-18T16:01:28",
     "precision": "commune"
    },
    "geometry": {
@@ -41,34 +41,34 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
     "signale": "non",
-    "route": "A6",
+    "route": "A31",
     "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "379",
+    "direction": "Lyon → Luxembourg",
+    "pr_debut": "72+800",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Saint-Martin-Belle-Roche",
+    "commune": "Selongey",
     "commune_fin": "",
-    "heure_evt": "2026-11-18T15:30:00",
+    "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 15h30, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 2 voies concernées, au PR 379, à Saint-Martin-Belle-Roche, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "7120f8180446",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-18T15:35:00",
-    "date_maj": "2026-11-18T15:45:43",
+    "texte": "Véhicule arrêté, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 72+800, à Selongey, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a4073b51b508",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-18T15:50:00",
+    "date_maj": "2026-11-18T16:01:28",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.85571,
-     46.3805
+     5.20479,
+     47.60363
     ]
    }
   },
@@ -94,8 +94,8 @@
     "evt_id": "3f1ce1cfc5d1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-18T15:35:00",
-    "date_maj": "2026-11-18T15:45:43",
+    "date_publication": "2026-11-18T15:50:00",
+    "date_maj": "2026-11-18T16:01:28",
     "precision": "commune"
    },
    "geometry": {
