@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T21:05:00",
- "date_maj": "2026-11-18T21:15:44",
+ "date_publication": "2026-11-18T21:20:00",
+ "date_maj": "2026-11-18T21:30:52",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T21:05:00",
-    "date_maj": "2026-11-18T21:15:44",
+    "date_publication": "2026-11-18T21:20:00",
+    "date_maj": "2026-11-18T21:30:52",
     "precision": "commune"
    },
    "geometry": {
@@ -41,34 +41,34 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "60",
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A5",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "62+760",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Spoy",
+    "commune": "La Chapelle-sur-Oreuse",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 60, à Spoy, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "8d3618b3c683",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T21:05:00",
-    "date_maj": "2026-11-18T21:15:44",
+    "texte": "Animal errant - Événement signalé, A5 (deux sens), au PR 62+760, à La Chapelle-sur-Oreuse ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c023c6da47f6",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-18T21:20:00",
+    "date_maj": "2026-11-18T21:30:52",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.19027,
-     47.44758
+     3.3016,
+     48.2955
     ]
    }
   }
