@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-18T06:05:00",
- "date_maj": "2026-11-18T06:15:41",
+ "date_publication": "2026-11-18T06:20:00",
+ "date_maj": "2026-11-18T06:30:58",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "1982c59c50c1",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T06:05:00",
-    "date_maj": "2026-11-18T06:15:41",
+    "date_publication": "2026-11-18T06:20:00",
+    "date_maj": "2026-11-18T06:30:58",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -40,6 +40,46 @@
      [
       4.88104,
       47.02533
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Convoi exceptionnel",
+    "groupe": "5 - Information et services",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "302",
+    "pr_fin": "233",
+    "longueur_km": 69.0,
+    "commune": "Beaune",
+    "commune_fin": "Courcelles-lès-Semur",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Convoi exceptionnel, A6, de Lyon vers Paris (sens sud-nord), entre les PR 302 et 233 (sur 69,0 km), de Beaune à Courcelles-lès-Semur ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a3e01a3ca471",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-18T06:20:00",
+    "date_maj": "2026-11-18T06:30:58",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.83008,
+      47.02744
+     ],
+     [
+      4.30376,
+      47.44882
      ]
     ]
    }
