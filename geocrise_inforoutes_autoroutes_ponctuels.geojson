@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T17:20:00",
- "date_maj": "2026-11-18T17:45:44",
+ "date_publication": "2026-11-18T17:50:00",
+ "date_maj": "2026-11-18T18:01:22",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T17:20:00",
-    "date_maj": "2026-11-18T17:45:44",
+    "date_publication": "2026-11-18T17:50:00",
+    "date_maj": "2026-11-18T18:01:22",
     "precision": "commune"
    },
    "geometry": {
@@ -53,15 +53,15 @@
     "longueur_km": 0.3,
     "commune": "Clamerey",
     "commune_fin": "",
-    "heure_evt": "2026-11-18T16:19:00",
+    "heure_evt": "2026-11-18T16:39:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 16h19, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernée, entre les PR 246+800 et 246+500 (sur 0,3 km), à Clamerey, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; À 16h21, Véhicule arrêté - PL, A6, de Lyon vers Paris (sens sud-nord), au PR 246+500, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "871d05f10d09",
+    "texte": "À 16h39, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernée, entre les PR 246+800 et 246+500 (sur 0,3 km), à Clamerey, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "35b604fd3384",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T17:20:00",
-    "date_maj": "2026-11-18T17:45:44",
+    "date_publication": "2026-11-18T17:50:00",
+    "date_maj": "2026-11-18T18:01:22",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      4.43908,
      47.39316
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "394",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Vinzelles",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), au PR 394, à Vinzelles, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "09709285b9eb",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-18T17:50:00",
+    "date_maj": "2026-11-18T18:01:22",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.77625,
+     46.268
     ]
    }
   }
