@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T06:35:00",
- "date_maj": "2026-11-18T06:45:35",
+ "date_publication": "2026-11-18T06:50:00",
+ "date_maj": "2026-11-18T07:01:03",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T06:35:00",
-    "date_maj": "2026-11-18T06:45:35",
+    "date_publication": "2026-11-18T06:50:00",
+    "date_maj": "2026-11-18T07:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -48,27 +48,27 @@
     "route": "A6",
     "sens": "sud-nord",
     "direction": "Lyon → Paris",
-    "pr_debut": "302",
+    "pr_debut": "290",
     "pr_fin": "233",
-    "longueur_km": 69.0,
-    "commune": "Beaune",
+    "longueur_km": 57.0,
+    "commune": "Bessey-en-Chaume",
     "commune_fin": "Courcelles-lès-Semur",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Convoi exceptionnel, A6, de Lyon vers Paris (sens sud-nord), entre les PR 302 et 233 (sur 69,0 km), de Beaune à Courcelles-lès-Semur ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "a3e01a3ca471",
+    "texte": "Convoi exceptionnel, A6, de Lyon vers Paris (sens sud-nord), entre les PR 290 et 233 (sur 57,0 km), de Bessey-en-Chaume à Courcelles-lès-Semur ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "b066f38acdb8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T06:35:00",
-    "date_maj": "2026-11-18T06:45:35",
+    "date_publication": "2026-11-18T06:50:00",
+    "date_maj": "2026-11-18T07:01:03",
     "precision": "communes (début → fin)"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.56692,
-     47.23813
+     4.52172,
+     47.270179999999996
     ]
    }
   },
@@ -94,8 +94,8 @@
     "evt_id": "ded844feb8b7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-18T06:35:00",
-    "date_maj": "2026-11-18T06:45:35",
+    "date_publication": "2026-11-18T06:50:00",
+    "date_maj": "2026-11-18T07:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "a14f3a8e97ab",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-18T06:35:00",
-    "date_maj": "2026-11-18T06:45:35",
+    "date_publication": "2026-11-18T06:50:00",
+    "date_maj": "2026-11-18T07:01:03",
     "precision": "commune"
    },
    "geometry": {
