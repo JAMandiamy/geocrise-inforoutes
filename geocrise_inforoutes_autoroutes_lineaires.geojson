@@ -1,48 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-18T14:50:00",
- "date_maj": "2026-11-18T15:01:10",
- "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Convoi exceptionnel",
-    "groupe": "5 - Information et services",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "290",
-    "pr_fin": "233",
-    "longueur_km": 57.0,
-    "commune": "Bessey-en-Chaume",
-    "commune_fin": "Courcelles-lès-Semur",
-    "heure_evt": "2026-11-18T06:41:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 6h41, Convoi exceptionnel, A6, de Lyon vers Paris (sens sud-nord), entre les PR 290 et 233 (sur 57,0 km), de Bessey-en-Chaume à Courcelles-lès-Semur ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f660a3272fe6",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T14:50:00",
-    "date_maj": "2026-11-18T15:01:10",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.73968,
-      47.09154
-     ],
-     [
-      4.30376,
-      47.44882
-     ]
-    ]
-   }
-  }
- ]
+ "date_publication": "2026-11-18T15:05:00",
+ "date_maj": "2026-11-18T15:15:47",
+ "features": []
 }

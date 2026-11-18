@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-18T14:50:00",
- "date_maj": "2026-11-18T15:01:10",
+ "date_publication": "2026-11-18T15:05:00",
+ "date_maj": "2026-11-18T15:15:47",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T14:50:00",
-    "date_maj": "2026-11-18T15:01:10",
+    "date_publication": "2026-11-18T15:05:00",
+    "date_maj": "2026-11-18T15:15:47",
     "precision": "commune"
    },
    "geometry": {
@@ -42,67 +42,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Convoi exceptionnel",
-    "groupe": "5 - Information et services",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "290",
-    "pr_fin": "233",
-    "longueur_km": 57.0,
-    "commune": "Bessey-en-Chaume",
-    "commune_fin": "Courcelles-lès-Semur",
-    "heure_evt": "2026-11-18T06:41:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 6h41, Convoi exceptionnel, A6, de Lyon vers Paris (sens sud-nord), entre les PR 290 et 233 (sur 57,0 km), de Bessey-en-Chaume à Courcelles-lès-Semur ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f660a3272fe6",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T14:50:00",
-    "date_maj": "2026-11-18T15:01:10",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.52172,
-     47.270179999999996
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
+    "type_evt": "Accident",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
+    "signale": "oui",
     "route": "A6",
     "sens": "sud-nord",
     "direction": "Lyon → Paris",
-    "pr_debut": "293",
+    "pr_debut": "379",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Savigny-lès-Beaune",
+    "commune": "Saint-Martin-Belle-Roche",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-11-18T15:01:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle, A6, de Lyon vers Paris (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 293, à Savigny-lès-Beaune ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "eb4a9c0c58cf",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-18T14:50:00",
-    "date_maj": "2026-11-18T15:01:10",
+    "texte": "À 15h01, Accident - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 2 voies concernées, au PR 379, à Saint-Martin-Belle-Roche, Sur bande d'arrêt d'urgence ; À 15h03, Réduction du nombre de voies, applicable à tous les véhicules - Événement signalé, au PR 379, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "1637408b9d4f",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-18T15:05:00",
+    "date_maj": "2026-11-18T15:15:47",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.79446,
-     47.07968
+     4.85571,
+     46.3805
     ]
    }
   },
@@ -128,8 +94,8 @@
     "evt_id": "3f1ce1cfc5d1",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-18T14:50:00",
-    "date_maj": "2026-11-18T15:01:10",
+    "date_publication": "2026-11-18T15:05:00",
+    "date_maj": "2026-11-18T15:15:47",
     "precision": "commune"
    },
    "geometry": {
