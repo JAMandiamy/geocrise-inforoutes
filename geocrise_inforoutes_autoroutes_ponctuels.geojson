@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T18:35:00",
- "date_maj": "2026-11-19T18:45:44",
+ "date_publication": "2026-11-19T18:50:00",
+ "date_maj": "2026-11-19T19:01:07",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T18:35:00",
-    "date_maj": "2026-11-19T18:45:44",
+    "date_publication": "2026-11-19T18:50:00",
+    "date_maj": "2026-11-19T19:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "391+200",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Mâcon",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), au PR 391+200, à Mâcon, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "bdd00123451f",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-19T18:35:00",
-    "date_maj": "2026-11-19T18:45:44",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.83514,
-     46.36224
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "295d78748368",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-19T18:35:00",
-    "date_maj": "2026-11-19T18:45:44",
+    "date_publication": "2026-11-19T18:50:00",
+    "date_maj": "2026-11-19T19:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "02bd7b0369ba",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-19T18:35:00",
-    "date_maj": "2026-11-19T18:45:44",
+    "date_publication": "2026-11-19T18:50:00",
+    "date_maj": "2026-11-19T19:01:07",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +103,40 @@
     "coordinates": [
      3.21055,
      48.21771
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "est-ouest",
+    "direction": "Lyon → Paris",
+    "pr_debut": "114+200",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Piffonds",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), au PR 114+200, à Piffonds, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "3ac1f593448f",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-19T18:50:00",
+    "date_maj": "2026-11-19T19:01:07",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.14669,
+     48.05714
     ]
    }
   }
