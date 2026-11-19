@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T19:20:00",
- "date_maj": "2026-11-19T19:31:00",
+ "date_publication": "2026-11-19T19:35:00",
+ "date_maj": "2026-11-19T19:45:37",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T19:20:00",
-    "date_maj": "2026-11-19T19:31:00",
+    "date_publication": "2026-11-19T19:35:00",
+    "date_maj": "2026-11-19T19:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -48,7 +48,7 @@
     "route": "A31",
     "sens": "nord-sud",
     "direction": "Luxembourg → Lyon",
-    "pr_debut": "80",
+    "pr_debut": "80+200",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Selongey",
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 80, à Selongey, Sur voie de gauche, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "18ab2486916d",
+    "texte": "Accident, 1 VL, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 80+200, à Selongey, Sur voie de gauche, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "06d0b35cd88d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T19:20:00",
-    "date_maj": "2026-11-19T19:31:00",
+    "date_publication": "2026-11-19T19:35:00",
+    "date_maj": "2026-11-19T19:45:37",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "02bd7b0369ba",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-19T19:20:00",
-    "date_maj": "2026-11-19T19:31:00",
+    "date_publication": "2026-11-19T19:35:00",
+    "date_maj": "2026-11-19T19:45:37",
     "precision": "commune"
    },
    "geometry": {
