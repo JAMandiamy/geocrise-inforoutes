@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T10:35:00",
- "date_maj": "2026-11-19T10:45:37",
+ "date_publication": "2026-11-19T11:05:00",
+ "date_maj": "2026-11-19T11:07:04",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T10:35:00",
-    "date_maj": "2026-11-19T10:45:37",
+    "date_publication": "2026-11-19T11:05:00",
+    "date_maj": "2026-11-19T11:07:04",
     "precision": "commune"
    },
    "geometry": {
@@ -48,20 +48,54 @@
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
-    "pr_debut": "341+500",
+    "pr_debut": "341+300",
+    "pr_fin": "341+500",
+    "longueur_km": 0.2,
+    "commune": "Saint-Ambreuil",
+    "commune_fin": "",
+    "heure_evt": "2026-11-19T10:28:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 10h28, Véhicule en feu, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 341+500, à Saint-Ambreuil, Sur bande d'arrêt d'urgence ; À 10h27, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 341+300 et 341+500 (sur 0,2 km), Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "639c0efe2046",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-19T11:05:00",
+    "date_maj": "2026-11-19T11:07:04",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81486,
+     46.67905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "343",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Saint-Ambreuil",
     "commune_fin": "",
-    "heure_evt": "2026-11-19T10:17:00",
+    "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 10h17, Véhicule en feu, A6, de Paris vers Lyon (sens nord-sud), au PR 341+500, à Saint-Ambreuil, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "40d257b49434",
+    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 343, à Saint-Ambreuil ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f425b19160bd",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-19T10:35:00",
-    "date_maj": "2026-11-19T10:45:37",
+    "date_publication": "2026-11-19T11:05:00",
+    "date_maj": "2026-11-19T11:07:04",
     "precision": "commune"
    },
    "geometry": {
