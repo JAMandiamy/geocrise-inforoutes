@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T21:05:00",
- "date_maj": "2026-11-19T21:15:39",
+ "date_publication": "2026-11-19T21:20:00",
+ "date_maj": "2026-11-19T21:30:56",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T21:05:00",
-    "date_maj": "2026-11-19T21:15:39",
+    "date_publication": "2026-11-19T21:20:00",
+    "date_maj": "2026-11-19T21:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "42647b5e7dd6",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T21:05:00",
-    "date_maj": "2026-11-19T21:15:39",
+    "date_publication": "2026-11-19T21:20:00",
+    "date_maj": "2026-11-19T21:30:56",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -90,12 +90,12 @@
     "heure_evt": "2026-11-19T20:48:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 20h48, Obstacle - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), Impact : voies rétrécies, 1 voie concernéeImpact : voies rétrécies, 1 voie concernée, au PR 180, à Saint-Cyr-les-Colons ; À 21h01, Obstacle, A6, de Lyon vers Paris (sens est-ouest), au PR 180 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "7f10ac5f804e",
+    "texte": "À 20h48, Obstacle - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), Impact : voies rétrécies, 1 voie concernée, au PR 180, à Saint-Cyr-les-Colons ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "bf05f13d6e21",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-19T21:05:00",
-    "date_maj": "2026-11-19T21:15:39",
+    "date_publication": "2026-11-19T21:20:00",
+    "date_maj": "2026-11-19T21:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -103,40 +103,6 @@
     "coordinates": [
      3.7738,
      47.72967
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A19",
-    "sens": "sud-nord",
-    "direction": "Orléans (A10) → Sens (A5)",
-    "pr_debut": "11+309",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Nailly",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A19, de Orléans (A10) vers Sens (A5) (sens sud-nord), au PR 11+309, à Nailly, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "02bd7b0369ba",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-19T21:05:00",
-    "date_maj": "2026-11-19T21:15:39",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.21055,
-     48.21771
     ]
    }
   }
