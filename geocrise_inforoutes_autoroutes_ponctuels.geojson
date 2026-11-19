@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T19:35:00",
- "date_maj": "2026-11-19T19:45:37",
+ "date_publication": "2026-11-19T19:50:00",
+ "date_maj": "2026-11-19T20:01:06",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T19:35:00",
-    "date_maj": "2026-11-19T19:45:37",
+    "date_publication": "2026-11-19T19:50:00",
+    "date_maj": "2026-11-19T20:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -42,26 +42,26 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A31",
     "sens": "nord-sud",
     "direction": "Luxembourg → Lyon",
-    "pr_debut": "80+200",
-    "pr_fin": "",
-    "longueur_km": "",
+    "pr_debut": "80+700",
+    "pr_fin": "80+200",
+    "longueur_km": 0.5,
     "commune": "Selongey",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-11-19T19:40:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 80+200, à Selongey, Sur voie de gauche, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "06d0b35cd88d",
+    "texte": "À 19h40, Réduction du nombre de voies, applicable à tous les véhicules, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, entre les PR 80+700 et 80+200 (sur 0,5 km), à Selongey, Sur voie de gauche, La mesure est obligatoire ; À 19h47, Accident, 1 VL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 80+200, Sur voie de gauche, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "08632dd84158",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T19:35:00",
-    "date_maj": "2026-11-19T19:45:37",
+    "date_publication": "2026-11-19T19:50:00",
+    "date_maj": "2026-11-19T20:01:06",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "02bd7b0369ba",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-19T19:35:00",
-    "date_maj": "2026-11-19T19:45:37",
+    "date_publication": "2026-11-19T19:50:00",
+    "date_maj": "2026-11-19T20:01:06",
     "precision": "commune"
    },
    "geometry": {
