@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T09:20:00",
- "date_maj": "2026-11-19T09:30:51",
+ "date_publication": "2026-11-19T09:50:00",
+ "date_maj": "2026-11-19T09:51:39",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T09:20:00",
-    "date_maj": "2026-11-19T09:30:51",
+    "date_publication": "2026-11-19T09:50:00",
+    "date_maj": "2026-11-19T09:51:39",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "27+200",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Gevrey-Chambertin",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 27+200, à Gevrey-Chambertin ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "7ae54cf62a23",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T09:20:00",
-    "date_maj": "2026-11-19T09:30:51",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.97006,
-     47.21847
     ]
    }
   }
