@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-19T21:35:00",
- "date_maj": "2026-11-19T22:01:05",
+ "date_publication": "2026-11-19T22:05:00",
+ "date_maj": "2026-11-19T22:15:40",
  "features": [
   {
    "type": "Feature",
@@ -22,12 +22,12 @@
     "heure_evt": "2026-11-19T20:31:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 20h31, Réduction du nombre de voies, applicable à tous les véhicules, A36, de Beaune vers Mulhouse (sens ouest-est), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, entre les PR 179+300 et 179 (sur 0,3 km), de Laperrière-sur-Saône à Samerey, Sur voie de gauche, La mesure est obligatoire ; À 20h42, Accident, 2 VL, 1 PL, A36, de Beaune vers Mulhouse (sens ouest-est), au PR 179+150, à Laperrière-sur-Saône, Sur voie de gauche, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "42647b5e7dd6",
+    "texte": "À 20h31, Réduction du nombre de voies, applicable à tous les véhicules, A36, de Beaune vers Mulhouse (sens ouest-est), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, toutes les voies, entre les PR 179+300 et 179 (sur 0,3 km), de Laperrière-sur-Saône à Samerey, Sur voie de gauche, La mesure est obligatoire ; À 22h00, Convoi exceptionnel, entre les PR 179+150 et 172 (sur 7,2 km), entre les départements 21 (Côte-d'Or) et 39 (Jura), de Laperrière-sur-Saône à Sampans ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T21:35:00",
-    "date_maj": "2026-11-19T22:01:05",
+    "date_publication": "2026-11-19T22:05:00",
+    "date_maj": "2026-11-19T22:15:40",
     "precision": "communes (début → fin)"
    },
    "geometry": {
