@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T19:50:00",
- "date_maj": "2026-11-19T20:15:37",
+ "date_publication": "2026-11-19T20:20:00",
+ "date_maj": "2026-11-19T20:30:51",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T19:50:00",
-    "date_maj": "2026-11-19T20:15:37",
+    "date_publication": "2026-11-19T20:20:00",
+    "date_maj": "2026-11-19T20:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -53,15 +53,15 @@
     "longueur_km": 0.5,
     "commune": "Selongey",
     "commune_fin": "",
-    "heure_evt": "2026-11-19T19:40:00",
+    "heure_evt": "2026-11-19T19:51:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 19h40, Réduction du nombre de voies, applicable à tous les véhicules, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, entre les PR 80+700 et 80+200 (sur 0,5 km), à Selongey, Sur voie de gauche, La mesure est obligatoire ; À 19h47, Accident, 1 VL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 80+200, Sur voie de gauche, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "08632dd84158",
+    "texte": "À 19h51, Réduction du nombre de voies, applicable à tous les véhicules, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, entre les PR 80+700 et 80+200 (sur 0,5 km), à Selongey, Sur voie de gauche, La mesure est obligatoire ; À 20h08, Accident, 1 VL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 80+200, Sur voie de gauche, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7c341b7c2755",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T19:50:00",
-    "date_maj": "2026-11-19T20:15:37",
+    "date_publication": "2026-11-19T20:20:00",
+    "date_maj": "2026-11-19T20:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      5.20479,
      47.60363
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A36",
+    "sens": "ouest-est",
+    "direction": "Beaune → Mulhouse",
+    "pr_debut": "178",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Saint-Seine-en-Bâche",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, A36, de Beaune vers Mulhouse (sens ouest-est), Impact : voies neutralisées, 1 voie concernée, au PR 178, à Saint-Seine-en-Bâche, Sur voie de gauche, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c12c7abbf594",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-19T20:20:00",
+    "date_maj": "2026-11-19T20:30:51",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3753,
+     47.11317
     ]
    }
   },
@@ -94,8 +128,8 @@
     "evt_id": "02bd7b0369ba",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-19T19:50:00",
-    "date_maj": "2026-11-19T20:15:37",
+    "date_publication": "2026-11-19T20:20:00",
+    "date_maj": "2026-11-19T20:30:51",
     "precision": "commune"
    },
    "geometry": {
