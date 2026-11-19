@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T16:35:00",
- "date_maj": "2026-11-19T16:45:42",
+ "date_publication": "2026-11-19T16:50:00",
+ "date_maj": "2026-11-19T17:01:08",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T16:35:00",
-    "date_maj": "2026-11-19T16:45:42",
+    "date_publication": "2026-11-19T16:50:00",
+    "date_maj": "2026-11-19T17:01:08",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,74 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "est-ouest",
+    "direction": "Lyon → Paris",
+    "pr_debut": "124+599",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Précy-sur-Vrin",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), au PR 124+599, à Précy-sur-Vrin, Hors voie de circulation, sur accotement ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c848ae331fad",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-19T16:50:00",
+    "date_maj": "2026-11-19T17:01:08",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.23369,
+     47.97565
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "est-ouest",
+    "direction": "Lyon → Paris",
+    "pr_debut": "126+500",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Sépeaux",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, toutes les voies, au PR 126+500, à Sépeaux ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "41b44927164f",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-19T16:50:00",
+    "date_maj": "2026-11-19T17:01:08",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.2402,
+     47.9346
     ]
    }
   }
