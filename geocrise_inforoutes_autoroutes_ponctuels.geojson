@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T00:05:00",
- "date_maj": "2026-11-20T00:15:37",
+ "date_publication": "2026-11-20T00:20:00",
+ "date_maj": "2026-11-20T00:30:47",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T00:05:00",
-    "date_maj": "2026-11-20T00:15:37",
+    "date_publication": "2026-11-20T00:20:00",
+    "date_maj": "2026-11-20T00:30:47",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "73",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Selongey",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 73, à Selongey ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "45dce750b90b",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-20T00:20:00",
+    "date_maj": "2026-11-20T00:30:47",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.20479,
+     47.60363
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T00:05:00",
-    "date_maj": "2026-11-20T00:15:37",
+    "date_publication": "2026-11-20T00:20:00",
+    "date_maj": "2026-11-20T00:30:47",
     "precision": "communes (début → fin)"
    },
    "geometry": {
