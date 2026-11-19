@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T13:50:00",
- "date_maj": "2026-11-19T14:01:34",
+ "date_publication": "2026-11-19T14:05:00",
+ "date_maj": "2026-11-19T14:15:38",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T13:50:00",
-    "date_maj": "2026-11-19T14:01:34",
+    "date_publication": "2026-11-19T14:05:00",
+    "date_maj": "2026-11-19T14:15:38",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - PL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "64+800",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Lux",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - PL, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 64+800, à Lux, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "47c345124cff",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-19T14:05:00",
+    "date_maj": "2026-11-19T14:15:38",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.21786,
+     47.48626
     ]
    }
   }
