@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T16:50:00",
- "date_maj": "2026-11-19T17:01:08",
+ "date_publication": "2026-11-19T17:05:00",
+ "date_maj": "2026-11-19T17:15:47",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T16:50:00",
-    "date_maj": "2026-11-19T17:01:08",
+    "date_publication": "2026-11-19T17:05:00",
+    "date_maj": "2026-11-19T17:15:47",
     "precision": "commune"
    },
    "geometry": {
@@ -44,7 +44,7 @@
     "importance": 2,
     "type_evt": "Accident",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
     "sens": "est-ouest",
     "direction": "Lyon → Paris",
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), au PR 124+599, à Précy-sur-Vrin, Hors voie de circulation, sur accotement ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "c848ae331fad",
+    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens est-ouest), au PR 124+599, à Précy-sur-Vrin, Hors voie de circulation, sur accotement ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "3ddab6f86fcc",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-19T16:50:00",
-    "date_maj": "2026-11-19T17:01:08",
+    "date_publication": "2026-11-19T17:05:00",
+    "date_maj": "2026-11-19T17:15:47",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "41b44927164f",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-19T16:50:00",
-    "date_maj": "2026-11-19T17:01:08",
+    "date_publication": "2026-11-19T17:05:00",
+    "date_maj": "2026-11-19T17:15:47",
     "precision": "commune"
    },
    "geometry": {
