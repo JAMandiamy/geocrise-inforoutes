@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T06:50:00",
- "date_maj": "2026-11-19T07:01:19",
+ "date_publication": "2026-11-19T07:05:00",
+ "date_maj": "2026-11-19T07:15:52",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T06:50:00",
-    "date_maj": "2026-11-19T07:01:19",
+    "date_publication": "2026-11-19T07:05:00",
+    "date_maj": "2026-11-19T07:15:52",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté - VL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A39",
+    "sens": "nord-sud",
+    "direction": "Dijon → Bourg-en-Bresse",
+    "pr_debut": "28+900",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Labergement-lès-Auxonne",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - VL - Événement signalé, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), au PR 28+900, à Labergement-lès-Auxonne ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "22cad3420460",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-19T07:05:00",
+    "date_maj": "2026-11-19T07:15:52",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.37781,
+     47.16058
     ]
    }
   }
