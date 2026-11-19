@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-19T12:50:00",
- "date_maj": "2026-11-19T13:01:16",
+ "date_publication": "2026-11-19T13:05:00",
+ "date_maj": "2026-11-19T13:15:43",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-19T12:50:00",
-    "date_maj": "2026-11-19T13:01:16",
+    "date_publication": "2026-11-19T13:05:00",
+    "date_maj": "2026-11-19T13:15:43",
     "precision": "commune"
    },
    "geometry": {
@@ -44,31 +44,31 @@
     "importance": 2,
     "type_evt": "Obstacle",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
-    "pr_debut": "397+800",
+    "pr_debut": "279+100",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Crêches-sur-Saône",
+    "commune": "Crugey",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 397+800, à Crêches-sur-Saône ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "888ef7e115aa",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-19T12:50:00",
-    "date_maj": "2026-11-19T13:01:16",
+    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), au PR 279+100, à Crugey ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "96567e4fba00",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-19T13:05:00",
+    "date_maj": "2026-11-19T13:15:43",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.78705,
-     46.23918
+     4.6795,
+     47.1811
     ]
    }
   }
