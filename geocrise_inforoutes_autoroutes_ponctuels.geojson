@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T21:20:00",
- "date_maj": "2026-11-20T21:30:53",
+ "date_publication": "2026-11-20T21:35:00",
+ "date_maj": "2026-11-20T21:43:50",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T21:20:00",
-    "date_maj": "2026-11-20T21:30:53",
+    "date_publication": "2026-11-20T21:35:00",
+    "date_maj": "2026-11-20T21:43:50",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T21:20:00",
-    "date_maj": "2026-11-20T21:30:53",
+    "date_publication": "2026-11-20T21:35:00",
+    "date_maj": "2026-11-20T21:43:50",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "4d10e930b4aa",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T21:20:00",
-    "date_maj": "2026-11-20T21:30:53",
+    "date_publication": "2026-11-20T21:35:00",
+    "date_maj": "2026-11-20T21:43:50",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T21:20:00",
-    "date_maj": "2026-11-20T21:30:53",
+    "date_publication": "2026-11-20T21:35:00",
+    "date_maj": "2026-11-20T21:43:50",
     "precision": "commune"
    },
    "geometry": {
@@ -143,27 +143,27 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 1,
+    "importance": 2,
     "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
-    "pr_debut": "396",
-    "pr_fin": "",
-    "longueur_km": "",
+    "pr_debut": "395+800",
+    "pr_fin": "396",
+    "longueur_km": 0.2,
     "commune": "Crêches-sur-Saône",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-11-20T21:07:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 396, à Crêches-sur-Saône, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "b8d5c2cda147",
+    "texte": "À 21h07, Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 396, à Crêches-sur-Saône, Sur bande d'arrêt d'urgence ; À 21h28, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 395+800 et 396 (sur 0,2 km), Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e26806a66b8c",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-20T21:20:00",
-    "date_maj": "2026-11-20T21:30:53",
+    "date_publication": "2026-11-20T21:35:00",
+    "date_maj": "2026-11-20T21:43:50",
     "precision": "commune"
    },
    "geometry": {
