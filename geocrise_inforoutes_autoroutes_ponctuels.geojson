@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T09:50:00",
- "date_maj": "2026-11-20T10:01:43",
+ "date_publication": "2026-11-20T10:05:00",
+ "date_maj": "2026-11-20T10:15:38",
  "features": [
   {
    "type": "Feature",
@@ -22,12 +22,12 @@
     "heure_evt": "2026-11-20T09:31:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 9h31, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : route coupée, toutes les voiesImpact : route coupée, toutes les voies, entre les PR 289+100 et 288+900 (sur 0,2 km), à Bessey-en-Chaume, Sur voie de gauche, La mesure est obligatoire ; À 9h34, Accident, 1 PL, A6, de Paris vers Lyon (sens nord-sud), au PR 288+900, Sur toutes les voies ; À 9h39, Route fermée, applicable à tous les véhicules, au PR 264+293, à Pouilly-en-Auxois, situé sur la bretelle d'entrée de l'échangeur, Sur toutes les voies, hors voie de circulation, Sur 0 m La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1ded75817b06",
+    "texte": "À 9h31, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : route coupée, toutes les voiesImpact : route coupée, toutes les voies, entre les PR 289+100 et 288+900 (sur 0,2 km), à Bessey-en-Chaume, Sur voie de gauche, La mesure est obligatoire ; À 9h39, Route fermée, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), au PR 264+293, à Pouilly-en-Auxois, situé sur la bretelle d'entrée de l'échangeur, Sur toutes les voies, hors voie de circulation, Sur 0 m La mesure est obligatoire ; À 9h58, Accident, 1 PL, 1 VL, au PR 288+900, à Bessey-en-Chaume, Sur toutes les voies ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e80841bcfd49",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T09:50:00",
-    "date_maj": "2026-11-20T10:01:43",
+    "date_publication": "2026-11-20T10:05:00",
+    "date_maj": "2026-11-20T10:15:38",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T09:50:00",
-    "date_maj": "2026-11-20T10:01:43",
+    "date_publication": "2026-11-20T10:05:00",
+    "date_maj": "2026-11-20T10:15:38",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T09:50:00",
-    "date_maj": "2026-11-20T10:01:43",
+    "date_publication": "2026-11-20T10:05:00",
+    "date_maj": "2026-11-20T10:15:38",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T09:50:00",
-    "date_maj": "2026-11-20T10:01:43",
+    "date_publication": "2026-11-20T10:05:00",
+    "date_maj": "2026-11-20T10:15:38",
     "precision": "commune"
    },
    "geometry": {
@@ -144,8 +144,8 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "ouest-est",
@@ -155,15 +155,15 @@
     "longueur_km": 0.1,
     "commune": "Joux-la-Ville",
     "commune_fin": "",
-    "heure_evt": "2026-11-20T09:27:00",
+    "heure_evt": "2026-11-20T09:42:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 9h27, Véhicule arrêté, A6, de Paris vers Lyon (sens ouest-est), Impact : voies rétrécies, 1 voie concernéeImpact : voies rétrécies, 1 voie concernée, au PR 196+500, à Joux-la-Ville, Sur bande d'arrêt d'urgence ; À 9h31, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens ouest-est), entre les PR 196+400 et 196+500 (sur 0,1 km), sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "13f6f22a37b8",
+    "texte": "À 9h42, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens ouest-est), Impact : voies rétrécies, 1 voie concernéeImpact : voies rétrécies, 1 voie concernée, entre les PR 196+400 et 196+500 (sur 0,1 km), à Joux-la-Ville, sur bande d'arrêt d'urgence, La mesure est obligatoire ; À 10h02, Véhicule arrêté - VL, A6, de Paris vers Lyon (sens ouest-est), au PR 196+500, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7d143147623c",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-20T09:50:00",
-    "date_maj": "2026-11-20T10:01:43",
+    "date_publication": "2026-11-20T10:05:00",
+    "date_maj": "2026-11-20T10:15:38",
     "precision": "commune"
    },
    "geometry": {
