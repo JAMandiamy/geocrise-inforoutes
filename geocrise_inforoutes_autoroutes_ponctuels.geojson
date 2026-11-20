@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-21T00:20:00",
- "date_maj": "2026-11-21T00:30:49",
+ "date_publication": "2026-11-21T00:35:00",
+ "date_maj": "2026-11-21T00:45:35",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T00:20:00",
-    "date_maj": "2026-11-21T00:30:49",
+    "date_publication": "2026-11-21T00:35:00",
+    "date_maj": "2026-11-21T00:45:35",
     "precision": "commune"
    },
    "geometry": {
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 231+500, à Vic-de-Chassenay, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "23d0e1a32bbc",
+    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 231+500, à Vic-de-Chassenay, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "945b463501f0",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T00:20:00",
-    "date_maj": "2026-11-21T00:30:49",
+    "date_publication": "2026-11-21T00:35:00",
+    "date_maj": "2026-11-21T00:45:35",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T00:20:00",
-    "date_maj": "2026-11-21T00:30:49",
+    "date_publication": "2026-11-21T00:35:00",
+    "date_maj": "2026-11-21T00:45:35",
     "precision": "commune"
    },
    "geometry": {
@@ -109,34 +109,34 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - PL",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "388",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "322+700",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Charnay-lès-Mâcon",
+    "commune": "Fontaines",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 388, à Charnay-lès-Mâcon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "abc0b3c842e7",
+    "texte": "Véhicule arrêté - PL, A6, de Lyon vers Paris (sens sud-nord), au PR 322+700, à Fontaines, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "565c4007bc26",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T00:20:00",
-    "date_maj": "2026-11-21T00:30:49",
+    "date_publication": "2026-11-21T00:35:00",
+    "date_maj": "2026-11-21T00:45:35",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.79099,
-     46.30523
+     4.77446,
+     46.8503
     ]
    }
   },
@@ -162,8 +162,8 @@
     "evt_id": "40520f933e57",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-21T00:20:00",
-    "date_maj": "2026-11-21T00:30:49",
+    "date_publication": "2026-11-21T00:35:00",
+    "date_maj": "2026-11-21T00:45:35",
     "precision": "commune"
    },
    "geometry": {
