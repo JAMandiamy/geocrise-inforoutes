@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T17:05:00",
- "date_maj": "2026-11-20T17:31:20",
+ "date_publication": "2026-11-20T17:35:00",
+ "date_maj": "2026-11-20T17:45:43",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 3,
-    "type_evt": "Route fermée",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "264+293",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Pouilly-en-Auxois",
-    "commune_fin": "",
-    "heure_evt": "2026-11-20T15:09:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 15h09, Route fermée, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : route coupée, toutes les voiesImpact : route coupée, toutes les voiesImpact : route coupée, toutes les voies, au PR 264+293, à Pouilly-en-Auxois, situé sur la bretelle d'entrée de l'échangeur, Sur toutes les voies, hors voie de circulation, Sur 0 m La mesure est obligatoire ; À 11h48, Route fermée, applicable à tous les véhicules, au PR 264+400, Sur toutes les voies, sur bande d'arrêt d'urgence, sur accotement, La mesure est obligatoire ; À 16h33, Accident, 1 VL, 1 PL, au PR 288+900, à Bessey-en-Chaume, Sur toutes les voies ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "008ce2ea63f1",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T17:05:00",
-    "date_maj": "2026-11-20T17:31:20",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.55378,
-     47.26349
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T17:05:00",
-    "date_maj": "2026-11-20T17:31:20",
+    "date_publication": "2026-11-20T17:35:00",
+    "date_maj": "2026-11-20T17:45:43",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T17:05:00",
-    "date_maj": "2026-11-20T17:31:20",
+    "date_publication": "2026-11-20T17:35:00",
+    "date_maj": "2026-11-20T17:45:43",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T17:05:00",
-    "date_maj": "2026-11-20T17:31:20",
+    "date_publication": "2026-11-20T17:35:00",
+    "date_maj": "2026-11-20T17:45:43",
     "precision": "commune"
    },
    "geometry": {
@@ -137,40 +103,6 @@
     "coordinates": [
      4.69167,
      47.14811
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "149+600",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Appoigny",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens ouest-est), au PR 149+600, à Appoigny, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f554a57b76a9",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-20T17:05:00",
-    "date_maj": "2026-11-20T17:31:20",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.52221,
-     47.86718
     ]
    }
   }
