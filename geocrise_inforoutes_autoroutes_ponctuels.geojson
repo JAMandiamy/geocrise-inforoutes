@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T08:35:00",
- "date_maj": "2026-11-20T08:45:37",
+ "date_publication": "2026-11-20T08:50:00",
+ "date_maj": "2026-11-20T09:01:17",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T08:35:00",
-    "date_maj": "2026-11-20T08:45:37",
+    "date_publication": "2026-11-20T08:50:00",
+    "date_maj": "2026-11-20T09:01:17",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "7791af09942b",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T08:35:00",
-    "date_maj": "2026-11-20T08:45:37",
+    "date_publication": "2026-11-20T08:50:00",
+    "date_maj": "2026-11-20T09:01:17",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      4.98935,
      47.12521
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "19",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Gilly-lès-Cîteaux",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 2 voies concernées, au PR 19, à Gilly-lès-Cîteaux ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "bf8c78d01066",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-20T08:50:00",
+    "date_maj": "2026-11-20T09:01:17",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.99316,
+     47.17507
     ]
    }
   },
@@ -94,8 +128,8 @@
     "evt_id": "8bc6abb26801",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T08:35:00",
-    "date_maj": "2026-11-20T08:45:37",
+    "date_publication": "2026-11-20T08:50:00",
+    "date_maj": "2026-11-20T09:01:17",
     "precision": "commune"
    },
    "geometry": {
@@ -124,12 +158,46 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 2 voies concernées, au PR 20, à Gilly-lès-Cîteaux ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e234a54d8169",
+    "texte": "Obstacle - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 20, à Gilly-lès-Cîteaux ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "0d451f350a4a",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T08:35:00",
-    "date_maj": "2026-11-20T08:45:37",
+    "date_publication": "2026-11-20T08:50:00",
+    "date_maj": "2026-11-20T09:01:17",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.99316,
+     47.17507
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "20",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Gilly-lès-Cîteaux",
+    "commune_fin": "",
+    "heure_evt": "2026-11-20T08:37:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 8h37, Obstacle - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 2 voies concernées, au PR 20, à Gilly-lès-Cîteaux ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c90ee8d8a963",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-20T08:50:00",
+    "date_maj": "2026-11-20T09:01:17",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +230,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T08:35:00",
-    "date_maj": "2026-11-20T08:45:37",
+    "date_publication": "2026-11-20T08:50:00",
+    "date_maj": "2026-11-20T09:01:17",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -196,8 +264,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T08:35:00",
-    "date_maj": "2026-11-20T08:45:37",
+    "date_publication": "2026-11-20T08:50:00",
+    "date_maj": "2026-11-20T09:01:17",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +298,8 @@
     "evt_id": "fde956f00c55",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-20T08:35:00",
-    "date_maj": "2026-11-20T08:45:37",
+    "date_publication": "2026-11-20T08:50:00",
+    "date_maj": "2026-11-20T09:01:17",
     "precision": "commune"
    },
    "geometry": {
