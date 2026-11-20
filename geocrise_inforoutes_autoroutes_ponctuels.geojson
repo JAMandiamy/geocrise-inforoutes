@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T07:50:00",
- "date_maj": "2026-11-20T08:01:06",
+ "date_publication": "2026-11-20T08:05:00",
+ "date_maj": "2026-11-20T08:15:44",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T07:50:00",
-    "date_maj": "2026-11-20T08:01:06",
+    "date_publication": "2026-11-20T08:05:00",
+    "date_maj": "2026-11-20T08:15:44",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T07:50:00",
-    "date_maj": "2026-11-20T08:01:06",
+    "date_publication": "2026-11-20T08:05:00",
+    "date_maj": "2026-11-20T08:15:44",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T07:50:00",
-    "date_maj": "2026-11-20T08:01:06",
+    "date_publication": "2026-11-20T08:05:00",
+    "date_maj": "2026-11-20T08:15:44",
     "precision": "commune"
    },
    "geometry": {
@@ -110,33 +110,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
     "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "116+800",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "378+633",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Saint-Loup-d'Ordon",
+    "commune": "Saint-Martin-Belle-Roche",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens ouest-est), au PR 116+800, à Saint-Loup-d'Ordon, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "832edb52d62c",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-20T07:50:00",
-    "date_maj": "2026-11-20T08:01:06",
+    "texte": "Animal errant - Événement signalé, A6 (deux sens), au PR 378+633, à Saint-Martin-Belle-Roche ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "d4e4eb37eb34",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-20T08:05:00",
+    "date_maj": "2026-11-20T08:15:44",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.14955,
-     48.00995
+     4.85571,
+     46.3805
     ]
    }
   }
