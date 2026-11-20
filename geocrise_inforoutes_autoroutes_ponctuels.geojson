@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T16:50:00",
- "date_maj": "2026-11-20T17:01:10",
+ "date_publication": "2026-11-20T17:05:00",
+ "date_maj": "2026-11-20T17:15:56",
  "features": [
   {
    "type": "Feature",
@@ -22,12 +22,12 @@
     "heure_evt": "2026-11-20T15:09:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 15h09, Route fermée, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : route coupée, toutes les voiesImpact : route coupée, toutes les voiesImpact : route coupée, toutes les voies, au PR 264+293, à Pouilly-en-Auxois, situé sur la bretelle d'entrée de l'échangeur, Sur toutes les voies, hors voie de circulation, Sur 0 m La mesure est obligatoire ; À 11h48, Route fermée, applicable à tous les véhicules, au PR 264+400, Sur toutes les voies, sur bande d'arrêt d'urgence, sur accotement, La mesure est obligatoire ; À 14h34, Accident, 1 VL, 1 PL, au PR 288+900, à Bessey-en-Chaume, Sur toutes les voies ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "18fdad79dcb4",
+    "texte": "À 15h09, Route fermée, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : route coupée, toutes les voiesImpact : route coupée, toutes les voiesImpact : route coupée, toutes les voies, au PR 264+293, à Pouilly-en-Auxois, situé sur la bretelle d'entrée de l'échangeur, Sur toutes les voies, hors voie de circulation, Sur 0 m La mesure est obligatoire ; À 11h48, Route fermée, applicable à tous les véhicules, au PR 264+400, Sur toutes les voies, sur bande d'arrêt d'urgence, sur accotement, La mesure est obligatoire ; À 16h33, Accident, 1 VL, 1 PL, au PR 288+900, à Bessey-en-Chaume, Sur toutes les voies ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "008ce2ea63f1",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T16:50:00",
-    "date_maj": "2026-11-20T17:01:10",
+    "date_publication": "2026-11-20T17:05:00",
+    "date_maj": "2026-11-20T17:15:56",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T16:50:00",
-    "date_maj": "2026-11-20T17:01:10",
+    "date_publication": "2026-11-20T17:05:00",
+    "date_maj": "2026-11-20T17:15:56",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T16:50:00",
-    "date_maj": "2026-11-20T17:01:10",
+    "date_publication": "2026-11-20T17:05:00",
+    "date_maj": "2026-11-20T17:15:56",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T16:50:00",
-    "date_maj": "2026-11-20T17:01:10",
+    "date_publication": "2026-11-20T17:05:00",
+    "date_maj": "2026-11-20T17:15:56",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "f554a57b76a9",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-20T16:50:00",
-    "date_maj": "2026-11-20T17:01:10",
+    "date_publication": "2026-11-20T17:05:00",
+    "date_maj": "2026-11-20T17:15:56",
     "precision": "commune"
    },
    "geometry": {
