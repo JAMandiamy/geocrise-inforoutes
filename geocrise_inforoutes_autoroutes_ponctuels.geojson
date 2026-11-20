@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T20:20:00",
- "date_maj": "2026-11-20T20:30:56",
+ "date_publication": "2026-11-20T20:35:00",
+ "date_maj": "2026-11-20T20:45:38",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T20:20:00",
-    "date_maj": "2026-11-20T20:30:56",
+    "date_publication": "2026-11-20T20:35:00",
+    "date_maj": "2026-11-20T20:45:38",
     "precision": "commune"
    },
    "geometry": {
@@ -53,15 +53,15 @@
     "longueur_km": 0.3,
     "commune": "Laperrière-sur-Saône",
     "commune_fin": "Samerey",
-    "heure_evt": "2026-11-19T20:31:00",
+    "heure_evt": "2026-11-20T20:31:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
     "texte": "À 20h31, Réduction du nombre de voies, applicable à tous les véhicules, A36, de Beaune vers Mulhouse (sens ouest-est), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, toutes les voies, entre les PR 179+300 et 179 (sur 0,3 km), de Laperrière-sur-Saône à Samerey, Sur voie de gauche, La mesure est obligatoire ; À 22h00, Convoi exceptionnel, entre les PR 179+150 et 172 (sur 7,2 km), entre les départements 21 (Côte-d'Or) et 39 (Jura), de Laperrière-sur-Saône à Sampans ; [Origine : SCA APRR DATEXII]",
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T20:20:00",
-    "date_maj": "2026-11-20T20:30:56",
+    "date_publication": "2026-11-20T20:35:00",
+    "date_maj": "2026-11-20T20:45:38",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T20:20:00",
-    "date_maj": "2026-11-20T20:30:56",
+    "date_publication": "2026-11-20T20:35:00",
+    "date_maj": "2026-11-20T20:45:38",
     "precision": "commune"
    },
    "geometry": {
@@ -109,9 +109,43 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "396",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Crêches-sur-Saône",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), au PR 396, à Crêches-sur-Saône, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "b8d5c2cda147",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-20T20:35:00",
+    "date_maj": "2026-11-20T20:45:38",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.78705,
+     46.23918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "ouest-est",
@@ -121,15 +155,15 @@
     "longueur_km": 0.7,
     "commune": "Provency",
     "commune_fin": "",
-    "heure_evt": "2026-11-20T18:58:00",
+    "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 18h58, Obstacle, A6, de Paris vers Lyon (sens ouest-est), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, au PR 206+630, à Provency, Sur voie de droite, sur bande d'arrêt d'urgence ; À 19h12, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens ouest-est), entre les PR 206 et 206+700 (sur 0,7 km), La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "361a9b38ad82",
+    "texte": "Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens ouest-est), Impact : voies neutralisées, 1 voie concernée, entre les PR 206 et 206+700 (sur 0,7 km), à Provency, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "882c7fa9dc4e",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-20T20:20:00",
-    "date_maj": "2026-11-20T20:30:56",
+    "date_publication": "2026-11-20T20:35:00",
+    "date_maj": "2026-11-20T20:45:38",
     "precision": "commune"
    },
    "geometry": {
