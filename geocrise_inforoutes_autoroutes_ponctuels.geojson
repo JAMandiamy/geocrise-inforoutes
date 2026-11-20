@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T12:50:00",
- "date_maj": "2026-11-20T13:01:12",
+ "date_publication": "2026-11-20T13:05:00",
+ "date_maj": "2026-11-20T13:15:41",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "c9d9fa5a65a9",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T12:50:00",
-    "date_maj": "2026-11-20T13:01:12",
+    "date_publication": "2026-11-20T13:05:00",
+    "date_maj": "2026-11-20T13:15:41",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T12:50:00",
-    "date_maj": "2026-11-20T13:01:12",
+    "date_publication": "2026-11-20T13:05:00",
+    "date_maj": "2026-11-20T13:15:41",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T12:50:00",
-    "date_maj": "2026-11-20T13:01:12",
+    "date_publication": "2026-11-20T13:05:00",
+    "date_maj": "2026-11-20T13:15:41",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T12:50:00",
-    "date_maj": "2026-11-20T13:01:12",
+    "date_publication": "2026-11-20T13:05:00",
+    "date_maj": "2026-11-20T13:15:41",
     "precision": "commune"
    },
    "geometry": {
