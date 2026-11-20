@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T02:05:00",
- "date_maj": "2026-11-20T02:15:36",
+ "date_publication": "2026-11-20T02:20:00",
+ "date_maj": "2026-11-20T02:30:54",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T02:05:00",
-    "date_maj": "2026-11-20T02:15:36",
+    "date_publication": "2026-11-20T02:20:00",
+    "date_maj": "2026-11-20T02:30:54",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T02:05:00",
-    "date_maj": "2026-11-20T02:15:36",
+    "date_publication": "2026-11-20T02:20:00",
+    "date_maj": "2026-11-20T02:30:54",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      5.352835,
      47.098330000000004
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
-    "signale": "non",
-    "route": "A77",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "116+361",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Pouilly-sur-Loire",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Animal errant, A77 (deux sens), au PR 116+361, à Pouilly-sur-Loire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1dcf0f7dd36a",
-    "dep": "58",
-    "nom_dep": "Nièvre",
-    "date_publication": "2026-11-20T02:05:00",
-    "date_maj": "2026-11-20T02:15:36",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     2.98989,
-     47.28065
     ]
    }
   }
