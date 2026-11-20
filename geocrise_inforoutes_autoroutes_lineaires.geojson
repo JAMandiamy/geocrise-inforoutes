@@ -1,49 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-20T06:20:00",
- "date_maj": "2026-11-20T06:31:01",
+ "date_publication": "2026-11-20T06:35:00",
+ "date_maj": "2026-11-20T06:45:40",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Convoi exceptionnel",
-    "groupe": "5 - Information et services",
-    "signale": "non",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "40",
-    "pr_fin": "9",
-    "longueur_km": 31.4,
-    "commune": "Magny-sur-Tille",
-    "commune_fin": "Corgoloin",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Convoi exceptionnel, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 40 et 9 (sur 31,4 km), de Magny-sur-Tille à Corgoloin ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "806a5ae3d4fc",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T06:20:00",
-    "date_maj": "2026-11-20T06:31:01",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      5.17198,
-      47.27442
-     ],
-     [
-      4.93205,
-      47.08151
-     ]
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -66,8 +26,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T06:20:00",
-    "date_maj": "2026-11-20T06:31:01",
+    "date_publication": "2026-11-20T06:35:00",
+    "date_maj": "2026-11-20T06:45:40",
     "precision": "communes (début → fin)"
    },
    "geometry": {
