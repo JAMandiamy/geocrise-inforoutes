@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-21T00:05:00",
- "date_maj": "2026-11-21T00:15:35",
+ "date_publication": "2026-11-21T00:20:00",
+ "date_maj": "2026-11-21T00:30:49",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T00:05:00",
-    "date_maj": "2026-11-21T00:15:35",
+    "date_publication": "2026-11-21T00:20:00",
+    "date_maj": "2026-11-21T00:30:49",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "231+500",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Vic-de-Chassenay",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, 1 VL - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 231+500, à Vic-de-Chassenay, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "23d0e1a32bbc",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-21T00:20:00",
+    "date_maj": "2026-11-21T00:30:49",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.2663,
+     47.47243
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T00:05:00",
-    "date_maj": "2026-11-21T00:15:35",
+    "date_publication": "2026-11-21T00:20:00",
+    "date_maj": "2026-11-21T00:30:49",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +128,8 @@
     "evt_id": "abc0b3c842e7",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T00:05:00",
-    "date_maj": "2026-11-21T00:15:35",
+    "date_publication": "2026-11-21T00:20:00",
+    "date_maj": "2026-11-21T00:30:49",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +137,40 @@
     "coordinates": [
      4.79099,
      46.30523
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "207+847",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Athie",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal errant - Événement signalé, A6 (deux sens), au PR 207+847, à Athie ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "40520f933e57",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-21T00:20:00",
+    "date_maj": "2026-11-21T00:30:49",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.99397,
+     47.53963
     ]
    }
   }
