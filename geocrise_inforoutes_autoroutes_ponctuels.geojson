@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T14:35:00",
- "date_maj": "2026-11-20T14:45:42",
+ "date_publication": "2026-11-20T14:50:00",
+ "date_maj": "2026-11-20T15:01:10",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "bf92f4be951b",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T14:35:00",
-    "date_maj": "2026-11-20T14:45:42",
+    "date_publication": "2026-11-20T14:50:00",
+    "date_maj": "2026-11-20T15:01:10",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T14:35:00",
-    "date_maj": "2026-11-20T14:45:42",
+    "date_publication": "2026-11-20T14:50:00",
+    "date_maj": "2026-11-20T15:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -82,20 +82,20 @@
     "route": "A31",
     "sens": "nord-sud",
     "direction": "Luxembourg → Lyon",
-    "pr_debut": "71+200",
-    "pr_fin": "",
-    "longueur_km": "",
+    "pr_debut": "71+500",
+    "pr_fin": "71+200",
+    "longueur_km": 0.3,
     "commune": "Til-Châtel",
     "commune_fin": "",
-    "heure_evt": "2026-11-20T14:34:00",
+    "heure_evt": "2026-11-20T14:47:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 14h34, Accident, 1 VL, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 2 voies concernées, au PR 71+200, à Til-Châtel, Sur la voie du milieu ; À 14h32, Obstacle, au PR 71+200 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "8cd64757da84",
+    "texte": "À 14h47, Accident, 2 VL, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 2 voies concernéesImpact : voies neutralisées, 2 voies concernées, au PR 71+200, à Til-Châtel, Sur la voie du milieu ; À 14h32, Obstacle, au PR 71+200 ; À 14h44, Réduction du nombre de voies, applicable à tous les véhicules, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 71+500 et 71+200 (sur 0,3 km), Sur la voie du milieu, sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "8a8d64089ab5",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T14:35:00",
-    "date_maj": "2026-11-20T14:45:42",
+    "date_publication": "2026-11-20T14:50:00",
+    "date_maj": "2026-11-20T15:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T14:35:00",
-    "date_maj": "2026-11-20T14:45:42",
+    "date_publication": "2026-11-20T14:50:00",
+    "date_maj": "2026-11-20T15:01:10",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "4594e1ecb2cc",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T14:35:00",
-    "date_maj": "2026-11-20T14:45:42",
+    "date_publication": "2026-11-20T14:50:00",
+    "date_maj": "2026-11-20T15:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -171,40 +171,6 @@
     "coordinates": [
      5.2987,
      47.2118
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
-    "pr_debut": "7+500",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Ladoix-Serrigny",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - VL - Événement signalé, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 7+500, à Ladoix-Serrigny, situé sur une Aire de service, Hors voie de circulation, sur accotement ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "55a38a738f74",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T14:35:00",
-    "date_maj": "2026-11-20T14:45:42",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.90773,
-     47.06759
     ]
    }
   },
@@ -230,8 +196,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T14:35:00",
-    "date_maj": "2026-11-20T14:45:42",
+    "date_publication": "2026-11-20T14:50:00",
+    "date_maj": "2026-11-20T15:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -264,8 +230,8 @@
     "evt_id": "a6f94b57ca3d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-20T14:35:00",
-    "date_maj": "2026-11-20T14:45:42",
+    "date_publication": "2026-11-20T14:50:00",
+    "date_maj": "2026-11-20T15:01:10",
     "precision": "commune"
    },
    "geometry": {
