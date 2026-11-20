@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T06:05:00",
- "date_maj": "2026-11-20T06:15:37",
+ "date_publication": "2026-11-20T06:20:00",
+ "date_maj": "2026-11-20T06:31:01",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T06:05:00",
-    "date_maj": "2026-11-20T06:15:37",
+    "date_publication": "2026-11-20T06:20:00",
+    "date_maj": "2026-11-20T06:31:01",
     "precision": "commune"
    },
    "geometry": {
@@ -48,27 +48,27 @@
     "route": "A31",
     "sens": "nord-sud",
     "direction": "Luxembourg → Lyon",
-    "pr_debut": "113+400",
+    "pr_debut": "40",
     "pr_fin": "9",
-    "longueur_km": 104.7,
-    "commune": "Ormancey",
+    "longueur_km": 31.4,
+    "commune": "Magny-sur-Tille",
     "commune_fin": "Corgoloin",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Convoi exceptionnel, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 113+400 et 9 (sur 104,7 km), entre les départements 52 (Haute-Marne) et 21 (Côte-d'Or), de Ormancey à Corgoloin ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "14ed0fed86e8",
+    "texte": "Convoi exceptionnel, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 40 et 9 (sur 31,4 km), de Magny-sur-Tille à Corgoloin ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "806a5ae3d4fc",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T06:05:00",
-    "date_maj": "2026-11-20T06:15:37",
-    "precision": "commune"
+    "date_publication": "2026-11-20T06:20:00",
+    "date_maj": "2026-11-20T06:31:01",
+    "precision": "communes (début → fin)"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.93205,
-     47.08151
+     5.052015,
+     47.177965
     ]
    }
   },
@@ -94,8 +94,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T06:05:00",
-    "date_maj": "2026-11-20T06:15:37",
+    "date_publication": "2026-11-20T06:20:00",
+    "date_maj": "2026-11-20T06:31:01",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "03129ef41e0c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T06:05:00",
-    "date_maj": "2026-11-20T06:15:37",
+    "date_publication": "2026-11-20T06:20:00",
+    "date_maj": "2026-11-20T06:31:01",
     "precision": "commune"
    },
    "geometry": {
