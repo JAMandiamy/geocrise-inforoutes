@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-20T11:50:00",
- "date_maj": "2026-11-20T12:01:05",
+ "date_publication": "2026-11-20T12:05:00",
+ "date_maj": "2026-11-20T12:15:40",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "c9d9fa5a65a9",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T11:50:00",
-    "date_maj": "2026-11-20T12:01:05",
+    "date_publication": "2026-11-20T12:05:00",
+    "date_maj": "2026-11-20T12:15:40",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -66,8 +66,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T11:50:00",
-    "date_maj": "2026-11-20T12:01:05",
+    "date_publication": "2026-11-20T12:05:00",
+    "date_maj": "2026-11-20T12:15:40",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -80,46 +80,6 @@
      [
       5.36421,
       47.08949
-     ]
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "359+800",
-    "pr_fin": "360+100",
-    "longueur_km": 0.3,
-    "commune": "Tournus",
-    "commune_fin": "Le Villars",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, entre les PR 359+800 et 360+100 (sur 0,3 km), de Tournus à Le Villars, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "509af064bf14",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-20T11:50:00",
-    "date_maj": "2026-11-20T12:01:05",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.89504,
-      46.56883
-     ],
-     [
-      4.9205,
-      46.5302
      ]
     ]
    }
