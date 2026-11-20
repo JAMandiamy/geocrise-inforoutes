@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T15:05:00",
- "date_maj": "2026-11-20T15:15:52",
+ "date_publication": "2026-11-20T15:20:00",
+ "date_maj": "2026-11-20T15:31:19",
  "features": [
   {
    "type": "Feature",
@@ -22,12 +22,12 @@
     "heure_evt": "2026-11-20T10:52:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 10h52, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : route coupée, toutes les voiesImpact : route coupée, toutes les voiesImpact : route coupée, toutes les voies, entre les PR 293+800 et 287 (sur 6,8 km), de Bouze-lès-Beaune à Bligny-sur-Ouche, Sur voie de gauche, La mesure est obligatoire ; À 9h39, Route fermée, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), au PR 264+293, à Pouilly-en-Auxois, situé sur la bretelle d'entrée de l'échangeur, Sur toutes les voies, hors voie de circulation, Sur 0 m La mesure est obligatoire ; À 11h48, Route fermée, applicable à tous les véhicules, au PR 264+400, Sur toutes les voies, sur bande d'arrêt d'urgence, sur accotement, La mesure est obligatoire ; À 14h34, Accident, 1 VL, 1 PL, au PR 288+900, à Bessey-en-Chaume, Sur toutes les voies ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "a736f7e967fe",
+    "texte": "À 10h52, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : route coupée, toutes les voiesImpact : route coupée, toutes les voiesImpact : route coupée, toutes les voies, entre les PR 293+800 et 287 (sur 6,8 km), de Bouze-lès-Beaune à Bligny-sur-Ouche, Sur voie de gauche, La mesure est obligatoire ; À 9h39, Route fermée, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), au PR 264+293, à Pouilly-en-Auxois, situé sur la bretelle d'entrée de l'échangeur, Sur toutes les voies, hors voie de circulation, Sur 0 m La mesure est obligatoire ; À 11h48, Route fermée, applicable à tous les véhicules, au PR 264+400, Sur toutes les voies, sur bande d'arrêt d'urgence, sur accotement, La mesure est obligatoire ; À 14h34, Accident, 1 PL, 1 VL, au PR 288+900, à Bessey-en-Chaume, Sur toutes les voies ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "1b440e8a6372",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T15:05:00",
-    "date_maj": "2026-11-20T15:15:52",
+    "date_publication": "2026-11-20T15:20:00",
+    "date_maj": "2026-11-20T15:31:19",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T15:05:00",
-    "date_maj": "2026-11-20T15:15:52",
+    "date_publication": "2026-11-20T15:20:00",
+    "date_maj": "2026-11-20T15:31:19",
     "precision": "commune"
    },
    "geometry": {
@@ -76,8 +76,8 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A31",
     "sens": "nord-sud",
@@ -87,15 +87,15 @@
     "longueur_km": 0.3,
     "commune": "Til-Châtel",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-11-20T15:18:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 2 VL, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 2 voies concernéesImpact : voies neutralisées, 2 voies concernées, au PR 71+200, à Til-Châtel, Sur la voie du milieu ; À 14h32, Obstacle, au PR 71+200 ; À 14h56, Réduction du nombre de voies, applicable à tous les véhicules, A31, de Luxembourg vers Lyon (sens nord-sud), entre les PR 71+500 et 71+200 (sur 0,3 km), Sur la voie du milieu, sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "94350afaba79",
+    "texte": "À 15h18, Réduction du nombre de voies, applicable à tous les véhicules, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, 2 voies concernées, entre les PR 71+500 et 71+200 (sur 0,3 km), à Til-Châtel, Sur la voie du milieu, sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "9885c83b8d79",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T15:05:00",
-    "date_maj": "2026-11-20T15:15:52",
+    "date_publication": "2026-11-20T15:20:00",
+    "date_maj": "2026-11-20T15:31:19",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T15:05:00",
-    "date_maj": "2026-11-20T15:15:52",
+    "date_publication": "2026-11-20T15:20:00",
+    "date_maj": "2026-11-20T15:31:19",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -137,40 +137,6 @@
     "coordinates": [
      5.352835,
      47.098330000000004
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A39",
-    "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "21+254",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Soirans",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 21+254, à Soirans, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4594e1ecb2cc",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T15:05:00",
-    "date_maj": "2026-11-20T15:15:52",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.2987,
-     47.2118
     ]
    }
   },
@@ -196,8 +162,8 @@
     "evt_id": "bd7638d44580",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T15:05:00",
-    "date_maj": "2026-11-20T15:15:52",
+    "date_publication": "2026-11-20T15:20:00",
+    "date_maj": "2026-11-20T15:31:19",
     "precision": "commune"
    },
    "geometry": {
@@ -230,8 +196,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T15:05:00",
-    "date_maj": "2026-11-20T15:15:52",
+    "date_publication": "2026-11-20T15:20:00",
+    "date_maj": "2026-11-20T15:31:19",
     "precision": "commune"
    },
    "geometry": {
@@ -239,74 +205,6 @@
     "coordinates": [
      4.69167,
      47.14811
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "400",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "La Chapelle-de-Guinchay",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 400, à La Chapelle-de-Guinchay ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "d26bf02fe63f",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-20T15:05:00",
-    "date_maj": "2026-11-20T15:15:52",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.7586,
-     46.2177
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "322+300",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Fontaines",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A6, de Lyon vers Paris (sens sud-nord), au PR 322+300, à Fontaines, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "a6f94b57ca3d",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-20T15:05:00",
-    "date_maj": "2026-11-20T15:15:52",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.77446,
-     46.8503
     ]
    }
   }
