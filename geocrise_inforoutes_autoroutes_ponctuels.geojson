@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-20T08:05:00",
- "date_maj": "2026-11-20T08:15:44",
+ "date_publication": "2026-11-20T08:20:00",
+ "date_maj": "2026-11-20T08:30:52",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T08:05:00",
-    "date_maj": "2026-11-20T08:15:44",
+    "date_publication": "2026-11-20T08:20:00",
+    "date_maj": "2026-11-20T08:30:52",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "3b95b301dbfb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T08:05:00",
-    "date_maj": "2026-11-20T08:15:44",
+    "date_publication": "2026-11-20T08:20:00",
+    "date_maj": "2026-11-20T08:30:52",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-20T08:05:00",
-    "date_maj": "2026-11-20T08:15:44",
+    "date_publication": "2026-11-20T08:20:00",
+    "date_maj": "2026-11-20T08:30:52",
     "precision": "commune"
    },
    "geometry": {
@@ -109,34 +109,34 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
-    "signale": "oui",
+    "importance": 3,
+    "type_evt": "Route fermée",
+    "groupe": "3 - Fermetures et déviations",
+    "signale": "non",
     "route": "A6",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "378+633",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "351+900",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Saint-Martin-Belle-Roche",
+    "commune": "Jugy",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Animal errant - Événement signalé, A6 (deux sens), au PR 378+633, à Saint-Martin-Belle-Roche ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "d4e4eb37eb34",
+    "texte": "Route fermée, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), au PR 351+900, à Jugy, situé sur une Aire de service, Hors voie de circulation, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "fde956f00c55",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-20T08:05:00",
-    "date_maj": "2026-11-20T08:15:44",
+    "date_publication": "2026-11-20T08:20:00",
+    "date_maj": "2026-11-20T08:30:52",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.85571,
-     46.3805
+     4.8618,
+     46.60538
     ]
    }
   }
