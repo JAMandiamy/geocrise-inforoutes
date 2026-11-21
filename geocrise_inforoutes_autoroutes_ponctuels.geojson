@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-21T07:05:00",
- "date_maj": "2026-11-21T07:15:48",
+ "date_publication": "2026-11-21T07:20:00",
+ "date_maj": "2026-11-21T07:31:05",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T07:05:00",
-    "date_maj": "2026-11-21T07:15:48",
+    "date_publication": "2026-11-21T07:20:00",
+    "date_maj": "2026-11-21T07:31:05",
     "precision": "commune"
    },
    "geometry": {
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 2 voies concernéesImpact : voies neutralisées, 2 voies concernées, au PR 295+300, à Bouze-lès-Beaune, Sur voie de gauche ; Réduction du nombre de voies, applicable à tous les véhicules, au PR 295+600, à Beaune, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "a6d2ad8a6b7f",
+    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 2 voies concernéesImpact : voies neutralisées, 2 voies concernées, au PR 295+300, à Bouze-lès-Beaune, Sur voie de gauche ; À 7h09, Réduction du nombre de voies, applicable à tous les véhicules, au PR 295+600, à Beaune, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "5f343ed5ad46",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T07:05:00",
-    "date_maj": "2026-11-21T07:15:48",
+    "date_publication": "2026-11-21T07:20:00",
+    "date_maj": "2026-11-21T07:31:05",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "a5e37f241a57",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T07:05:00",
-    "date_maj": "2026-11-21T07:15:48",
+    "date_publication": "2026-11-21T07:20:00",
+    "date_maj": "2026-11-21T07:31:05",
     "precision": "commune"
    },
    "geometry": {
