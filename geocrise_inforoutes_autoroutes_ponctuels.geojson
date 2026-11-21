@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-21T07:20:00",
- "date_maj": "2026-11-21T07:31:05",
+ "date_publication": "2026-11-21T07:35:00",
+ "date_maj": "2026-11-21T07:45:34",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T07:20:00",
-    "date_maj": "2026-11-21T07:31:05",
+    "date_publication": "2026-11-21T07:35:00",
+    "date_maj": "2026-11-21T07:45:34",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A39",
+    "sens": "nord-sud",
+    "direction": "Dijon → Bourg-en-Bresse",
+    "pr_debut": "0+328",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Dijon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - Événement signalé, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 0+328, à Dijon, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f6c1c0f5a59e",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-21T07:35:00",
+    "date_maj": "2026-11-21T07:45:34",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.04476,
+     47.33199
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "5f343ed5ad46",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T07:20:00",
-    "date_maj": "2026-11-21T07:31:05",
+    "date_publication": "2026-11-21T07:35:00",
+    "date_maj": "2026-11-21T07:45:34",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +128,8 @@
     "evt_id": "a5e37f241a57",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T07:20:00",
-    "date_maj": "2026-11-21T07:31:05",
+    "date_publication": "2026-11-21T07:35:00",
+    "date_maj": "2026-11-21T07:45:34",
     "precision": "commune"
    },
    "geometry": {
