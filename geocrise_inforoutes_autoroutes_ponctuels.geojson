@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-21T02:05:00",
- "date_maj": "2026-11-21T02:15:37",
+ "date_publication": "2026-11-21T02:20:00",
+ "date_maj": "2026-11-21T02:30:50",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T02:05:00",
-    "date_maj": "2026-11-21T02:15:37",
+    "date_publication": "2026-11-21T02:20:00",
+    "date_maj": "2026-11-21T02:30:50",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T02:05:00",
-    "date_maj": "2026-11-21T02:15:37",
+    "date_publication": "2026-11-21T02:20:00",
+    "date_maj": "2026-11-21T02:30:50",
     "precision": "commune"
    },
    "geometry": {
@@ -90,12 +90,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), au PR 374+800, à Saint-Albain, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "643ab5dad438",
+    "texte": "Accident, 1 PL, 1 VL, A6, de Lyon vers Paris (sens sud-nord), au PR 374+800, à Saint-Albain, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "4fc682ed81fe",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T02:05:00",
-    "date_maj": "2026-11-21T02:15:37",
+    "date_publication": "2026-11-21T02:20:00",
+    "date_maj": "2026-11-21T02:30:50",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "565c4007bc26",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T02:05:00",
-    "date_maj": "2026-11-21T02:15:37",
+    "date_publication": "2026-11-21T02:20:00",
+    "date_maj": "2026-11-21T02:30:50",
     "precision": "commune"
    },
    "geometry": {
