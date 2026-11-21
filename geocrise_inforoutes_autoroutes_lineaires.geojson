@@ -1,7 +1,48 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-21T08:05:00",
- "date_maj": "2026-11-21T08:15:38",
- "features": []
+ "date_publication": "2026-11-21T08:20:00",
+ "date_maj": "2026-11-21T08:30:54",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Produit sur chaussée(Route rendue glissante)",
+    "groupe": "2 - Météo et environnement",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "296",
+    "pr_fin": "293",
+    "longueur_km": 3.0,
+    "commune": "Beaune",
+    "commune_fin": "Savigny-lès-Beaune",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Produit sur chaussée(Route rendue glissante), A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, toutes les voies, entre les PR 296 et 293 (sur 3,0 km), de Beaune à Savigny-lès-Beaune ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "db8905e89ad3",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-21T08:20:00",
+    "date_maj": "2026-11-21T08:30:54",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.83008,
+      47.02744
+     ],
+     [
+      4.79446,
+      47.07968
+     ]
+    ]
+   }
+  }
+ ]
 }
