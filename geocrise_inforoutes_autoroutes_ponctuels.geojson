@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-21T03:05:00",
- "date_maj": "2026-11-21T03:15:34",
+ "date_publication": "2026-11-21T03:20:00",
+ "date_maj": "2026-11-21T03:30:49",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T03:05:00",
-    "date_maj": "2026-11-21T03:15:34",
+    "date_publication": "2026-11-21T03:20:00",
+    "date_maj": "2026-11-21T03:30:49",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "312fe519639c",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T03:05:00",
-    "date_maj": "2026-11-21T03:15:34",
+    "date_publication": "2026-11-21T03:20:00",
+    "date_maj": "2026-11-21T03:30:49",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "a5e37f241a57",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T03:05:00",
-    "date_maj": "2026-11-21T03:15:34",
+    "date_publication": "2026-11-21T03:20:00",
+    "date_maj": "2026-11-21T03:30:49",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "565c4007bc26",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T03:05:00",
-    "date_maj": "2026-11-21T03:15:34",
+    "date_publication": "2026-11-21T03:20:00",
+    "date_maj": "2026-11-21T03:30:49",
     "precision": "commune"
    },
    "geometry": {
@@ -137,40 +137,6 @@
     "coordinates": [
      4.77446,
      46.8503
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "158+900",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Auxerre",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens ouest-est), au PR 158+900, à Auxerre, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "773addd5f1e4",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-21T03:05:00",
-    "date_maj": "2026-11-21T03:15:34",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.57635,
-     47.79382
     ]
    }
   },
@@ -196,8 +162,8 @@
     "evt_id": "1885e983f851",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-21T03:05:00",
-    "date_maj": "2026-11-21T03:15:34",
+    "date_publication": "2026-11-21T03:20:00",
+    "date_maj": "2026-11-21T03:30:49",
     "precision": "commune"
    },
    "geometry": {
