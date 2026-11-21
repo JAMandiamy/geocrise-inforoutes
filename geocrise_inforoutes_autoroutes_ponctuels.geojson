@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-21T21:05:00",
- "date_maj": "2026-11-21T21:15:36",
+ "date_publication": "2026-11-21T21:20:00",
+ "date_maj": "2026-11-21T21:31:00",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T21:05:00",
-    "date_maj": "2026-11-21T21:15:36",
+    "date_publication": "2026-11-21T21:20:00",
+    "date_maj": "2026-11-21T21:31:00",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "0b7e77c7211d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T21:05:00",
-    "date_maj": "2026-11-21T21:15:36",
+    "date_publication": "2026-11-21T21:20:00",
+    "date_maj": "2026-11-21T21:31:00",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T21:05:00",
-    "date_maj": "2026-11-21T21:15:36",
+    "date_publication": "2026-11-21T21:20:00",
+    "date_maj": "2026-11-21T21:31:00",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "a5e37f241a57",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T21:05:00",
-    "date_maj": "2026-11-21T21:15:36",
+    "date_publication": "2026-11-21T21:20:00",
+    "date_maj": "2026-11-21T21:31:00",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "1a3803d3631e",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T21:05:00",
-    "date_maj": "2026-11-21T21:15:36",
+    "date_publication": "2026-11-21T21:20:00",
+    "date_maj": "2026-11-21T21:31:00",
     "precision": "commune"
    },
    "geometry": {
@@ -171,40 +171,6 @@
     "coordinates": [
      4.83514,
      46.36224
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A19",
-    "sens": "nord-sud",
-    "direction": "Sens (A5) → Orléans (A10)",
-    "pr_debut": "14+400",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Villeroy",
-    "commune_fin": "",
-    "heure_evt": "2026-11-21T20:37:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 20h37, Véhicule arrêté, A19, de Sens (A5) vers Orléans (A10) (sens nord-sud), au PR 14+400, à Villeroy, Sur bande d'arrêt d'urgence ; À 20h36, Accident, 2 VL, au PR 14+400 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "8ea051802e21",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-21T21:05:00",
-    "date_maj": "2026-11-21T21:15:36",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.18398,
-     48.18216
     ]
    }
   }
