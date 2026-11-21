@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-21T08:35:00",
- "date_maj": "2026-11-21T08:45:39",
+ "date_publication": "2026-11-21T08:50:00",
+ "date_maj": "2026-11-21T09:01:03",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T08:35:00",
-    "date_maj": "2026-11-21T08:45:39",
+    "date_publication": "2026-11-21T08:50:00",
+    "date_maj": "2026-11-21T09:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -44,7 +44,7 @@
     "importance": 2,
     "type_evt": "Obstacle",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A31",
     "sens": "nord-sud",
     "direction": "Luxembourg → Lyon",
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, toutes les voies, au PR 17+900, à Flagey-Echézeaux ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "9d392c9c8116",
+    "texte": "Obstacle, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, toutes les voies, au PR 17+900, à Flagey-Echézeaux ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "0edb91372114",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T08:35:00",
-    "date_maj": "2026-11-21T08:45:39",
+    "date_publication": "2026-11-21T08:50:00",
+    "date_maj": "2026-11-21T09:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "ba2d6f10dbf2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T08:35:00",
-    "date_maj": "2026-11-21T08:45:39",
+    "date_publication": "2026-11-21T08:50:00",
+    "date_maj": "2026-11-21T09:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "db8905e89ad3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T08:35:00",
-    "date_maj": "2026-11-21T08:45:39",
+    "date_publication": "2026-11-21T08:50:00",
+    "date_maj": "2026-11-21T09:01:03",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "a5e37f241a57",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T08:35:00",
-    "date_maj": "2026-11-21T08:45:39",
+    "date_publication": "2026-11-21T08:50:00",
+    "date_maj": "2026-11-21T09:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -171,6 +171,40 @@
     "coordinates": [
      4.83571,
      46.65443
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A5",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "52+260",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Courlon-sur-Yonne",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal errant - Événement signalé, A5 (deux sens), au PR 52+260, à Courlon-sur-Yonne ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "63b6918dd292",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-21T08:50:00",
+    "date_maj": "2026-11-21T09:01:03",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.17619,
+     48.34398
     ]
    }
   }
