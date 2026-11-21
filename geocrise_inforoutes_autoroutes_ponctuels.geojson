@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-21T07:35:00",
- "date_maj": "2026-11-21T07:45:34",
+ "date_publication": "2026-11-21T07:50:00",
+ "date_maj": "2026-11-21T08:01:00",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T07:35:00",
-    "date_maj": "2026-11-21T07:45:34",
+    "date_publication": "2026-11-21T07:50:00",
+    "date_maj": "2026-11-21T08:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -44,7 +44,7 @@
     "importance": 2,
     "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A39",
     "sens": "nord-sud",
     "direction": "Dijon → Bourg-en-Bresse",
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 0+328, à Dijon, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f6c1c0f5a59e",
+    "texte": "Véhicule arrêté, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 0+328, à Dijon, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "9f8ab6d438a4",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T07:35:00",
-    "date_maj": "2026-11-21T07:45:34",
+    "date_publication": "2026-11-21T07:50:00",
+    "date_maj": "2026-11-21T08:01:00",
     "precision": "commune"
    },
    "geometry": {
@@ -76,33 +76,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "sud-nord",
     "direction": "Lyon → Paris",
-    "pr_debut": "295+300",
+    "pr_debut": "295+600",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Bouze-lès-Beaune",
+    "commune": "Beaune",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-11-21T07:09:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 2 voies concernéesImpact : voies neutralisées, 2 voies concernées, au PR 295+300, à Bouze-lès-Beaune, Sur voie de gauche ; À 7h09, Réduction du nombre de voies, applicable à tous les véhicules, au PR 295+600, à Beaune, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "5f343ed5ad46",
+    "texte": "À 7h09, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 2 voies concernées, au PR 295+600, à Beaune, Sur voie de gauche, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "36e0464ffbe2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T07:35:00",
-    "date_maj": "2026-11-21T07:45:34",
+    "date_publication": "2026-11-21T07:50:00",
+    "date_maj": "2026-11-21T08:01:00",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.77165,
-     47.05651
+     4.83008,
+     47.02744
     ]
    }
   },
@@ -128,8 +128,8 @@
     "evt_id": "a5e37f241a57",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T07:35:00",
-    "date_maj": "2026-11-21T07:45:34",
+    "date_publication": "2026-11-21T07:50:00",
+    "date_maj": "2026-11-21T08:01:00",
     "precision": "commune"
    },
    "geometry": {
