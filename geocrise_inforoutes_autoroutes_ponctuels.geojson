@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-21T08:20:00",
- "date_maj": "2026-11-21T08:30:54",
+ "date_publication": "2026-11-21T08:35:00",
+ "date_maj": "2026-11-21T08:45:39",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T08:20:00",
-    "date_maj": "2026-11-21T08:30:54",
+    "date_publication": "2026-11-21T08:35:00",
+    "date_maj": "2026-11-21T08:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A31",
+    "sens": "nord-sud",
+    "direction": "Luxembourg → Lyon",
+    "pr_debut": "17+900",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Flagey-Echézeaux",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), Impact : voies neutralisées, toutes les voies, au PR 17+900, à Flagey-Echézeaux ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "9d392c9c8116",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-21T08:35:00",
+    "date_maj": "2026-11-21T08:45:39",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98618,
+     47.16079
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "ba2d6f10dbf2",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T08:20:00",
-    "date_maj": "2026-11-21T08:30:54",
+    "date_publication": "2026-11-21T08:35:00",
+    "date_maj": "2026-11-21T08:45:39",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +128,8 @@
     "evt_id": "db8905e89ad3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-21T08:20:00",
-    "date_maj": "2026-11-21T08:30:54",
+    "date_publication": "2026-11-21T08:35:00",
+    "date_maj": "2026-11-21T08:45:39",
     "precision": "communes (début → fin)"
    },
    "geometry": {
@@ -128,8 +162,8 @@
     "evt_id": "a5e37f241a57",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-21T08:20:00",
-    "date_maj": "2026-11-21T08:30:54",
+    "date_publication": "2026-11-21T08:35:00",
+    "date_maj": "2026-11-21T08:45:39",
     "precision": "commune"
    },
    "geometry": {
