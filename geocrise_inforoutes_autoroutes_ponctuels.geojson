@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-22T18:50:00",
- "date_maj": "2026-11-22T19:01:02",
+ "date_publication": "2026-11-22T19:05:00",
+ "date_maj": "2026-11-22T19:15:39",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T18:50:00",
-    "date_maj": "2026-11-22T19:01:02",
+    "date_publication": "2026-11-22T19:05:00",
+    "date_maj": "2026-11-22T19:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A31",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "28+971",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Perrigny-lès-Dijon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal errant - Événement signalé, A31 (deux sens), au PR 28+971, à Perrigny-lès-Dijon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "601e27329054",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-22T19:05:00",
+    "date_maj": "2026-11-22T19:15:39",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02072,
+     47.25659
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T18:50:00",
-    "date_maj": "2026-11-22T19:01:02",
+    "date_publication": "2026-11-22T19:05:00",
+    "date_maj": "2026-11-22T19:15:39",
     "precision": "commune"
    },
    "geometry": {
@@ -76,8 +110,8 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "nord-sud",
@@ -87,15 +121,15 @@
     "longueur_km": 0.1,
     "commune": "Bligny-sur-Ouche",
     "commune_fin": "",
-    "heure_evt": "2026-11-22T18:23:00",
+    "heure_evt": "2026-11-22T18:09:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 18h23, Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, au PR 284+600, à Bligny-sur-Ouche, Sur voie de gauche ; À 18h09, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 284+500 et 284+600 (sur 0,1 km), La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "ef7d68c42031",
+    "texte": "À 18h09, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, entre les PR 284+500 et 284+600 (sur 0,1 km), à Bligny-sur-Ouche, Sur voie de gauche, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a22da03f169a",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T18:50:00",
-    "date_maj": "2026-11-22T19:01:02",
+    "date_publication": "2026-11-22T19:05:00",
+    "date_maj": "2026-11-22T19:15:39",
     "precision": "commune"
    },
    "geometry": {
