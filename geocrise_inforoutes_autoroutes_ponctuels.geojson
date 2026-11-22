@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-22T13:35:00",
- "date_maj": "2026-11-22T13:45:42",
+ "date_publication": "2026-11-22T13:50:00",
+ "date_maj": "2026-11-22T14:00:59",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T13:35:00",
-    "date_maj": "2026-11-22T13:45:42",
+    "date_publication": "2026-11-22T13:50:00",
+    "date_maj": "2026-11-22T14:00:59",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "245+175",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Fontangy",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal errant - Événement signalé, A6 (deux sens), au PR 245+175, à Fontangy ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "537809859cce",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-22T13:50:00",
+    "date_maj": "2026-11-22T14:00:59",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.36053,
+     47.34409
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T13:35:00",
-    "date_maj": "2026-11-22T13:45:42",
+    "date_publication": "2026-11-22T13:50:00",
+    "date_maj": "2026-11-22T14:00:59",
     "precision": "commune"
    },
    "geometry": {
