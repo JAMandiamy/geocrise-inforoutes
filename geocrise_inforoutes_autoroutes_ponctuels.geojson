@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-22T15:05:00",
- "date_maj": "2026-11-22T15:15:54",
+ "date_publication": "2026-11-22T15:20:00",
+ "date_maj": "2026-11-22T15:30:56",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T15:05:00",
-    "date_maj": "2026-11-22T15:15:54",
+    "date_publication": "2026-11-22T15:20:00",
+    "date_maj": "2026-11-22T15:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "a9990efcab7d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T15:05:00",
-    "date_maj": "2026-11-22T15:15:54",
+    "date_publication": "2026-11-22T15:20:00",
+    "date_maj": "2026-11-22T15:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T15:05:00",
-    "date_maj": "2026-11-22T15:15:54",
+    "date_publication": "2026-11-22T15:20:00",
+    "date_maj": "2026-11-22T15:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +103,40 @@
     "coordinates": [
      4.55378,
      47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Inondation",
+    "groupe": "2 - Météo et environnement",
+    "signale": "non",
+    "route": "A39",
+    "sens": "sud-nord",
+    "direction": "Bourg-en-Bresse → Dijon",
+    "pr_debut": "96+100",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Savigny-en-Revermont",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Inondation, A39, de Bourg-en-Bresse vers Dijon (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 96+100, à Savigny-en-Revermont ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "65a5795f3454",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-22T15:20:00",
+    "date_maj": "2026-11-22T15:30:56",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.38979,
+     46.63608
     ]
    }
   },
@@ -128,8 +162,8 @@
     "evt_id": "6137338aea08",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T15:05:00",
-    "date_maj": "2026-11-22T15:15:54",
+    "date_publication": "2026-11-22T15:20:00",
+    "date_maj": "2026-11-22T15:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +196,8 @@
     "evt_id": "9ad8a3d6aa41",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T15:05:00",
-    "date_maj": "2026-11-22T15:15:54",
+    "date_publication": "2026-11-22T15:20:00",
+    "date_maj": "2026-11-22T15:30:56",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +230,8 @@
     "evt_id": "218814345f38",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T15:05:00",
-    "date_maj": "2026-11-22T15:15:54",
+    "date_publication": "2026-11-22T15:20:00",
+    "date_maj": "2026-11-22T15:30:56",
     "precision": "commune"
    },
    "geometry": {
