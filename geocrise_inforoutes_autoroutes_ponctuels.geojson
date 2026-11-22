@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-22T13:50:00",
- "date_maj": "2026-11-22T14:00:59",
+ "date_publication": "2026-11-22T14:05:00",
+ "date_maj": "2026-11-22T14:15:37",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T13:50:00",
-    "date_maj": "2026-11-22T14:00:59",
+    "date_publication": "2026-11-22T14:05:00",
+    "date_maj": "2026-11-22T14:15:37",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "537809859cce",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T13:50:00",
-    "date_maj": "2026-11-22T14:00:59",
+    "date_publication": "2026-11-22T14:05:00",
+    "date_maj": "2026-11-22T14:15:37",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T13:50:00",
-    "date_maj": "2026-11-22T14:00:59",
+    "date_publication": "2026-11-22T14:05:00",
+    "date_maj": "2026-11-22T14:15:37",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +103,74 @@
     "coordinates": [
      4.55378,
      47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "310+800",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Bligny-lès-Beaune",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), au PR 310+800, à Bligny-lès-Beaune ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "3346833f2b02",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-22T14:05:00",
+    "date_maj": "2026-11-22T14:15:37",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82738,
+     46.98387
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Inondation",
+    "groupe": "2 - Météo et environnement",
+    "signale": "non",
+    "route": "A39",
+    "sens": "nord-sud",
+    "direction": "Dijon → Bourg-en-Bresse",
+    "pr_debut": "110+600",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Le Miroir",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Inondation, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 110+600, à Le Miroir ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "5266c740c038",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-22T14:05:00",
+    "date_maj": "2026-11-22T14:15:37",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3331,
+     46.5481
     ]
    }
   }
