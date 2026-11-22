@@ -1,48 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-22T02:05:00",
- "date_maj": "2026-11-22T02:15:36",
- "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "est-ouest",
-    "direction": "Lyon → Paris",
-    "pr_debut": "211+500",
-    "pr_fin": "211+300",
-    "longueur_km": 0.2,
-    "commune": "Sceaux",
-    "commune_fin": "Magny",
-    "heure_evt": "2026-11-22T01:32:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 1h32, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, toutes les voiesImpact : voies neutralisées, toutes les voies, entre les PR 211+500 et 211+300 (sur 0,2 km), de Sceaux à Magny, Sur voie de gauche, La mesure est obligatoire ; À 1h51, Accident, 2 VL, A6, de Lyon vers Paris (sens est-ouest), au PR 211+350, à Sceaux, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4db8935ed97e",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-22T02:05:00",
-    "date_maj": "2026-11-22T02:15:36",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.02102,
-      47.5148
-     ],
-     [
-      3.96625,
-      47.46815
-     ]
-    ]
-   }
-  }
- ]
+ "date_publication": "2026-11-22T02:20:00",
+ "date_maj": "2026-11-22T02:30:54",
+ "features": []
 }
