@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-22T14:05:00",
- "date_maj": "2026-11-22T14:15:37",
+ "date_publication": "2026-11-22T14:20:00",
+ "date_maj": "2026-11-22T14:30:51",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T14:05:00",
-    "date_maj": "2026-11-22T14:15:37",
+    "date_publication": "2026-11-22T14:20:00",
+    "date_maj": "2026-11-22T14:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -44,7 +44,7 @@
     "importance": 2,
     "type_evt": "Animal errant",
     "groupe": "2 - Météo et environnement",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
     "sens": "deux sens",
     "direction": "",
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Animal errant - Événement signalé, A6 (deux sens), au PR 245+175, à Fontangy ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "537809859cce",
+    "texte": "Animal errant, A6 (deux sens), au PR 245+175, à Fontangy ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a9990efcab7d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T14:05:00",
-    "date_maj": "2026-11-22T14:15:37",
+    "date_publication": "2026-11-22T14:20:00",
+    "date_maj": "2026-11-22T14:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T14:05:00",
-    "date_maj": "2026-11-22T14:15:37",
+    "date_publication": "2026-11-22T14:20:00",
+    "date_maj": "2026-11-22T14:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -110,33 +110,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Obstacle",
+    "type_evt": "Chaussée dégradée",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
-    "pr_debut": "310+800",
+    "pr_debut": "364",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Bligny-lès-Beaune",
+    "commune": "Farges-lès-Mâcon",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), au PR 310+800, à Bligny-lès-Beaune ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3346833f2b02",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T14:05:00",
-    "date_maj": "2026-11-22T14:15:37",
+    "texte": "Chaussée dégradée, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 364, à Farges-lès-Mâcon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "9ad8a3d6aa41",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-22T14:20:00",
+    "date_maj": "2026-11-22T14:30:51",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.82738,
-     46.98387
+     4.91184,
+     46.51295
     ]
    }
   },
@@ -144,33 +144,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Inondation",
-    "groupe": "2 - Météo et environnement",
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
     "signale": "non",
-    "route": "A39",
+    "route": "A6",
     "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "110+600",
+    "direction": "Paris → Lyon",
+    "pr_debut": "365+200",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Le Miroir",
+    "commune": "Uchizy",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Inondation, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 110+600, à Le Miroir ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "5266c740c038",
+    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), au PR 365+200, à Uchizy ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "218814345f38",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T14:05:00",
-    "date_maj": "2026-11-22T14:15:37",
+    "date_publication": "2026-11-22T14:20:00",
+    "date_maj": "2026-11-22T14:30:51",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.3331,
-     46.5481
+     4.88867,
+     46.50152
     ]
    }
   }
