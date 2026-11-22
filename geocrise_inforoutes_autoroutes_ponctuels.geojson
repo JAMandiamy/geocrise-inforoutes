@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-22T08:35:00",
- "date_maj": "2026-11-22T08:45:38",
+ "date_publication": "2026-11-22T08:50:00",
+ "date_maj": "2026-11-22T09:01:04",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T08:35:00",
-    "date_maj": "2026-11-22T08:45:38",
+    "date_publication": "2026-11-22T08:50:00",
+    "date_maj": "2026-11-22T09:01:04",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A39",
-    "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "21",
-    "pr_fin": "21+300",
-    "longueur_km": 0.3,
-    "commune": "Soirans",
-    "commune_fin": "",
-    "heure_evt": "2026-11-22T08:29:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 8h29, Véhicule arrêté, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 21, à Soirans, situé sur la bretelle de sortie de l'échangeur, Hors voie de circulation, sur accotement, Sur 0 m ; À 8h30, Réduction du nombre de voies, applicable à tous les véhicules, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), entre les PR 21 et 21+300 (sur 0,3 km), La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "bedd848e1d6e",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T08:35:00",
-    "date_maj": "2026-11-22T08:45:38",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.2987,
-     47.2118
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T08:35:00",
-    "date_maj": "2026-11-22T08:45:38",
+    "date_publication": "2026-11-22T08:50:00",
+    "date_maj": "2026-11-22T09:01:04",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "1a3803d3631e",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T08:35:00",
-    "date_maj": "2026-11-22T08:45:38",
+    "date_publication": "2026-11-22T08:50:00",
+    "date_maj": "2026-11-22T09:01:04",
     "precision": "commune"
    },
    "geometry": {
