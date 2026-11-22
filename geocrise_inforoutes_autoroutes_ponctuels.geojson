@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-22T15:50:00",
- "date_maj": "2026-11-22T16:01:14",
+ "date_publication": "2026-11-22T16:05:00",
+ "date_maj": "2026-11-22T16:15:41",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T15:50:00",
-    "date_maj": "2026-11-22T16:01:14",
+    "date_publication": "2026-11-22T16:05:00",
+    "date_maj": "2026-11-22T16:15:41",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "a9990efcab7d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T15:50:00",
-    "date_maj": "2026-11-22T16:01:14",
+    "date_publication": "2026-11-22T16:05:00",
+    "date_maj": "2026-11-22T16:15:41",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T15:50:00",
-    "date_maj": "2026-11-22T16:01:14",
+    "date_publication": "2026-11-22T16:05:00",
+    "date_maj": "2026-11-22T16:15:41",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "c67a84bf5f6e",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T15:50:00",
-    "date_maj": "2026-11-22T16:01:14",
+    "date_publication": "2026-11-22T16:05:00",
+    "date_maj": "2026-11-22T16:15:41",
     "precision": "commune"
    },
    "geometry": {
@@ -137,74 +137,6 @@
     "coordinates": [
      5.28795,
      46.50146
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "359+500",
-    "pr_fin": "359+200",
-    "longueur_km": 0.3,
-    "commune": "Tournus",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernée, au PR 359+200, à Tournus, Sur bande d'arrêt d'urgence ; Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 359+500 et 359+200 (sur 0,3 km), Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "6137338aea08",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T15:50:00",
-    "date_maj": "2026-11-22T16:01:14",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.89504,
-     46.56883
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Chaussée dégradée",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "364",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Farges-lès-Mâcon",
-    "commune_fin": "",
-    "heure_evt": "2026-11-22T14:16:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 14h16, Chaussée dégradée, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 364, à Farges-lès-Mâcon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "2c53d8dc7ff1",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T15:50:00",
-    "date_maj": "2026-11-22T16:01:14",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.91184,
-     46.51295
     ]
    }
   },
@@ -230,8 +162,8 @@
     "evt_id": "218814345f38",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T15:50:00",
-    "date_maj": "2026-11-22T16:01:14",
+    "date_publication": "2026-11-22T16:05:00",
+    "date_maj": "2026-11-22T16:15:41",
     "precision": "commune"
    },
    "geometry": {
@@ -239,40 +171,6 @@
     "coordinates": [
      4.88867,
      46.50152
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A19",
-    "sens": "sud-nord",
-    "direction": "Orléans (A10) → Sens (A5)",
-    "pr_debut": "20+500",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Villeneuve-la-Dondagre",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A19, de Orléans (A10) vers Sens (A5) (sens sud-nord), au PR 20+500, à Villeneuve-la-Dondagre, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4c826229cd62",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-22T15:50:00",
-    "date_maj": "2026-11-22T16:01:14",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.13825,
-     48.13831
     ]
    }
   }
