@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-22T16:05:00",
- "date_maj": "2026-11-22T16:15:41",
+ "date_publication": "2026-11-22T16:20:00",
+ "date_maj": "2026-11-22T16:31:10",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T16:05:00",
-    "date_maj": "2026-11-22T16:15:41",
+    "date_publication": "2026-11-22T16:20:00",
+    "date_maj": "2026-11-22T16:31:10",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "a9990efcab7d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T16:05:00",
-    "date_maj": "2026-11-22T16:15:41",
+    "date_publication": "2026-11-22T16:20:00",
+    "date_maj": "2026-11-22T16:31:10",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T16:05:00",
-    "date_maj": "2026-11-22T16:15:41",
+    "date_publication": "2026-11-22T16:20:00",
+    "date_maj": "2026-11-22T16:31:10",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +103,40 @@
     "coordinates": [
      4.55378,
      47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "295+900",
+    "pr_fin": "295+589",
+    "longueur_km": 0.4,
+    "commune": "Beaune",
+    "commune_fin": "",
+    "heure_evt": "2026-11-22T16:16:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 16h16, Accident, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 2 voies concernéesImpact : voies neutralisées, 2 voies concernées, au PR 295+589, à Beaune, Sur voie de gauche, sur voie de droite ; À 16h18, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 295+900 et 295+589 (sur 0,4 km), La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "094e2307a603",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-22T16:20:00",
+    "date_maj": "2026-11-22T16:31:10",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83008,
+     47.02744
     ]
    }
   },
@@ -128,8 +162,8 @@
     "evt_id": "c67a84bf5f6e",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T16:05:00",
-    "date_maj": "2026-11-22T16:15:41",
+    "date_publication": "2026-11-22T16:20:00",
+    "date_maj": "2026-11-22T16:31:10",
     "precision": "commune"
    },
    "geometry": {
@@ -137,40 +171,6 @@
     "coordinates": [
      5.28795,
      46.50146
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "365+200",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Uchizy",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), au PR 365+200, à Uchizy ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "218814345f38",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T16:05:00",
-    "date_maj": "2026-11-22T16:15:41",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.88867,
-     46.50152
     ]
    }
   }
