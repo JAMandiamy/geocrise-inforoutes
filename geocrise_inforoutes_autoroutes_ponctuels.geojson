@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-22T21:35:00",
- "date_maj": "2026-11-22T21:45:35",
+ "date_publication": "2026-11-22T21:50:00",
+ "date_maj": "2026-11-22T22:01:01",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T21:35:00",
-    "date_maj": "2026-11-22T21:45:35",
+    "date_publication": "2026-11-22T21:50:00",
+    "date_maj": "2026-11-22T22:01:01",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T21:35:00",
-    "date_maj": "2026-11-22T21:45:35",
+    "date_publication": "2026-11-22T21:50:00",
+    "date_maj": "2026-11-22T22:01:01",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      4.55378,
      47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
+    "signale": "non",
+    "route": "A6",
+    "sens": "est-ouest",
+    "direction": "Lyon → Paris",
+    "pr_debut": "136+800",
+    "pr_fin": "136+500",
+    "longueur_km": 0.3,
+    "commune": "Senan",
+    "commune_fin": "",
+    "heure_evt": "2026-11-22T21:48:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 21h48, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernéeImpact : voies rétrécies, 1 voie concernée, entre les PR 136+800 et 136+500 (sur 0,3 km), à Senan, Sur voie de gauche, La mesure est obligatoire ; À 21h50, Accident, 1 VL, A6, de Lyon vers Paris (sens est-ouest), au PR 136+500 ; Obstacle, A6, de Paris vers Lyon (sens ouest-est), au PR 136+500 ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "7dbe28a4d8d9",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-22T21:50:00",
+    "date_maj": "2026-11-22T22:01:01",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.36699,
+     47.91877
     ]
    }
   }
