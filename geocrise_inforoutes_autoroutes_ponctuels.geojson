@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-22T04:35:00",
- "date_maj": "2026-11-22T04:45:37",
+ "date_publication": "2026-11-22T04:50:00",
+ "date_maj": "2026-11-22T05:01:02",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T04:35:00",
-    "date_maj": "2026-11-22T04:45:37",
+    "date_publication": "2026-11-22T04:50:00",
+    "date_maj": "2026-11-22T05:01:02",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-22T04:35:00",
-    "date_maj": "2026-11-22T04:45:37",
+    "date_publication": "2026-11-22T04:50:00",
+    "date_maj": "2026-11-22T05:01:02",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "1a3803d3631e",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-22T04:35:00",
-    "date_maj": "2026-11-22T04:45:37",
+    "date_publication": "2026-11-22T04:50:00",
+    "date_maj": "2026-11-22T05:01:02",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +103,40 @@
     "coordinates": [
      4.83514,
      46.36224
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "396+250",
+    "pr_fin": "396",
+    "longueur_km": 0.3,
+    "commune": "Crêches-sur-Saône",
+    "commune_fin": "",
+    "heure_evt": "2026-11-22T04:41:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 4h41, Accident, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, au PR 396, à Crêches-sur-Saône, Sur voie de gauche ; À 4h49, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 396+250 et 396 (sur 0,3 km), La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "adb70b9551a5",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-22T04:50:00",
+    "date_maj": "2026-11-22T05:01:02",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.78705,
+     46.23918
     ]
    }
   }
