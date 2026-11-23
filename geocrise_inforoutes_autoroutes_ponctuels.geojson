@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-23T19:50:00",
- "date_maj": "2026-11-23T20:15:52",
+ "date_publication": "2026-11-23T20:20:00",
+ "date_maj": "2026-11-23T20:30:58",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T19:50:00",
-    "date_maj": "2026-11-23T20:15:52",
+    "date_publication": "2026-11-23T20:20:00",
+    "date_maj": "2026-11-23T20:30:58",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T19:50:00",
-    "date_maj": "2026-11-23T20:15:52",
+    "date_publication": "2026-11-23T20:20:00",
+    "date_maj": "2026-11-23T20:30:58",
     "precision": "commune"
    },
    "geometry": {
@@ -82,20 +82,20 @@
     "route": "A6",
     "sens": "sud-nord",
     "direction": "Lyon → Paris",
-    "pr_debut": "268+100",
-    "pr_fin": "",
-    "longueur_km": "",
+    "pr_debut": "268+300",
+    "pr_fin": "267+900",
+    "longueur_km": 0.4,
     "commune": "Maconge",
     "commune_fin": "",
-    "heure_evt": "2026-11-23T19:47:00",
+    "heure_evt": "2026-11-23T20:01:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 19h47, Obstacle, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, toutes les voiesImpact : voies neutralisées, toutes les voiesImpact : voies neutralisées, toutes les voies, au PR 268+100, à Maconge, Sur bande d'arrêt d'urgence ; À 19h48, Accident, 1 VL, avec PL, au PR 268+100 ; À 19h49, Réduction du nombre de voies, applicable à tous les véhicules, au PR 268+100, Sur voie de gauche, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "60fd67ac9963",
+    "texte": "À 20h01, Obstacle, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, toutes les voiesImpact : voies neutralisées, toutes les voiesImpact : voies neutralisées, toutes les voiesImpact : voies neutralisées, toutes les voies, au PR 268+100, à Maconge, Sur bande d'arrêt d'urgence ; À 20h15, Accident, 1 PL, 4 VL, au PR 268+100 ; À 20h05, Produit sur chaussée (liquide), au PR 268+100 ; À 20h15, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 268+300 et 267+900 (sur 0,4 km), Sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "08f78001c598",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T19:50:00",
-    "date_maj": "2026-11-23T20:15:52",
+    "date_publication": "2026-11-23T20:20:00",
+    "date_maj": "2026-11-23T20:30:58",
     "precision": "commune"
    },
    "geometry": {
@@ -103,40 +103,6 @@
     "coordinates": [
      4.57939,
      47.22581
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A31",
-    "sens": "nord-sud",
-    "direction": "Luxembourg → Lyon",
-    "pr_debut": "27",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Gevrey-Chambertin",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A31, de Luxembourg vers Lyon (sens nord-sud), au PR 27, à Gevrey-Chambertin, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f3988bfa66ad",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T19:50:00",
-    "date_maj": "2026-11-23T20:15:52",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.97006,
-     47.21847
     ]
    }
   },
@@ -162,8 +128,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-23T19:50:00",
-    "date_maj": "2026-11-23T20:15:52",
+    "date_publication": "2026-11-23T20:20:00",
+    "date_maj": "2026-11-23T20:30:58",
     "precision": "commune"
    },
    "geometry": {
@@ -171,6 +137,40 @@
     "coordinates": [
      4.77446,
      46.8503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A5",
+    "sens": "ouest-est",
+    "direction": "Paris → Dijon",
+    "pr_debut": "88+63",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Bagneaux",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A5, de Paris vers Dijon (sens ouest-est), Impact : voies rétrécies, toutes les voies, au PR 88+63, à Bagneaux, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "403a57c838cf",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-23T20:20:00",
+    "date_maj": "2026-11-23T20:30:58",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.59578,
+     48.25163
     ]
    }
   }
