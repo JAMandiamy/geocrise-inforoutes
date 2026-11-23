@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-23T18:20:00",
- "date_maj": "2026-11-23T18:31:07",
+ "date_publication": "2026-11-23T18:35:00",
+ "date_maj": "2026-11-23T18:45:52",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T18:20:00",
-    "date_maj": "2026-11-23T18:31:07",
+    "date_publication": "2026-11-23T18:35:00",
+    "date_maj": "2026-11-23T18:45:52",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T18:20:00",
-    "date_maj": "2026-11-23T18:31:07",
+    "date_publication": "2026-11-23T18:35:00",
+    "date_maj": "2026-11-23T18:45:52",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      4.55378,
      47.26349
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "274+540",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Bouhey",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Animal errant - Événement signalé, A6 (deux sens), Impact : voies neutralisées, 2 voies concernées, au PR 274+540, à Bouhey ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "9e32ea0c824c",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T18:20:00",
-    "date_maj": "2026-11-23T18:31:07",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.67545,
-     47.20107
     ]
    }
   },
@@ -121,15 +87,15 @@
     "longueur_km": "",
     "commune": "Bouze-lès-Beaune",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-11-23T18:22:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 PL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, au PR 295+100, à Bouze-lès-Beaune, Sur voie de gauche ; À 16h06, Produit sur chaussée (liquide), au PR 295+100 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e7886f5b9914",
+    "texte": "À 18h22, Accident, 1 PL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, au PR 295+100, à Bouze-lès-Beaune, Sur voie de gauche ; À 16h06, Produit sur chaussée (liquide), au PR 295+100 ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "dad4623d9224",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T18:20:00",
-    "date_maj": "2026-11-23T18:31:07",
+    "date_publication": "2026-11-23T18:35:00",
+    "date_maj": "2026-11-23T18:45:52",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-23T18:20:00",
-    "date_maj": "2026-11-23T18:31:07",
+    "date_publication": "2026-11-23T18:35:00",
+    "date_maj": "2026-11-23T18:45:52",
     "precision": "commune"
    },
    "geometry": {
