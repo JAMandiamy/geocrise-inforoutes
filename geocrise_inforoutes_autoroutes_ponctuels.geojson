@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-23T09:35:00",
- "date_maj": "2026-11-23T09:45:40",
+ "date_publication": "2026-11-23T09:50:00",
+ "date_maj": "2026-11-23T10:01:12",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T09:35:00",
-    "date_maj": "2026-11-23T09:45:40",
+    "date_publication": "2026-11-23T09:50:00",
+    "date_maj": "2026-11-23T10:01:12",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T09:35:00",
-    "date_maj": "2026-11-23T09:45:40",
+    "date_publication": "2026-11-23T09:50:00",
+    "date_maj": "2026-11-23T10:01:12",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,74 @@
     "coordinates": [
      4.55378,
      47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "277",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Crugey",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), au PR 277, à Crugey ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "00fc4581f9e9",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-23T09:50:00",
+    "date_maj": "2026-11-23T10:01:12",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.6795,
+     47.1811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 3,
+    "type_evt": "Route fermée",
+    "groupe": "3 - Fermetures et déviations",
+    "signale": "non",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "322+900",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Fontaines",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Route fermée, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), au PR 322+900, à Fontaines, situé sur une Aire de service, Hors voie de circulation, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f544c83d618d",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-23T09:50:00",
+    "date_maj": "2026-11-23T10:01:12",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.77446,
+     46.8503
     ]
    }
   }
