@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-24T00:05:00",
- "date_maj": "2026-11-24T00:15:35",
+ "date_publication": "2026-11-24T00:20:00",
+ "date_maj": "2026-11-24T00:30:51",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T00:05:00",
-    "date_maj": "2026-11-24T00:15:35",
+    "date_publication": "2026-11-24T00:20:00",
+    "date_maj": "2026-11-24T00:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T00:05:00",
-    "date_maj": "2026-11-24T00:15:35",
+    "date_publication": "2026-11-24T00:20:00",
+    "date_maj": "2026-11-24T00:30:51",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      4.55378,
      47.26349
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "274",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Châteauneuf",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 274, à Châteauneuf ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3b62214ee2fc",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T00:05:00",
-    "date_maj": "2026-11-24T00:15:35",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.6472,
-     47.21755
     ]
    }
   },
@@ -128,8 +94,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-24T00:05:00",
-    "date_maj": "2026-11-24T00:15:35",
+    "date_publication": "2026-11-24T00:20:00",
+    "date_maj": "2026-11-24T00:30:51",
     "precision": "commune"
    },
    "geometry": {
