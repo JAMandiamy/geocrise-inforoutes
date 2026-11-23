@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-23T13:50:00",
- "date_maj": "2026-11-23T14:02:23",
+ "date_publication": "2026-11-23T14:05:00",
+ "date_maj": "2026-11-23T14:16:40",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T13:50:00",
-    "date_maj": "2026-11-23T14:02:23",
+    "date_publication": "2026-11-23T14:05:00",
+    "date_maj": "2026-11-23T14:16:40",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "sud-nord",
+    "direction": "Lyon → Luxembourg",
+    "pr_debut": "14",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Agencourt",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A31, de Lyon vers Luxembourg (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 14, à Agencourt ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "cc4d1709eaaa",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-23T14:05:00",
+    "date_maj": "2026-11-23T14:16:40",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98935,
+     47.12521
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T13:50:00",
-    "date_maj": "2026-11-23T14:02:23",
+    "date_publication": "2026-11-23T14:05:00",
+    "date_maj": "2026-11-23T14:16:40",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +103,6 @@
     "coordinates": [
      4.55378,
      47.26349
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "260",
-    "pr_fin": "262",
-    "longueur_km": 2.0,
-    "commune": "Chailly-sur-Armançon",
-    "commune_fin": "Thoisy-le-Désert",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, entre les PR 260 et 262 (sur 2,0 km), de Chailly-sur-Armançon à Thoisy-le-Désert ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "728fa2e6919c",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-23T13:50:00",
-    "date_maj": "2026-11-23T14:02:23",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.499890000000001,
-     47.26005
     ]
    }
   },
@@ -128,8 +128,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-23T13:50:00",
-    "date_maj": "2026-11-23T14:02:23",
+    "date_publication": "2026-11-23T14:05:00",
+    "date_maj": "2026-11-23T14:16:40",
     "precision": "commune"
    },
    "geometry": {
