@@ -1,7 +1,48 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-23T13:20:00",
- "date_maj": "2026-11-23T13:30:55",
- "features": []
+ "date_publication": "2026-11-23T13:35:00",
+ "date_maj": "2026-11-23T13:45:36",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "260",
+    "pr_fin": "262",
+    "longueur_km": 2.0,
+    "commune": "Chailly-sur-Armançon",
+    "commune_fin": "Thoisy-le-Désert",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, entre les PR 260 et 262 (sur 2,0 km), de Chailly-sur-Armançon à Thoisy-le-Désert ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "728fa2e6919c",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-23T13:35:00",
+    "date_maj": "2026-11-23T13:45:36",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4783,
+      47.27011
+     ],
+     [
+      4.52148,
+      47.24999
+     ]
+    ]
+   }
+  }
+ ]
 }
