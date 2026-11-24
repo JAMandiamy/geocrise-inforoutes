@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-24T09:35:00",
- "date_maj": "2026-11-24T09:45:38",
+ "date_publication": "2026-11-24T09:50:00",
+ "date_maj": "2026-11-24T10:01:16",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T09:35:00",
-    "date_maj": "2026-11-24T09:45:38",
+    "date_publication": "2026-11-24T09:50:00",
+    "date_maj": "2026-11-24T10:01:16",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T09:35:00",
-    "date_maj": "2026-11-24T09:45:38",
+    "date_publication": "2026-11-24T09:50:00",
+    "date_maj": "2026-11-24T10:01:16",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-24T09:35:00",
-    "date_maj": "2026-11-24T09:45:38",
+    "date_publication": "2026-11-24T09:50:00",
+    "date_maj": "2026-11-24T10:01:16",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "94f18ff0b1a8",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-24T09:35:00",
-    "date_maj": "2026-11-24T09:45:38",
+    "date_publication": "2026-11-24T09:50:00",
+    "date_maj": "2026-11-24T10:01:16",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +162,8 @@
     "evt_id": "8e6262671207",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-24T09:35:00",
-    "date_maj": "2026-11-24T09:45:38",
+    "date_publication": "2026-11-24T09:50:00",
+    "date_maj": "2026-11-24T10:01:16",
     "precision": "commune"
    },
    "geometry": {
@@ -192,12 +192,12 @@
     "heure_evt": "2026-11-24T08:23:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 8h23, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens ouest-est), Impact : voies neutralisées, toutes les voiesImpact : voies neutralisées, toutes les voies, entre les PR 176+700 et 177+100 (sur 0,4 km), à Saint-Cyr-les-Colons, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; À 9h31, Accident, avec PL, 1 VL, A6, de Paris vers Lyon (sens ouest-est), au PR 177 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "20f9dc3cfd32",
+    "texte": "À 8h23, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens ouest-est), Impact : voies neutralisées, toutes les voiesImpact : voies neutralisées, toutes les voies, entre les PR 176+700 et 177+100 (sur 0,4 km), à Saint-Cyr-les-Colons, Sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; À 9h40, Accident, 1 VL, avec PL, A6, de Paris vers Lyon (sens ouest-est), au PR 177 ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "b44721937d29",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-24T09:35:00",
-    "date_maj": "2026-11-24T09:45:38",
+    "date_publication": "2026-11-24T09:50:00",
+    "date_maj": "2026-11-24T10:01:16",
     "precision": "commune"
    },
    "geometry": {
