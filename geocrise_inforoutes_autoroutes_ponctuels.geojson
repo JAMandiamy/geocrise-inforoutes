@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-24T17:35:00",
- "date_maj": "2026-11-24T17:46:02",
+ "date_publication": "2026-11-24T17:50:00",
+ "date_maj": "2026-11-24T18:00:58",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T17:35:00",
-    "date_maj": "2026-11-24T17:46:02",
+    "date_publication": "2026-11-24T17:50:00",
+    "date_maj": "2026-11-24T18:00:58",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "227+732",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Forléans",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal errant - Événement signalé, A6 (deux sens), au PR 227+732, à Forléans ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "1f12fe123e2e",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-24T17:50:00",
+    "date_maj": "2026-11-24T18:00:58",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.20558,
+     47.4697
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T17:35:00",
-    "date_maj": "2026-11-24T17:46:02",
+    "date_publication": "2026-11-24T17:50:00",
+    "date_maj": "2026-11-24T18:00:58",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +128,8 @@
     "evt_id": "f213c678edb3",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T17:35:00",
-    "date_maj": "2026-11-24T17:46:02",
+    "date_publication": "2026-11-24T17:50:00",
+    "date_maj": "2026-11-24T18:00:58",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +162,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-24T17:35:00",
-    "date_maj": "2026-11-24T17:46:02",
+    "date_publication": "2026-11-24T17:50:00",
+    "date_maj": "2026-11-24T18:00:58",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +171,40 @@
     "coordinates": [
      4.77446,
      46.8503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "316+200",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Demigny",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 316+200, à Demigny, Sur voie de gauche, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "55f705e52d96",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-24T17:50:00",
+    "date_maj": "2026-11-24T18:00:58",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85392,
+     46.91382
     ]
    }
   }
