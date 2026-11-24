@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-24T21:50:00",
- "date_maj": "2026-11-24T22:15:46",
+ "date_publication": "2026-11-24T22:20:00",
+ "date_maj": "2026-11-24T22:30:54",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T21:50:00",
-    "date_maj": "2026-11-24T22:15:46",
+    "date_publication": "2026-11-24T22:20:00",
+    "date_maj": "2026-11-24T22:30:54",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T21:50:00",
-    "date_maj": "2026-11-24T22:15:46",
+    "date_publication": "2026-11-24T22:20:00",
+    "date_maj": "2026-11-24T22:30:54",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-24T21:50:00",
-    "date_maj": "2026-11-24T22:15:46",
+    "date_publication": "2026-11-24T22:20:00",
+    "date_maj": "2026-11-24T22:30:54",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "224d6b3f5d1a",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-24T21:50:00",
-    "date_maj": "2026-11-24T22:15:46",
+    "date_publication": "2026-11-24T22:20:00",
+    "date_maj": "2026-11-24T22:30:54",
     "precision": "commune"
    },
    "geometry": {
@@ -144,33 +144,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
+    "signale": "non",
     "route": "A6",
     "sens": "est-ouest",
     "direction": "Lyon → Paris",
-    "pr_debut": "119",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Saint-Loup-d'Ordon",
+    "pr_debut": "120+100",
+    "pr_fin": "119+800",
+    "longueur_km": 0.3,
+    "commune": "Cudot",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-11-24T22:13:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, toutes les voies, au PR 119, à Saint-Loup-d'Ordon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "0f2fa005a461",
+    "texte": "À 22h13, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, toutes les voiesImpact : voies neutralisées, toutes les voies, entre les PR 120+100 et 119+800 (sur 0,3 km), à Cudot, Sur la voie du milieu, sur voie de droite, sur bande d'arrêt d'urgence, La mesure est obligatoire ; À 22h14, Accident, 2 VL, A6, de Lyon vers Paris (sens est-ouest), au PR 119+800 ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a56091376dcb",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-24T21:50:00",
-    "date_maj": "2026-11-24T22:15:46",
+    "date_publication": "2026-11-24T22:20:00",
+    "date_maj": "2026-11-24T22:30:54",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.14955,
-     48.00995
+     3.16747,
+     47.98066
     ]
    }
   }
