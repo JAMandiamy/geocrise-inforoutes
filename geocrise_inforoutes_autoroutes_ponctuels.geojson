@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-24T06:35:00",
- "date_maj": "2026-11-24T06:45:36",
+ "date_publication": "2026-11-24T06:50:00",
+ "date_maj": "2026-11-24T07:00:58",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T06:35:00",
-    "date_maj": "2026-11-24T06:45:36",
+    "date_publication": "2026-11-24T06:50:00",
+    "date_maj": "2026-11-24T07:00:58",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T06:35:00",
-    "date_maj": "2026-11-24T06:45:36",
+    "date_publication": "2026-11-24T06:50:00",
+    "date_maj": "2026-11-24T07:00:58",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-24T06:35:00",
-    "date_maj": "2026-11-24T06:45:36",
+    "date_publication": "2026-11-24T06:50:00",
+    "date_maj": "2026-11-24T07:00:58",
     "precision": "commune"
    },
    "geometry": {
@@ -124,12 +124,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, avec PL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 2 voies concernées, au PR 329+300, à Châtenoy-le-Royal, Sur la voie du milieu ; Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 329+100 et 329+300 (sur 0,2 km), Sur la voie du milieu, sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "c0a601a3ee21",
+    "texte": "Accident, avec PL, 1 VL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 2 voies concernées, au PR 329+300, à Châtenoy-le-Royal, Sur la voie du milieu ; Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 329+100 et 329+300 (sur 0,2 km), Sur la voie du milieu, sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "94f18ff0b1a8",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-24T06:35:00",
-    "date_maj": "2026-11-24T06:45:36",
+    "date_publication": "2026-11-24T06:50:00",
+    "date_maj": "2026-11-24T07:00:58",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +137,40 @@
     "coordinates": [
      4.81066,
      46.78994
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "338",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Sevrey",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 338, à Sevrey ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a7b4e66b78a9",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-24T06:50:00",
+    "date_maj": "2026-11-24T07:00:58",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83164,
+     46.73669
     ]
    }
   }
