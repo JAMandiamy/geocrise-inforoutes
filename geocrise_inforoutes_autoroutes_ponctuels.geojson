@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-24T03:20:00",
- "date_maj": "2026-11-24T03:30:53",
+ "date_publication": "2026-11-24T03:35:00",
+ "date_maj": "2026-11-24T03:45:34",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T03:20:00",
-    "date_maj": "2026-11-24T03:30:53",
+    "date_publication": "2026-11-24T03:35:00",
+    "date_maj": "2026-11-24T03:45:34",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
-    "signale": "non",
-    "route": "A39",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "2+710",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Sennecey-lès-Dijon",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Animal errant, A39 (deux sens), au PR 2+710, à Sennecey-lès-Dijon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "5c1344c50a25",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T03:20:00",
-    "date_maj": "2026-11-24T03:30:53",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.10504,
-     47.29184
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-24T03:20:00",
-    "date_maj": "2026-11-24T03:30:53",
+    "date_publication": "2026-11-24T03:35:00",
+    "date_maj": "2026-11-24T03:45:34",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-24T03:20:00",
-    "date_maj": "2026-11-24T03:30:53",
+    "date_publication": "2026-11-24T03:35:00",
+    "date_maj": "2026-11-24T03:45:34",
     "precision": "commune"
    },
    "geometry": {
