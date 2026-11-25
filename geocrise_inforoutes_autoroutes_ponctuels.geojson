@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-25T11:50:00",
- "date_maj": "2026-11-25T12:01:09",
+ "date_publication": "2026-11-25T12:05:00",
+ "date_maj": "2026-11-25T12:15:46",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T11:50:00",
-    "date_maj": "2026-11-25T12:01:09",
+    "date_publication": "2026-11-25T12:05:00",
+    "date_maj": "2026-11-25T12:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T11:50:00",
-    "date_maj": "2026-11-25T12:01:09",
+    "date_publication": "2026-11-25T12:05:00",
+    "date_maj": "2026-11-25T12:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-25T11:50:00",
-    "date_maj": "2026-11-25T12:01:09",
+    "date_publication": "2026-11-25T12:05:00",
+    "date_maj": "2026-11-25T12:15:46",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +103,40 @@
     "coordinates": [
      4.77446,
      46.8503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - PL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A19",
+    "sens": "est-ouest",
+    "direction": "Sens (A5) → Orléans (A10)",
+    "pr_debut": "29+850",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Savigny-sur-Clairis",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA Cofiroute",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - PL, A19, de Sens (A5) vers Orléans (A10) (sens est-ouest), au PR 29+850, à Savigny-sur-Clairis, situé sur bretelle de l'échangeur, Sur bande d'arrêt d'urgence ; [Origine : SCA Cofiroute]",
+    "evt_id": "cafffbc6f113",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-25T12:05:00",
+    "date_maj": "2026-11-25T12:15:46",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.0804,
+     48.07721
     ]
    }
   }
