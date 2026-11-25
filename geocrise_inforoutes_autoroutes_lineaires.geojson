@@ -1,7 +1,48 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-25T15:35:00",
- "date_maj": "2026-11-25T16:01:16",
- "features": []
+ "date_publication": "2026-11-25T16:05:00",
+ "date_maj": "2026-11-25T16:16:00",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "est-ouest",
+    "direction": "Lyon → Paris",
+    "pr_debut": "215",
+    "pr_fin": "214",
+    "longueur_km": 1.0,
+    "commune": "Cisery",
+    "commune_fin": "Saint-André-en-Terre-Plaine",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), Impact : voies neutralisées, toutes les voies, entre les PR 215 et 214 (sur 1,0 km), de Cisery à Saint-André-en-Terre-Plaine ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "efae226245f8",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-25T16:05:00",
+    "date_maj": "2026-11-25T16:16:00",
+    "precision": "communes (début → fin)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.07105,
+      47.51498
+     ],
+     [
+      4.04869,
+      47.48408
+     ]
+    ]
+   }
+  }
+ ]
 }
