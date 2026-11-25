@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-25T13:50:00",
- "date_maj": "2026-11-25T14:02:42",
+ "date_publication": "2026-11-25T14:05:00",
+ "date_maj": "2026-11-25T14:15:40",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T13:50:00",
-    "date_maj": "2026-11-25T14:02:42",
+    "date_publication": "2026-11-25T14:05:00",
+    "date_maj": "2026-11-25T14:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A311",
-    "sens": "sud-nord",
-    "direction": "Perrigny-les-Dijon (A31) → Dijon (N274)",
-    "pr_debut": "28+300",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Perrigny-lès-Dijon",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 1 VL, A311, de Perrigny-les-Dijon (A31) vers Dijon (N274) (sens sud-nord), Impact : voies neutralisées, 1 voie concernée, au PR 28+300, à Perrigny-lès-Dijon, Sur voie de droite ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "23abdc8aaee5",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T13:50:00",
-    "date_maj": "2026-11-25T14:02:42",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.02072,
-     47.25659
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T13:50:00",
-    "date_maj": "2026-11-25T14:02:42",
+    "date_publication": "2026-11-25T14:05:00",
+    "date_maj": "2026-11-25T14:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "3ca56ed3c798",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T13:50:00",
-    "date_maj": "2026-11-25T14:02:42",
+    "date_publication": "2026-11-25T14:05:00",
+    "date_maj": "2026-11-25T14:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -162,8 +128,8 @@
     "evt_id": "f544c83d618d",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-25T13:50:00",
-    "date_maj": "2026-11-25T14:02:42",
+    "date_publication": "2026-11-25T14:05:00",
+    "date_maj": "2026-11-25T14:15:40",
     "precision": "commune"
    },
    "geometry": {
@@ -171,6 +137,40 @@
     "coordinates": [
      4.77446,
      46.8503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Accident",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "177+800",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Saint-Cyr-les-Colons",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Accident, A6, de Paris vers Lyon (sens ouest-est), au PR 177+800, à Saint-Cyr-les-Colons, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "bfd6ee304028",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-25T14:05:00",
+    "date_maj": "2026-11-25T14:15:40",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.7738,
+     47.72967
     ]
    }
   }
