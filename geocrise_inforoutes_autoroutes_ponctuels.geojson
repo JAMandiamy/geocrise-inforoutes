@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-25T14:50:00",
- "date_maj": "2026-11-25T15:01:16",
+ "date_publication": "2026-11-25T15:05:00",
+ "date_maj": "2026-11-25T15:15:47",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T14:50:00",
-    "date_maj": "2026-11-25T15:01:16",
+    "date_publication": "2026-11-25T15:05:00",
+    "date_maj": "2026-11-25T15:15:47",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T14:50:00",
-    "date_maj": "2026-11-25T15:01:16",
+    "date_publication": "2026-11-25T15:05:00",
+    "date_maj": "2026-11-25T15:15:47",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "3ca56ed3c798",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T14:50:00",
-    "date_maj": "2026-11-25T15:01:16",
+    "date_publication": "2026-11-25T15:05:00",
+    "date_maj": "2026-11-25T15:15:47",
     "precision": "commune"
    },
    "geometry": {
@@ -110,33 +110,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
+    "type_evt": "Obstacle",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
+    "signale": "oui",
     "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "177+800",
+    "sens": "est-ouest",
+    "direction": "Lyon → Paris",
+    "pr_debut": "205",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Saint-Cyr-les-Colons",
+    "commune": "Provency",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Accident, 1 VL, A6, de Paris vers Lyon (sens ouest-est), au PR 177+800, à Saint-Cyr-les-Colons, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3d59d2c7c985",
+    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens est-ouest), au PR 205, à Provency ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "5e1d5ab27cbe",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-25T14:50:00",
-    "date_maj": "2026-11-25T15:01:16",
+    "date_publication": "2026-11-25T15:05:00",
+    "date_maj": "2026-11-25T15:15:47",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.7738,
-     47.72967
+     3.95514,
+     47.53982
     ]
    }
   }
