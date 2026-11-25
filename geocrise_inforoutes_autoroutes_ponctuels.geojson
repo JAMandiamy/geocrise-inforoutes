@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-25T18:35:00",
- "date_maj": "2026-11-25T18:45:38",
+ "date_publication": "2026-11-25T18:50:00",
+ "date_maj": "2026-11-25T19:01:10",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T18:35:00",
-    "date_maj": "2026-11-25T18:45:38",
+    "date_publication": "2026-11-25T18:50:00",
+    "date_maj": "2026-11-25T19:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T18:35:00",
-    "date_maj": "2026-11-25T18:45:38",
+    "date_publication": "2026-11-25T18:50:00",
+    "date_maj": "2026-11-25T19:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "6389e40d5c47",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T18:35:00",
-    "date_maj": "2026-11-25T18:45:38",
+    "date_publication": "2026-11-25T18:50:00",
+    "date_maj": "2026-11-25T19:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -103,74 +103,6 @@
     "coordinates": [
      5.19545,
      47.5234
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Produit sur chaussée(Route rendue glissante)",
-    "groupe": "2 - Météo et environnement",
-    "signale": "oui",
-    "route": "A39",
-    "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "15+200",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Beire-le-Fort",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Produit sur chaussée(Route rendue glissante) - Événement signalé, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 15+200, à Beire-le-Fort, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "3ca56ed3c798",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-25T18:35:00",
-    "date_maj": "2026-11-25T18:45:38",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.26353,
-     47.23776
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "322+900",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Fontaines",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Accident, 1 deux-roues, A6, de Lyon vers Paris (sens sud-nord), au PR 322+900, à Fontaines, situé sur une Aire de service, Hors voie de circulation ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e80a6ae5dd03",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-25T18:35:00",
-    "date_maj": "2026-11-25T18:45:38",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.77446,
-     46.8503
     ]
    }
   }
