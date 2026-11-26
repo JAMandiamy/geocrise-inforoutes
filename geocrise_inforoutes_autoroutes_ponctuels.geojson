@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-26T12:35:00",
- "date_maj": "2026-11-26T12:45:41",
+ "date_publication": "2026-11-26T12:50:00",
+ "date_maj": "2026-11-26T13:01:14",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:35:00",
-    "date_maj": "2026-11-26T12:45:41",
+    "date_publication": "2026-11-26T12:50:00",
+    "date_maj": "2026-11-26T13:01:14",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
-    "pr_debut": "22+300",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Gilly-lès-Cîteaux",
-    "commune_fin": "",
-    "heure_evt": "2026-11-26T12:15:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 12h15, Obstacle, A31, de Lyon vers Luxembourg (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 22+300, à Gilly-lès-Cîteaux ; À 12h18, Véhicule arrêté - PL, au PR 22+700, à Morey-Saint-Denis, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e5d820c56251",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:35:00",
-    "date_maj": "2026-11-26T12:45:41",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.99316,
-     47.17507
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "5a6d1d27223d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:35:00",
-    "date_maj": "2026-11-26T12:45:41",
+    "date_publication": "2026-11-26T12:50:00",
+    "date_maj": "2026-11-26T13:01:14",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:35:00",
-    "date_maj": "2026-11-26T12:45:41",
+    "date_publication": "2026-11-26T12:50:00",
+    "date_maj": "2026-11-26T13:01:14",
     "precision": "commune"
    },
    "geometry": {
@@ -143,27 +109,27 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 1,
+    "importance": 2,
     "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
     "signale": "oui",
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
-    "pr_debut": "321+83",
-    "pr_fin": "",
-    "longueur_km": "",
+    "pr_debut": "320+800",
+    "pr_fin": "321+100",
+    "longueur_km": 0.3,
     "commune": "Chagny",
     "commune_fin": "",
-    "heure_evt": "",
+    "heure_evt": "2026-11-26T12:32:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 321+83, à Chagny, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "bf0c4d59d46a",
+    "texte": "À 12h32, Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 321+83, à Chagny, Sur bande d'arrêt d'urgence ; À 12h42, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 320+800 et 321+100 (sur 0,3 km), Sur voie de droite, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "ba286f1e016b",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-26T12:35:00",
-    "date_maj": "2026-11-26T12:45:41",
+    "date_publication": "2026-11-26T12:50:00",
+    "date_maj": "2026-11-26T13:01:14",
     "precision": "commune"
    },
    "geometry": {
@@ -196,8 +162,8 @@
     "evt_id": "1e419dfdb2f9",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-26T12:35:00",
-    "date_maj": "2026-11-26T12:45:41",
+    "date_publication": "2026-11-26T12:50:00",
+    "date_maj": "2026-11-26T13:01:14",
     "precision": "commune"
    },
    "geometry": {
