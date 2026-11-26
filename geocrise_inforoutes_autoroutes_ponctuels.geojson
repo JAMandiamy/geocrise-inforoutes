@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-26T04:05:00",
- "date_maj": "2026-11-26T04:15:45",
+ "date_publication": "2026-11-26T04:20:00",
+ "date_maj": "2026-11-26T04:21:16",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T04:05:00",
-    "date_maj": "2026-11-26T04:15:45",
+    "date_publication": "2026-11-26T04:20:00",
+    "date_maj": "2026-11-26T04:21:16",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A39",
-    "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "18",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Collonges-lès-Premières",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies neutralisées, toutes les voies, au PR 18, à Collonges-lès-Premières ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "8e9e906dea90",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T04:05:00",
-    "date_maj": "2026-11-26T04:15:45",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.28959,
-     47.22468
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "a1c5ea7cca37",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T04:05:00",
-    "date_maj": "2026-11-26T04:15:45",
+    "date_publication": "2026-11-26T04:20:00",
+    "date_maj": "2026-11-26T04:21:16",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T04:05:00",
-    "date_maj": "2026-11-26T04:15:45",
+    "date_publication": "2026-11-26T04:20:00",
+    "date_maj": "2026-11-26T04:21:16",
     "precision": "commune"
    },
    "geometry": {
