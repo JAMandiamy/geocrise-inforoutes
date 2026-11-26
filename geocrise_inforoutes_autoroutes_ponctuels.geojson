@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-26T12:20:00",
- "date_maj": "2026-11-26T12:31:02",
+ "date_publication": "2026-11-26T12:35:00",
+ "date_maj": "2026-11-26T12:45:41",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:20:00",
-    "date_maj": "2026-11-26T12:31:02",
+    "date_publication": "2026-11-26T12:35:00",
+    "date_maj": "2026-11-26T12:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "e5d820c56251",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:20:00",
-    "date_maj": "2026-11-26T12:31:02",
+    "date_publication": "2026-11-26T12:35:00",
+    "date_maj": "2026-11-26T12:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "5a6d1d27223d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:20:00",
-    "date_maj": "2026-11-26T12:31:02",
+    "date_publication": "2026-11-26T12:35:00",
+    "date_maj": "2026-11-26T12:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +128,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:20:00",
-    "date_maj": "2026-11-26T12:31:02",
+    "date_publication": "2026-11-26T12:35:00",
+    "date_maj": "2026-11-26T12:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +137,74 @@
     "coordinates": [
      4.55378,
      47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "321+83",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Chagny",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 321+83, à Chagny, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "bf0c4d59d46a",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-26T12:35:00",
+    "date_maj": "2026-11-26T12:45:41",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.78101,
+     46.89984
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - VL",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "190+400",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Nitry",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - VL, A6, de Paris vers Lyon (sens ouest-est), au PR 190+400, à Nitry, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "1e419dfdb2f9",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-26T12:35:00",
+    "date_maj": "2026-11-26T12:45:41",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.8787,
+     47.67598
     ]
    }
   }
