@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-26T14:05:00",
- "date_maj": "2026-11-26T14:15:48",
+ "date_publication": "2026-11-26T14:20:00",
+ "date_maj": "2026-11-26T14:31:01",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T14:05:00",
-    "date_maj": "2026-11-26T14:15:48",
+    "date_publication": "2026-11-26T14:20:00",
+    "date_maj": "2026-11-26T14:31:01",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T14:05:00",
-    "date_maj": "2026-11-26T14:15:48",
+    "date_publication": "2026-11-26T14:20:00",
+    "date_maj": "2026-11-26T14:31:01",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      4.55378,
      47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "380+937",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Mâcon",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, toutes les voies, au PR 380+937, à Mâcon ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a2e248424d10",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-26T14:20:00",
+    "date_maj": "2026-11-26T14:31:01",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83514,
+     46.36224
     ]
    }
   }
