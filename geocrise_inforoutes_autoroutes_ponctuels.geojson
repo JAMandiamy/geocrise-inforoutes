@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-26T12:05:00",
- "date_maj": "2026-11-26T12:15:44",
+ "date_publication": "2026-11-26T12:20:00",
+ "date_maj": "2026-11-26T12:31:02",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:05:00",
-    "date_maj": "2026-11-26T12:15:44",
+    "date_publication": "2026-11-26T12:20:00",
+    "date_maj": "2026-11-26T12:31:02",
     "precision": "commune"
    },
    "geometry": {
@@ -35,6 +35,40 @@
     "coordinates": [
      4.86715,
      47.05233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A31",
+    "sens": "sud-nord",
+    "direction": "Lyon → Luxembourg",
+    "pr_debut": "22+300",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Gilly-lès-Cîteaux",
+    "commune_fin": "",
+    "heure_evt": "2026-11-26T12:15:00",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "À 12h15, Obstacle, A31, de Lyon vers Luxembourg (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 22+300, à Gilly-lès-Cîteaux ; À 12h18, Véhicule arrêté - PL, au PR 22+700, à Morey-Saint-Denis, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "e5d820c56251",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-26T12:20:00",
+    "date_maj": "2026-11-26T12:31:02",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.99316,
+     47.17507
     ]
    }
   },
@@ -60,8 +94,8 @@
     "evt_id": "5a6d1d27223d",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:05:00",
-    "date_maj": "2026-11-26T12:15:44",
+    "date_publication": "2026-11-26T12:20:00",
+    "date_maj": "2026-11-26T12:31:02",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +128,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:05:00",
-    "date_maj": "2026-11-26T12:15:44",
+    "date_publication": "2026-11-26T12:20:00",
+    "date_maj": "2026-11-26T12:31:02",
     "precision": "commune"
    },
    "geometry": {
