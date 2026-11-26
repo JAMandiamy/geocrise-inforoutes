@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-26T01:50:00",
- "date_maj": "2026-11-26T02:01:02",
+ "date_publication": "2026-11-26T02:05:00",
+ "date_maj": "2026-11-26T02:16:26",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T01:50:00",
-    "date_maj": "2026-11-26T02:01:02",
+    "date_publication": "2026-11-26T02:05:00",
+    "date_maj": "2026-11-26T02:16:26",
     "precision": "commune"
    },
    "geometry": {
@@ -48,20 +48,20 @@
     "route": "A6",
     "sens": "sud-nord",
     "direction": "Lyon → Paris",
-    "pr_debut": "237+800",
-    "pr_fin": "237+400",
-    "longueur_km": 0.4,
+    "pr_debut": "237+750",
+    "pr_fin": "237+500",
+    "longueur_km": 0.3,
     "commune": "Roilly",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 237+800 et 237+400 (sur 0,4 km), à Roilly, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "4103a572deb4",
+    "texte": "Réduction du nombre de voies, applicable à tous les véhicules, A6, de Lyon vers Paris (sens sud-nord), entre les PR 237+750 et 237+500 (sur 0,3 km), à Roilly, sur bande d'arrêt d'urgence, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a1c5ea7cca37",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T01:50:00",
-    "date_maj": "2026-11-26T02:01:02",
+    "date_publication": "2026-11-26T02:05:00",
+    "date_maj": "2026-11-26T02:16:26",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T01:50:00",
-    "date_maj": "2026-11-26T02:01:02",
+    "date_publication": "2026-11-26T02:05:00",
+    "date_maj": "2026-11-26T02:16:26",
     "precision": "commune"
    },
    "geometry": {
