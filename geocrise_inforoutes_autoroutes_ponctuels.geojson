@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-26T12:50:00",
- "date_maj": "2026-11-26T13:01:14",
+ "date_publication": "2026-11-26T13:20:00",
+ "date_maj": "2026-11-26T13:21:40",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:50:00",
-    "date_maj": "2026-11-26T13:01:14",
+    "date_publication": "2026-11-26T13:20:00",
+    "date_maj": "2026-11-26T13:21:40",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Véhicule arrêté - PL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
-    "pr_debut": "47+483",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Arc-sur-Tille",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - PL, A31, de Lyon vers Luxembourg (sens sud-nord), Impact : voies rétrécies, toutes les voies, au PR 47+483, à Arc-sur-Tille, situé sur la bretelle de sortie de l'échangeur, Sur 0 m ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "5a6d1d27223d",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:50:00",
-    "date_maj": "2026-11-26T13:01:14",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.20203,
-     47.33945
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-26T12:50:00",
-    "date_maj": "2026-11-26T13:01:14",
+    "date_publication": "2026-11-26T13:20:00",
+    "date_maj": "2026-11-26T13:21:40",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "ba286f1e016b",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-26T12:50:00",
-    "date_maj": "2026-11-26T13:01:14",
+    "date_publication": "2026-11-26T13:20:00",
+    "date_maj": "2026-11-26T13:21:40",
     "precision": "commune"
    },
    "geometry": {
@@ -137,40 +103,6 @@
     "coordinates": [
      4.78101,
      46.89984
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "190+400",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Nitry",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A6, de Paris vers Lyon (sens ouest-est), au PR 190+400, à Nitry, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1e419dfdb2f9",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-26T12:50:00",
-    "date_maj": "2026-11-26T13:01:14",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.8787,
-     47.67598
     ]
    }
   }
