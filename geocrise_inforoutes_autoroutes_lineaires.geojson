@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-27T15:20:00",
- "date_maj": "2026-11-27T15:30:57",
+ "date_publication": "2026-11-27T15:35:00",
+ "date_maj": "2026-11-27T15:45:41",
  "features": [
   {
    "type": "Feature",
@@ -22,12 +22,12 @@
     "heure_evt": "2026-11-27T14:30:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 14h30, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, entre les PR 283+350 et 283+600 (sur 0,3 km), de Thorey-sur-Ouche à Bligny-sur-Ouche, Sur voie véhicules lents, sur bande d'arrêt d'urgence, sur accotement, La mesure est obligatoire ; À 15h07, Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 283+400, à Thorey-sur-Ouche ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "19ac42008d14",
+    "texte": "À 14h30, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, entre les PR 283+350 et 283+600 (sur 0,3 km), de Thorey-sur-Ouche à Bligny-sur-Ouche, Sur voie véhicules lents, sur bande d'arrêt d'urgence, sur accotement, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "a99b966b4899",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T15:20:00",
-    "date_maj": "2026-11-27T15:30:57",
+    "date_publication": "2026-11-27T15:35:00",
+    "date_maj": "2026-11-27T15:45:41",
     "precision": "communes (début → fin)"
    },
    "geometry": {
