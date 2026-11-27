@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-27T20:20:00",
- "date_maj": "2026-11-27T20:30:52",
+ "date_publication": "2026-11-27T20:35:00",
+ "date_maj": "2026-11-27T20:45:40",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "233+500",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Courcelles-lès-Semur",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 233+500, à Courcelles-lès-Semur ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "db2bef252157",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T20:20:00",
-    "date_maj": "2026-11-27T20:30:52",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.30376,
-     47.44882
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T20:20:00",
-    "date_maj": "2026-11-27T20:30:52",
+    "date_publication": "2026-11-27T20:35:00",
+    "date_maj": "2026-11-27T20:45:40",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "f89a0aa3e87f",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-27T20:20:00",
-    "date_maj": "2026-11-27T20:30:52",
+    "date_publication": "2026-11-27T20:35:00",
+    "date_maj": "2026-11-27T20:45:40",
     "precision": "commune"
    },
    "geometry": {
