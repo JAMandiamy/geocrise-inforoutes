@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-27T21:05:00",
- "date_maj": "2026-11-27T21:15:41",
+ "date_publication": "2026-11-27T21:20:00",
+ "date_maj": "2026-11-27T21:30:55",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "235+500",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Bierre-lès-Semur",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 235+500, à Bierre-lès-Semur ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "ce23e216cee6",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T21:05:00",
-    "date_maj": "2026-11-27T21:15:41",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.29874,
-     47.42326
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T21:05:00",
-    "date_maj": "2026-11-27T21:15:41",
+    "date_publication": "2026-11-27T21:20:00",
+    "date_maj": "2026-11-27T21:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "40520f933e57",
     "dep": "89",
     "nom_dep": "Yonne",
-    "date_publication": "2026-11-27T21:05:00",
-    "date_maj": "2026-11-27T21:15:41",
+    "date_publication": "2026-11-27T21:20:00",
+    "date_maj": "2026-11-27T21:30:55",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +69,40 @@
     "coordinates": [
      3.99397,
      47.53963
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "197+600",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Joux-la-Ville",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), au PR 197+600, à Joux-la-Ville, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "0c34d08f4910",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-27T21:20:00",
+    "date_maj": "2026-11-27T21:30:55",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.86054,
+     47.61768
     ]
    }
   }
