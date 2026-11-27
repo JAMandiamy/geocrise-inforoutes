@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-27T19:50:00",
- "date_maj": "2026-11-27T20:01:06",
+ "date_publication": "2026-11-27T20:05:00",
+ "date_maj": "2026-11-27T20:15:47",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "233+500",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Courcelles-lès-Semur",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), au PR 233+500, à Courcelles-lès-Semur ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "db2bef252157",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-27T20:05:00",
+    "date_maj": "2026-11-27T20:15:47",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.30376,
+     47.44882
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T19:50:00",
-    "date_maj": "2026-11-27T20:01:06",
+    "date_publication": "2026-11-27T20:05:00",
+    "date_maj": "2026-11-27T20:15:47",
     "precision": "commune"
    },
    "geometry": {
@@ -42,33 +76,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté - VL",
+    "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
     "signale": "oui",
-    "route": "A19",
+    "route": "A6",
     "sens": "nord-sud",
-    "direction": "Sens (A5) → Orléans (A10)",
-    "pr_debut": "14+550",
+    "direction": "Paris → Lyon",
+    "pr_debut": "280",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Villeroy",
+    "commune": "Thorey-sur-Ouche",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté - VL - Événement signalé, A19, de Sens (A5) vers Orléans (A10) (sens nord-sud), au PR 14+550, à Villeroy ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "a2eecfa9ef11",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-27T19:50:00",
-    "date_maj": "2026-11-27T20:01:06",
+    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 280, à Thorey-sur-Ouche, Sur voie de gauche ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "bbbcb1aa63a6",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-27T20:05:00",
+    "date_maj": "2026-11-27T20:15:47",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.18398,
-     48.18216
+     4.69167,
+     47.14811
     ]
    }
   }
