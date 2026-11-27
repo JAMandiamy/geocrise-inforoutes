@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-27T08:05:00",
- "date_maj": "2026-11-27T08:30:55",
+ "date_publication": "2026-11-27T08:35:00",
+ "date_maj": "2026-11-27T08:45:41",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T08:05:00",
-    "date_maj": "2026-11-27T08:30:55",
+    "date_publication": "2026-11-27T08:35:00",
+    "date_maj": "2026-11-27T08:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T08:05:00",
-    "date_maj": "2026-11-27T08:30:55",
+    "date_publication": "2026-11-27T08:35:00",
+    "date_maj": "2026-11-27T08:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,40 @@
     "coordinates": [
      4.55378,
      47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "284",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Bligny-sur-Ouche",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), au PR 284, à Bligny-sur-Ouche ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "409afc9a7250",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-27T08:35:00",
+    "date_maj": "2026-11-27T08:45:41",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.68927,
+     47.11676
     ]
    }
   },
@@ -94,8 +128,8 @@
     "evt_id": "8e0b4ab786eb",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T08:05:00",
-    "date_maj": "2026-11-27T08:30:55",
+    "date_publication": "2026-11-27T08:35:00",
+    "date_maj": "2026-11-27T08:45:41",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +137,40 @@
     "coordinates": [
      4.79446,
      47.07968
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
+    "signale": "non",
+    "route": "A6",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "150+165",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Appoigny",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Animal errant, A6 (deux sens), au PR 150+165, à Appoigny ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "4bcbf487e693",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-27T08:35:00",
+    "date_maj": "2026-11-27T08:45:41",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.52221,
+     47.86718
     ]
    }
   }
