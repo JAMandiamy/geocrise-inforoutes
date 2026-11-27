@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-27T14:20:00",
- "date_maj": "2026-11-27T14:50:39",
+ "date_publication": "2026-11-27T14:50:00",
+ "date_maj": "2026-11-27T15:01:16",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "4e93c3eeefd8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T14:20:00",
-    "date_maj": "2026-11-27T14:50:39",
+    "date_publication": "2026-11-27T14:50:00",
+    "date_maj": "2026-11-27T15:01:16",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.86715,
      47.05233
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A31",
-    "sens": "sud-nord",
-    "direction": "Lyon → Luxembourg",
-    "pr_debut": "18+200",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Flagey-Echézeaux",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A31, de Lyon vers Luxembourg (sens sud-nord), au PR 18+200, à Flagey-Echézeaux ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1e81e6b4f60c",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T14:20:00",
-    "date_maj": "2026-11-27T14:50:39",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.98618,
-     47.16079
     ]
    }
   },
@@ -94,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T14:20:00",
-    "date_maj": "2026-11-27T14:50:39",
+    "date_publication": "2026-11-27T14:50:00",
+    "date_maj": "2026-11-27T15:01:16",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "28021e74b8f8",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T14:20:00",
-    "date_maj": "2026-11-27T14:50:39",
+    "date_publication": "2026-11-27T14:50:00",
+    "date_maj": "2026-11-27T15:01:16",
     "precision": "communes (début → fin)"
    },
    "geometry": {
