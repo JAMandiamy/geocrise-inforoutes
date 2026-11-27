@@ -1,48 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-27T15:35:00",
- "date_maj": "2026-11-27T15:45:41",
- "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Réduction du nombre de voies",
-    "groupe": "3 - Fermetures et déviations",
-    "signale": "non",
-    "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "283+350",
-    "pr_fin": "283+600",
-    "longueur_km": 0.3,
-    "commune": "Thorey-sur-Ouche",
-    "commune_fin": "Bligny-sur-Ouche",
-    "heure_evt": "2026-11-27T14:30:00",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "À 14h30, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, entre les PR 283+350 et 283+600 (sur 0,3 km), de Thorey-sur-Ouche à Bligny-sur-Ouche, Sur voie véhicules lents, sur bande d'arrêt d'urgence, sur accotement, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "a99b966b4899",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T15:35:00",
-    "date_maj": "2026-11-27T15:45:41",
-    "precision": "communes (début → fin)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.69167,
-      47.14811
-     ],
-     [
-      4.68927,
-      47.11676
-     ]
-    ]
-   }
-  }
- ]
+ "date_publication": "2026-11-27T15:50:00",
+ "date_maj": "2026-11-27T16:01:20",
+ "features": []
 }
