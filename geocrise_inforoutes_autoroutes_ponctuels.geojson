@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-27T16:50:00",
- "date_maj": "2026-11-27T17:01:08",
+ "date_publication": "2026-11-27T17:05:00",
+ "date_maj": "2026-11-27T17:15:36",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T16:50:00",
-    "date_maj": "2026-11-27T17:01:08",
+    "date_publication": "2026-11-27T17:05:00",
+    "date_maj": "2026-11-27T17:15:36",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.55378,
      47.26349
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "ouest-est",
-    "direction": "Paris → Lyon",
-    "pr_debut": "179",
-    "pr_fin": "180",
-    "longueur_km": 1.0,
-    "commune": "Saint-Cyr-les-Colons",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), entre les PR 179 et 180 (sur 1,0 km), à Saint-Cyr-les-Colons, sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "49f0ebe0c4bf",
-    "dep": "89",
-    "nom_dep": "Yonne",
-    "date_publication": "2026-11-27T16:50:00",
-    "date_maj": "2026-11-27T17:01:08",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.7738,
-     47.72967
     ]
    }
   }
