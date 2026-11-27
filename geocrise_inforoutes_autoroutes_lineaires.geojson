@@ -1,15 +1,15 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_lineaires",
- "date_publication": "2026-11-27T15:05:00",
- "date_maj": "2026-11-27T15:15:47",
+ "date_publication": "2026-11-27T15:20:00",
+ "date_maj": "2026-11-27T15:30:57",
  "features": [
   {
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Accident",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Réduction du nombre de voies",
+    "groupe": "3 - Fermetures et déviations",
     "signale": "non",
     "route": "A6",
     "sens": "nord-sud",
@@ -19,15 +19,15 @@
     "longueur_km": 0.3,
     "commune": "Thorey-sur-Ouche",
     "commune_fin": "Bligny-sur-Ouche",
-    "heure_evt": "2026-11-27T14:18:00",
+    "heure_evt": "2026-11-27T14:30:00",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 14h18, Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, au PR 283+400, à Thorey-sur-Ouche, Sur voie véhicules lents, sur bande d'arrêt d'urgence, sur accotement ; À 14h20, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), entre les PR 283+350 et 283+600 (sur 0,3 km), de Thorey-sur-Ouche à Bligny-sur-Ouche, La mesure est obligatoire ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "28021e74b8f8",
+    "texte": "À 14h30, Réduction du nombre de voies, applicable à tous les véhicules, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernéeImpact : voies neutralisées, 1 voie concernée, entre les PR 283+350 et 283+600 (sur 0,3 km), de Thorey-sur-Ouche à Bligny-sur-Ouche, Sur voie véhicules lents, sur bande d'arrêt d'urgence, sur accotement, La mesure est obligatoire ; À 15h07, Accident, 1 VL, A6, de Paris vers Lyon (sens nord-sud), au PR 283+400, à Thorey-sur-Ouche ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "19ac42008d14",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T15:05:00",
-    "date_maj": "2026-11-27T15:15:47",
+    "date_publication": "2026-11-27T15:20:00",
+    "date_maj": "2026-11-27T15:30:57",
     "precision": "communes (début → fin)"
    },
    "geometry": {
