@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-27T20:05:00",
- "date_maj": "2026-11-27T20:15:47",
+ "date_publication": "2026-11-27T20:20:00",
+ "date_maj": "2026-11-27T20:30:52",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "db2bef252157",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T20:05:00",
-    "date_maj": "2026-11-27T20:15:47",
+    "date_publication": "2026-11-27T20:20:00",
+    "date_maj": "2026-11-27T20:30:52",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T20:05:00",
-    "date_maj": "2026-11-27T20:15:47",
+    "date_publication": "2026-11-27T20:20:00",
+    "date_maj": "2026-11-27T20:30:52",
     "precision": "commune"
    },
    "geometry": {
@@ -76,33 +76,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Animal errant",
+    "groupe": "2 - Météo et environnement",
     "signale": "oui",
     "route": "A6",
-    "sens": "nord-sud",
-    "direction": "Paris → Lyon",
-    "pr_debut": "280",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "173+938",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Thorey-sur-Ouche",
+    "commune": "Saint-Cyr-les-Colons",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), Impact : voies neutralisées, 1 voie concernée, au PR 280, à Thorey-sur-Ouche, Sur voie de gauche ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "bbbcb1aa63a6",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-27T20:05:00",
-    "date_maj": "2026-11-27T20:15:47",
+    "texte": "Animal errant - Événement signalé, A6 (deux sens), au PR 173+938, à Saint-Cyr-les-Colons ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f89a0aa3e87f",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-27T20:20:00",
+    "date_maj": "2026-11-27T20:30:52",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.69167,
-     47.14811
+     3.7738,
+     47.72967
     ]
    }
   }
