@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-28T10:35:00",
- "date_maj": "2026-11-28T10:45:36",
+ "date_publication": "2026-11-28T10:50:00",
+ "date_maj": "2026-11-28T11:01:10",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T10:35:00",
-    "date_maj": "2026-11-28T10:45:36",
+    "date_publication": "2026-11-28T10:50:00",
+    "date_maj": "2026-11-28T11:01:10",
     "precision": "commune"
    },
    "geometry": {
@@ -41,27 +41,27 @@
   {
    "type": "Feature",
    "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
+    "importance": 1,
+    "type_evt": "Véhicule arrêté - VL",
+    "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A39",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "100+982",
+    "sens": "nord-sud",
+    "direction": "Dijon → Bourg-en-Bresse",
+    "pr_debut": "100+700",
     "pr_fin": "",
     "longueur_km": "",
     "commune": "Savigny-en-Revermont",
     "commune_fin": "",
-    "heure_evt": "2026-11-28T10:26:00",
+    "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "À 10h26, Animal errant, A39 (deux sens), Impact : voies neutralisées, 2 voies concernéesImpact : voies neutralisées, 2 voies concernées, au PR 100+982, à Savigny-en-Revermont ; À 10h31, Véhicule arrêté - VL, au PR 100+982, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "1eb1e2ee472c",
+    "texte": "Véhicule arrêté - VL, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies neutralisées, toutes les voies, au PR 100+700, à Savigny-en-Revermont, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f5c0efad6cdb",
     "dep": "71",
     "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-28T10:35:00",
-    "date_maj": "2026-11-28T10:45:36",
+    "date_publication": "2026-11-28T10:50:00",
+    "date_maj": "2026-11-28T11:01:10",
     "precision": "commune"
    },
    "geometry": {
