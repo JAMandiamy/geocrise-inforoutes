@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-28T14:20:00",
- "date_maj": "2026-11-28T14:30:52",
+ "date_publication": "2026-11-28T14:35:00",
+ "date_maj": "2026-11-28T14:45:33",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A36",
-    "sens": "est-ouest",
-    "direction": "Mulhouse → Beaune",
-    "pr_debut": "174+200",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Flagey-lès-Auxonne",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle, A36, de Mulhouse vers Beaune (sens est-ouest), au PR 174+200, à Flagey-lès-Auxonne ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "b555a8ad78b8",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T14:20:00",
-    "date_maj": "2026-11-28T14:30:52",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.39919,
-     47.12978
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "adb338ada489",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T14:20:00",
-    "date_maj": "2026-11-28T14:30:52",
+    "date_publication": "2026-11-28T14:35:00",
+    "date_maj": "2026-11-28T14:45:33",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T14:20:00",
-    "date_maj": "2026-11-28T14:30:52",
+    "date_publication": "2026-11-28T14:35:00",
+    "date_maj": "2026-11-28T14:45:33",
     "precision": "commune"
    },
    "geometry": {
@@ -128,8 +94,8 @@
     "evt_id": "012617b4d4a9",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T14:20:00",
-    "date_maj": "2026-11-28T14:30:52",
+    "date_publication": "2026-11-28T14:35:00",
+    "date_maj": "2026-11-28T14:45:33",
     "precision": "commune"
    },
    "geometry": {
@@ -137,6 +103,40 @@
     "coordinates": [
      4.83008,
      47.02744
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 1,
+    "type_evt": "Véhicule arrêté",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A5",
+    "sens": "ouest-est",
+    "direction": "Paris → Dijon",
+    "pr_debut": "83+900",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Molinons",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Véhicule arrêté, A5, de Paris vers Dijon (sens ouest-est), au PR 83+900, à Molinons, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c1204ba88dac",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-28T14:35:00",
+    "date_maj": "2026-11-28T14:45:33",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.54032,
+     48.22186
     ]
    }
   }
