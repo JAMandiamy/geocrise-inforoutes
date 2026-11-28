@@ -1,40 +1,40 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-28T11:05:00",
- "date_maj": "2026-11-28T11:15:38",
+ "date_publication": "2026-11-28T11:20:00",
+ "date_maj": "2026-11-28T11:30:57",
  "features": [
   {
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Véhicule arrêté",
-    "groupe": "1 - Accidents et obstacles",
+    "type_evt": "Animal écrasé",
+    "groupe": "2 - Météo et environnement",
     "signale": "oui",
-    "route": "A39",
-    "sens": "nord-sud",
-    "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "25",
+    "route": "A6",
+    "sens": "deux sens",
+    "direction": "",
+    "pr_debut": "250+975",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Pont",
+    "commune": "Thorey-sous-Charny",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté - Événement signalé, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies neutralisées, toutes les voies, au PR 25, à Pont, Sur bande d'arrêt d'urgence ; Obstacle - Événement signalé, au PR 25 ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "c7fbbee878d9",
+    "texte": "Animal écrasé - Événement signalé, A6 (deux sens), au PR 250+975, à Thorey-sous-Charny ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "67cccb1280e0",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T11:05:00",
-    "date_maj": "2026-11-28T11:15:38",
+    "date_publication": "2026-11-28T11:20:00",
+    "date_maj": "2026-11-28T11:30:57",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.32499,
-     47.18145
+     4.45739,
+     47.33208
     ]
    }
   },
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T11:05:00",
-    "date_maj": "2026-11-28T11:15:38",
+    "date_publication": "2026-11-28T11:20:00",
+    "date_maj": "2026-11-28T11:30:57",
     "precision": "commune"
    },
    "geometry": {
@@ -76,33 +76,33 @@
    "type": "Feature",
    "properties": {
     "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
+    "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A39",
     "sens": "nord-sud",
     "direction": "Dijon → Bourg-en-Bresse",
-    "pr_debut": "100+700",
+    "pr_debut": "25",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Savigny-en-Revermont",
+    "commune": "Pont",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), Impact : voies neutralisées, toutes les voies, au PR 100+700, à Savigny-en-Revermont, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "f5c0efad6cdb",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-28T11:05:00",
-    "date_maj": "2026-11-28T11:15:38",
+    "texte": "Véhicule arrêté, A39, de Dijon vers Bourg-en-Bresse (sens nord-sud), au PR 25, à Pont, Hors voie de circulation, sur accotement ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "dae7009bf5e4",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-28T11:20:00",
+    "date_maj": "2026-11-28T11:30:57",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.38979,
-     46.63608
+     5.32499,
+     47.18145
     ]
    }
   }
