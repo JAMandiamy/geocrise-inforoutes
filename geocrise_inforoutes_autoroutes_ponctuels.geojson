@@ -1,43 +1,9 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-28T13:50:00",
- "date_maj": "2026-11-28T14:01:00",
+ "date_publication": "2026-11-28T14:05:00",
+ "date_maj": "2026-11-28T14:15:42",
  "features": [
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 2,
-    "type_evt": "Animal errant",
-    "groupe": "2 - Météo et environnement",
-    "signale": "non",
-    "route": "A39",
-    "sens": "deux sens",
-    "direction": "",
-    "pr_debut": "3+110",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Sennecey-lès-Dijon",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Animal errant, A39 (deux sens), au PR 3+110, à Sennecey-lès-Dijon ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "e3cad924bdcc",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T13:50:00",
-    "date_maj": "2026-11-28T14:01:00",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.10504,
-     47.29184
-    ]
-   }
-  },
   {
    "type": "Feature",
    "properties": {
@@ -60,8 +26,8 @@
     "evt_id": "adb338ada489",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T13:50:00",
-    "date_maj": "2026-11-28T14:01:00",
+    "date_publication": "2026-11-28T14:05:00",
+    "date_maj": "2026-11-28T14:15:42",
     "precision": "commune"
    },
    "geometry": {
@@ -94,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T13:50:00",
-    "date_maj": "2026-11-28T14:01:00",
+    "date_publication": "2026-11-28T14:05:00",
+    "date_maj": "2026-11-28T14:15:42",
     "precision": "commune"
    },
    "geometry": {
@@ -103,6 +69,40 @@
     "coordinates": [
      4.55378,
      47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "nord-sud",
+    "direction": "Paris → Lyon",
+    "pr_debut": "304+400",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Vignoles",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 304+400, à Vignoles ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "c41559ce0958",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-28T14:05:00",
+    "date_maj": "2026-11-28T14:15:42",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.88104,
+     47.02533
     ]
    }
   }
