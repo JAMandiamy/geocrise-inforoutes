@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-28T06:20:00",
- "date_maj": "2026-11-28T06:30:59",
+ "date_publication": "2026-11-28T06:35:00",
+ "date_maj": "2026-11-28T06:45:51",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T06:20:00",
-    "date_maj": "2026-11-28T06:30:59",
+    "date_publication": "2026-11-28T06:35:00",
+    "date_maj": "2026-11-28T06:45:51",
     "precision": "commune"
    },
    "geometry": {
