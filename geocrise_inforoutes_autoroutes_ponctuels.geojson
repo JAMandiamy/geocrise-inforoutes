@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-28T20:05:00",
- "date_maj": "2026-11-28T20:30:52",
+ "date_publication": "2026-11-28T20:35:00",
+ "date_maj": "2026-11-28T20:45:40",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "adb338ada489",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T20:05:00",
-    "date_maj": "2026-11-28T20:30:52",
+    "date_publication": "2026-11-28T20:35:00",
+    "date_maj": "2026-11-28T20:45:40",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +60,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T20:05:00",
-    "date_maj": "2026-11-28T20:30:52",
+    "date_publication": "2026-11-28T20:35:00",
+    "date_maj": "2026-11-28T20:45:40",
     "precision": "commune"
    },
    "geometry": {
@@ -69,6 +69,74 @@
     "coordinates": [
      4.55378,
      47.26349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "sud-nord",
+    "direction": "Lyon → Paris",
+    "pr_debut": "342",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Saint-Ambreuil",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), Impact : voies rétrécies, 1 voie concernée, au PR 342, à Saint-Ambreuil ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "f30a10787730",
+    "dep": "71",
+    "nom_dep": "Saône-et-Loire",
+    "date_publication": "2026-11-28T20:35:00",
+    "date_maj": "2026-11-28T20:45:40",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81486,
+     46.67905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "oui",
+    "route": "A6",
+    "sens": "ouest-est",
+    "direction": "Paris → Lyon",
+    "pr_debut": "194",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Joux-la-Ville",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens ouest-est), Impact : voies rétrécies, 1 voie concernée, au PR 194, à Joux-la-Ville ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "fa268c774ca4",
+    "dep": "89",
+    "nom_dep": "Yonne",
+    "date_publication": "2026-11-28T20:35:00",
+    "date_maj": "2026-11-28T20:45:40",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.86054,
+     47.61768
     ]
    }
   }
