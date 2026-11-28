@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-28T02:50:00",
- "date_maj": "2026-11-28T03:01:03",
+ "date_publication": "2026-11-28T03:05:00",
+ "date_maj": "2026-11-28T03:15:44",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T02:50:00",
-    "date_maj": "2026-11-28T03:01:03",
+    "date_publication": "2026-11-28T03:05:00",
+    "date_maj": "2026-11-28T03:15:44",
     "precision": "commune"
    },
    "geometry": {
@@ -35,40 +35,6 @@
     "coordinates": [
      4.55378,
      47.26349
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Véhicule arrêté - VL",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "non",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "260+700",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Thoisy-le-Désert",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Véhicule arrêté - VL, A6, de Lyon vers Paris (sens sud-nord), au PR 260+700, à Thoisy-le-Désert, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "70e9d9f34586",
-    "dep": "21",
-    "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T02:50:00",
-    "date_maj": "2026-11-28T03:01:03",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.52148,
-     47.24999
     ]
    }
   }
