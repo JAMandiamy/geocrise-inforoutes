@@ -1,9 +1,43 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-28T14:05:00",
- "date_maj": "2026-11-28T14:15:42",
+ "date_publication": "2026-11-28T14:20:00",
+ "date_maj": "2026-11-28T14:30:52",
  "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "importance": 2,
+    "type_evt": "Obstacle",
+    "groupe": "1 - Accidents et obstacles",
+    "signale": "non",
+    "route": "A36",
+    "sens": "est-ouest",
+    "direction": "Mulhouse → Beaune",
+    "pr_debut": "174+200",
+    "pr_fin": "",
+    "longueur_km": "",
+    "commune": "Flagey-lès-Auxonne",
+    "commune_fin": "",
+    "heure_evt": "",
+    "origine": "SCA APRR DATEXII",
+    "concession": "oui",
+    "texte": "Obstacle, A36, de Mulhouse vers Beaune (sens est-ouest), au PR 174+200, à Flagey-lès-Auxonne ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "b555a8ad78b8",
+    "dep": "21",
+    "nom_dep": "Côte-d'Or",
+    "date_publication": "2026-11-28T14:20:00",
+    "date_maj": "2026-11-28T14:30:52",
+    "precision": "commune"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.39919,
+     47.12978
+    ]
+   }
+  },
   {
    "type": "Feature",
    "properties": {
@@ -26,8 +60,8 @@
     "evt_id": "adb338ada489",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T14:05:00",
-    "date_maj": "2026-11-28T14:15:42",
+    "date_publication": "2026-11-28T14:20:00",
+    "date_maj": "2026-11-28T14:30:52",
     "precision": "commune"
    },
    "geometry": {
@@ -60,8 +94,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T14:05:00",
-    "date_maj": "2026-11-28T14:15:42",
+    "date_publication": "2026-11-28T14:20:00",
+    "date_maj": "2026-11-28T14:30:52",
     "precision": "commune"
    },
    "geometry": {
@@ -76,33 +110,33 @@
    "type": "Feature",
    "properties": {
     "importance": 2,
-    "type_evt": "Obstacle",
+    "type_evt": "Véhicule arrêté",
     "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
+    "signale": "non",
     "route": "A6",
     "sens": "nord-sud",
     "direction": "Paris → Lyon",
-    "pr_debut": "304+400",
+    "pr_debut": "304+660",
     "pr_fin": "",
     "longueur_km": "",
-    "commune": "Vignoles",
+    "commune": "Beaune",
     "commune_fin": "",
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 304+400, à Vignoles ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "c41559ce0958",
+    "texte": "Véhicule arrêté, A6, de Paris vers Lyon (sens nord-sud), Impact : voies rétrécies, 1 voie concernée, au PR 304+660, à Beaune ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "012617b4d4a9",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T14:05:00",
-    "date_maj": "2026-11-28T14:15:42",
+    "date_publication": "2026-11-28T14:20:00",
+    "date_maj": "2026-11-28T14:30:52",
     "precision": "commune"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.88104,
-     47.02533
+     4.83008,
+     47.02744
     ]
    }
   }
