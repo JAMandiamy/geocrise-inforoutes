@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "geocrise_inforoutes_autoroutes_ponctuels",
- "date_publication": "2026-11-28T02:20:00",
- "date_maj": "2026-11-28T02:45:35",
+ "date_publication": "2026-11-28T02:50:00",
+ "date_maj": "2026-11-28T03:01:03",
  "features": [
   {
    "type": "Feature",
@@ -26,8 +26,8 @@
     "evt_id": "54e140c9fabf",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T02:20:00",
-    "date_maj": "2026-11-28T02:45:35",
+    "date_publication": "2026-11-28T02:50:00",
+    "date_maj": "2026-11-28T03:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -42,7 +42,7 @@
    "type": "Feature",
    "properties": {
     "importance": 1,
-    "type_evt": "Véhicule arrêté",
+    "type_evt": "Véhicule arrêté - VL",
     "groupe": "1 - Accidents et obstacles",
     "signale": "non",
     "route": "A6",
@@ -56,12 +56,12 @@
     "heure_evt": "",
     "origine": "SCA APRR DATEXII",
     "concession": "oui",
-    "texte": "Véhicule arrêté, A6, de Lyon vers Paris (sens sud-nord), au PR 260+700, à Thoisy-le-Désert, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "a171e9f4f4e0",
+    "texte": "Véhicule arrêté - VL, A6, de Lyon vers Paris (sens sud-nord), au PR 260+700, à Thoisy-le-Désert, Sur bande d'arrêt d'urgence ; [Origine : SCA APRR DATEXII]",
+    "evt_id": "70e9d9f34586",
     "dep": "21",
     "nom_dep": "Côte-d'Or",
-    "date_publication": "2026-11-28T02:20:00",
-    "date_maj": "2026-11-28T02:45:35",
+    "date_publication": "2026-11-28T02:50:00",
+    "date_maj": "2026-11-28T03:01:03",
     "precision": "commune"
    },
    "geometry": {
@@ -69,40 +69,6 @@
     "coordinates": [
      4.52148,
      47.24999
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "importance": 1,
-    "type_evt": "Obstacle",
-    "groupe": "1 - Accidents et obstacles",
-    "signale": "oui",
-    "route": "A6",
-    "sens": "sud-nord",
-    "direction": "Lyon → Paris",
-    "pr_debut": "403",
-    "pr_fin": "",
-    "longueur_km": "",
-    "commune": "Saint-Symphorien-d'Ancelles",
-    "commune_fin": "",
-    "heure_evt": "",
-    "origine": "SCA APRR DATEXII",
-    "concession": "oui",
-    "texte": "Obstacle - Événement signalé, A6, de Lyon vers Paris (sens sud-nord), Impact : voies neutralisées, toutes les voies, au PR 403, à Saint-Symphorien-d'Ancelles, Hors voie de circulation, sur accotement ; [Origine : SCA APRR DATEXII]",
-    "evt_id": "8a5ba5c3d0c1",
-    "dep": "71",
-    "nom_dep": "Saône-et-Loire",
-    "date_publication": "2026-11-28T02:20:00",
-    "date_maj": "2026-11-28T02:45:35",
-    "precision": "commune"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.76985,
-     46.19241
     ]
    }
   }
